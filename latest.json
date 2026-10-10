@@ -1,12 +1,12 @@
 {
- "version": "1.0.3",
- "notes": "Por confirmar: selecionar vários de uma vez. Ao instalar uma versão nova à mão, a app deixa de abrir a versão antiga.",
- "date": "2026-10-10",
+ "version": "1.0.4",
+ "notes": "Temas sóbrios (Executivo, Grafite, Ardósia, Bordéus, Verde-banca, Papel) e escolha de letra em Definições.",
+ "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.3-macOS-arm64.dmg",
-   "sha256": "078b813e64a12283f37101f68049f535151af5001897fa06f588455cfe4a9254",
-   "size": 16105193
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.4-macOS-arm64.dmg",
+   "sha256": "af09088bf53de8c7fe8039702e77c73f956937bebe95f5bceb0c78405934ef92",
+   "size": 16104576
   }
  }
 }
