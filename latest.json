@@ -1,0 +1,12 @@
+{
+ "version": "1.0.1",
+ "notes": "Atualização automática: a app passa a avisar e a instalar versões novas sozinha.",
+ "date": "2026-10-10",
+ "assets": {
+  "macos-arm64": {
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.1-macOS-arm64.dmg",
+   "sha256": "8e8990bad943d365afb8e0a4d7bbe06ecaffc2e38370e2b64d5fcbfff6c9c337",
+   "size": 16100316
+  }
+ }
+}
