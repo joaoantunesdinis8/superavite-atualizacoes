@@ -1,12 +1,12 @@
 {
- "version": "1.0.4",
- "notes": "Temas sóbrios (Executivo, Grafite, Ardósia, Bordéus, Verde-banca, Papel) e escolha de letra em Definições.",
+ "version": "1.0.5",
+ "notes": "Modo privacidade, filtros por mês/trimestre/semestre, câmbio € / $ na Carteira, Créditos e empréstimos, calculadora FIRE e cofre de documentos.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.4-macOS-arm64.dmg",
-   "sha256": "af09088bf53de8c7fe8039702e77c73f956937bebe95f5bceb0c78405934ef92",
-   "size": 16104576
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.5-macOS-arm64.dmg",
+   "sha256": "2c27b9d1931d833e5d18cbd2cfcd4ddf64b7495b0d5371467129be6092f34094",
+   "size": 16137597
   }
  }
 }
