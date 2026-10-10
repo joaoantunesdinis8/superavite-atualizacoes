@@ -1,12 +1,12 @@
 {
- "version": "1.0.2",
- "notes": "Movimentos: selecionar vários de uma vez para dar a mesma categoria, marcar exceção ou apagar.",
+ "version": "1.0.3",
+ "notes": "Por confirmar: selecionar vários de uma vez. Ao instalar uma versão nova à mão, a app deixa de abrir a versão antiga.",
  "date": "2026-10-10",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.2-macOS-arm64.dmg",
-   "sha256": "e604b30e24cde3f3a359fd0e1035ced311e1cb76fd09963d86e83f9553b6cc2e",
-   "size": 16103305
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.3-macOS-arm64.dmg",
+   "sha256": "078b813e64a12283f37101f68049f535151af5001897fa06f588455cfe4a9254",
+   "size": 16105193
   }
  }
 }
