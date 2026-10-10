@@ -1,12 +1,12 @@
 {
- "version": "1.0.1",
- "notes": "Atualização automática: a app passa a avisar e a instalar versões novas sozinha.",
+ "version": "1.0.2",
+ "notes": "Movimentos: selecionar vários de uma vez para dar a mesma categoria, marcar exceção ou apagar.",
  "date": "2026-10-10",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.1-macOS-arm64.dmg",
-   "sha256": "8e8990bad943d365afb8e0a4d7bbe06ecaffc2e38370e2b64d5fcbfff6c9c337",
-   "size": 16100316
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.2-macOS-arm64.dmg",
+   "sha256": "e604b30e24cde3f3a359fd0e1035ced311e1cb76fd09963d86e83f9553b6cc2e",
+   "size": 16103305
   }
  }
 }
