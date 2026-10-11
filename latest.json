@@ -1,12 +1,12 @@
 {
- "version": "1.0.10",
- "notes": "Novo menu Mercados (índices S&P 500, Nasdaq 100, Dow Jones, STOXX Europe 600 e análises de empresas), questionário com escolhas múltiplas, menu Conselheiro, ganho não realizado no património e correção da sincronização da Trading 212.",
+ "version": "1.0.11",
+ "notes": "Análises de empresas: dossiers de NVIDIA, Broadcom, LVMH, Microsoft, Meta, Netflix e Hermès, com o PDF completo; detalhes recolhíveis.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.10-macOS-arm64.dmg",
-   "sha256": "4bae6c03254bc2033eb36781d0bbc903dae0960464c6bd1144318ec6def6e0a9",
-   "size": 23788735
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.11-macOS-arm64.dmg",
+   "sha256": "dc431a3847bdd7154b490cc7201dd375b2b582cabc1420ec09755e55cf53e5e9",
+   "size": 23792059
   }
  }
 }
