@@ -1,12 +1,12 @@
 {
- "version": "1.0.8",
- "notes": "Simuladores de impostos (IRS, Segurança Social, IRC, IVA, salário vs. dividendos), conselhos do Tio Dino (pessoal + empresa), Touch ID, transferências internas, créditos partilhados, carteira com TWR/MWR, dividendos e efeito cambial, definições compactas e apagar categorias.",
+ "version": "1.0.9",
+ "notes": "Questionário do Tio Dino com conselhos à sua medida; ligação à Trading 212 (API oficial, só leitura); compras de ações já não aparecem como transferências internas; relatórios mensais sempre atualizados.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.8-macOS-arm64.dmg",
-   "sha256": "f1a178e60cee2653b33e864668fb7d0cda1746c010a0d10f22afdf39f81bfcb5",
-   "size": 23933919
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.9-macOS-arm64.dmg",
+   "sha256": "13c938e7044b3a173a0c244261e8c9ccbdaa9c44182ae1183fe60c4b5a1031f2",
+   "size": 23770531
   }
  }
 }
