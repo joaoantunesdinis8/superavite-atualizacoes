@@ -88,5 +88,20 @@
   "fair_value": null,
   "pdf": "nflx-2026-10-09.pdf",
   "id": "nflx-2026-10-09"
+ },
+ {
+  "company": "Hermès International",
+  "sector": "Luxo",
+  "thesis": "Desenha, fabrica (sobretudo à mão, em França) e vende artigos de luxo absoluto — o motor é a marroquinaria (Birkin, Kelly, Constance): 7,07 mil M€ em 2025 (+9,5%), 44% das receitas, com procura estruturalmente acima da oferta; a casa raciona a produção (+6-7%/ano). SCA controlada pela 6.ª geração da família, fundada em 1837.\n\nNa data da análise a ação estava em forte queda (cerca de −28% em 12 meses, ~−33% face ao máximo de 52 semanas), com o múltiplo a comprimir de ~60x lucros (fev. 2025) para ~35x enquanto os fundamentais continuavam a crescer: o mercado castiga a Hermès pelo setor, não pela execução.\n\nRating do dossier: BUY (fraco/gradual, não Strong Buy) · convicção 65/100 · horizonte 10-20 anos. Estratégia sugerida: 1/3 já, 1/3 após os resultados do 1.º semestre, 1/3 reservado abaixo de €1.500.",
+  "strengths": "• Desacoplamento do setor: em 2025 cresceu +9% a câmbios constantes com margem operacional de 41%, enquanto a LVMH caiu −4,6% e a Kering −14,6%.\n• Moat “excecional”: marca + escassez autoimposta (zero descontos, outlets ou licenças), integração vertical (curtumes, ateliers, escola de artesãos), lock-in dos melhores clientes, 100% retalho próprio.\n• Pricing power demonstrável: Birkin/Kelly revendem-se acima do preço de loja.\n• Gestão alinhada (família ~66% do capital; holding H51 com 50,2% impede ofertas hostis); insiders compraram ~9 M€ entre €1.620 e €1.900 em março de 2026.\n• Visibilidade de capacidade: novos ateliers em 2027, 2028 e 2030; caixa líquida de 12,8 mil M€, sem dívida financeira.",
+  "risks": "• Ainda cara em termos absolutos: ~36x P/E forward, FCF yield ~2,3%; crescimento orgânico abrandou para +5,6% no 1.º trim. de 2026.\n• Dependência do preço vs volume (Birkin 25 +~11% acumulado nos EUA em 5 meses de 2026); se a elasticidade aparecer, um “6% grower” vale 22-25x (≈ €1.000-1.150).\n• China estruturalmente pior (Ásia-Pacífico ex-Japão = 42% das receitas).\n• Margem do 1.º semestre de 2026 (Kepler: ~−100 pb), FX (EUR forte: −290 M€ só no 1.º trim.), tarifas EUA de 10%.\n• Concentração de produto nas malas ícone (>50% do lucro, estimativa); processo nos EUA sobre “tying”; risco fiscal/político em França.\n• O que mataria a tese: prémio de revenda abaixo do preço de loja; marroquinaria < +5% durante 4+ trimestres; margem < 38%; sucessão falhada.",
+  "valuation": "Preço na análise ~€1.630 (capitalização ~171,5 mil M€; EV ~158,7 mil M€). 2025: receita 16,0 mil M€, margem bruta 71,1%, margem operacional 41,0%, FCF ajustado 3,88 mil M€, ROIC estimado >60%.\nDCF: bear ~€1.200 (−26%) · base ~€1.900 (+16%) · bull ~€2.700 (+66%); valor esperado ponderado ~€1.885. Intervalo honesto do valor intrínseco: €1.500-2.300.\nReverse DCF: o preço implica ~8,5-9,5%/ano de crescimento dos owner earnings — avaliado como razoável.\nPreço ideal de compra €1.480-1.520 · Strong Buy ≤ €1.350 · vender/reavaliar > €2.600.\n\nOpinião de quem escreveu a análise, para estudo; não é uma recomendação do Tio Dino.",
+  "author": "",
+  "symbol": "RMS.PA",
+  "date": "2026-07-10",
+  "verdict": "comprar",
+  "fair_value": 1900.0,
+  "pdf": "rms-pa-2026-07-10.pdf",
+  "id": "rms-pa-2026-07-10"
  }
 ]
