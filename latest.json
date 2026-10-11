@@ -1,12 +1,12 @@
 {
- "version": "1.0.16",
- "notes": "Correção importante: a app podia deixar de responder («Não é possível aceder a este site» ou «Internal Server Error») depois de abrir páginas com muitos logótipos, como o Valor intrínseco. Também: cotações que já não bloqueiam a app enquanto vão à internet, tabela do valor intrínseco aos poucos (100 de cada vez) e outras correções de estabilidade.",
+ "version": "1.0.17",
+ "notes": "Valor intrínseco: moat de cada empresa (wide, narrow, sem moat), nome e resumo do que faz a empresa (clique na linha), filtros por moat, diferença % e valor intrínseco, ordenar por qualquer coluna. Carteira: rebalancear ação a ação. Movimentos: saldos atuais de todas as contas, com totais. Artigos de Aprender reescritos e análises atualizadas. A importação por pasta já não confunde listas de ações com extratos.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.16-macOS-arm64.dmg",
-   "sha256": "b4c7774b0b52c47417964be38a94d20be0dc651cb9789e1a1c408cd8838fd006",
-   "size": 23412369
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.17-macOS-arm64.dmg",
+   "sha256": "ba576c09d1885a94b4ed8f43aa4c0c159a1b4035fbab1e59656b8868339eaee6",
+   "size": 24245491
   }
  }
 }
