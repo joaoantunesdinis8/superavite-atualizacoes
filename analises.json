@@ -403,5 +403,20 @@
   "fair_value": null,
   "pdf": "dg-pa-2026-05-29.pdf",
   "id": "dg-pa-2026-05-29"
+ },
+ {
+  "company": "Ferrari",
+  "sector": "Automóvel de luxo",
+  "thesis": "A Ferrari comporta-se e é avaliada como uma casa de luxo: volumes deliberadamente escassos, poder de preço e margens raras no setor (EBITDA de 38,8% em 2025). Em 2025 teve receitas de 7.146 milhões de EUR (+7%), lucro líquido de 1.600 milhões e fluxo de caixa livre industrial de 1.538 milhões, com dívida industrial líquida de cerca de 32 milhões.\n\nO tema do momento (maio de 2026) é o Ferrari Luce, o primeiro carro totalmente elétrico, a partir de 550.000 EUR, com receção muito negativa e queda acentuada da ação, cerca de 29% em 12 meses e perto dos mínimos de 52 semanas.\n\nO documento conclui que é \"um negócio de qualidade rara, a um preço que deixou de ser eufórico, mas com uma fonte de incerteza concreta (a estratégia elétrica)\". Diz expressamente que não é recomendação e sugere ao leitor construir o seu próprio DCF, pelo que fica classificada como estudo.",
+  "strengths": "• Marca e escassez: a procura excede a oferta, com carteira de encomendas até ao final de 2027.\n• Poder de preço e personalizações de margem muito elevada.\n• Margens de topo: EBITDA de 38,8%, EBIT de 29,5% e ROE de cerca de 42%.\n• Balanço quase sem dívida líquida industrial e capital devolvido (recompras de cerca de 3,5 mil milhões de EUR até 2030).\n• Orientação para 2026: receitas de cerca de 7,5 mil milhões de EUR e EBITDA de cerca de 2,93 mil milhões, confirmada após o 1.º trimestre.",
+  "risks": "• Receção negativa do Ferrari Luce e risco de diluição da marca na transição elétrica.\n• Avaliação elevada em termos absolutos: P/E de cerca de 31,5x e EV/EBITDA de cerca de 18,3x.\n• Plano estratégico para 2030 considerado conservador (queda de cerca de 14% no dia da apresentação).\n• Câmbio (euro forte), tarifas dos EUA e fraqueza na Grande China.\n• Crescimento de volume limitado por design e negócio concentrado numa única marca.",
+  "valuation": "• Cotação (29/05/2026): cerca de 333 a 347 USD na NYSE e cerca de 290 a 300 EUR em Milão; intervalo de 52 semanas na NYSE de 312,51 a 519,10 USD; capitalização de cerca de 58 mil milhões de USD.\n• P/E (12 meses) de cerca de 31,5x; P/E futuro de cerca de 28,9x; EV/EBITDA de cerca de 18,3x; PEG (5 anos) de cerca de 3,6; rendimento do dividendo de cerca de 1,2%.\n• Preços-alvo de analistas (em EUR): UBS 483, Deutsche Bank 460, Goldman Sachs 383, Bank of America 350, Jefferies 350, Morgan Stanley 330. Média citada entre cerca de 438 e 477 USD.\n• Modelos de terceiros situam o valor justo em cerca de 420 a 430 USD, muito sensível às hipóteses.\n• O documento não fixa um valor justo próprio.\n\nResumo da análise original; não é recomendação de investimento.",
+  "author": "João Maria",
+  "symbol": "RACE",
+  "date": "2026-05-29",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": null,
+  "id": "race-2026-05-29"
  }
 ]
