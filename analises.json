@@ -90,6 +90,21 @@
   "id": "orcl-2026-10-11"
  },
  {
+  "company": "TSMC",
+  "sector": "Semicondutores · Foundry",
+  "thesis": "A TSMC fabrica a maioria dos chips avançados do mundo para empresas sem fábricas próprias (Apple, Nvidia, AMD, Qualcomm, Broadcom). Em 2025 faturou 3,8 biliões de dólares taiwaneses (cerca de 122 mil milhões de dólares, +32%) e no 2.º trimestre de 2026 teve margem bruta recorde de 67,7%, com a computação de alto desempenho (sobretudo IA) a valer 66% da receita.\n\nO modelo de “foundry pura” (1987) — fabricar para outros sem competir com eles — criou uma liderança que se autorreforça: quem lidera vende os primeiros wafers mais caros e financia o nó seguinte antes dos concorrentes. Tem 72,5% da receita mundial de foundry.\n\nTensão central: operacionalmente das empresas de menor risco do mundo, geopoliticamente das de maior risco — a I&D e a produção de ponta estão em Taiwan.",
+  "strengths": "• Liderança tecnológica: primeiro com rendimento elevado em cada nó desde os 7 nm; 2 nm em produção.\n• Neutralidade: não compete com os clientes (a fraqueza estrutural da Samsung e da Intel).\n• Escala e ecossistema de design (Synopsys, Cadence, ARM) que tornam a mudança lenta e cara.\n• Empacotamento avançado (CoWoS), o gargalo dos chips de IA.\n• Capex de 60–64 mil milhões em 2026 financiado pelo fluxo de caixa; mais caixa do que dívida.",
+  "risks": "• Conflito, bloqueio ou quarentena em torno de Taiwan; sismos e falta de água.\n• Ciclo de investimento em IA: se o retorno desiludir, quedas como a de 2023 a partir de níveis mais altos.\n• Concentração de clientes (Apple e Nvidia acima de 40% da receita, estimativa).\n• Fábricas no estrangeiro (Arizona, Japão, Alemanha) diluem a margem 2–4 pontos; tarifas e controlos de exportação.\n• Câmbio (receita em dólares, custos em NT$) e um nó falhado que abra a porta à Intel ou à Samsung.",
+  "valuation": "2025: receita 3.809 mil milhões NT$ (+32%), margem operacional 50,9%, lucro líquido 1.698, FCF 1.003, caixa 3.069.\n12 meses até jun. 2026: receita 4.441 (+31%), margem operacional 56,1%, lucro 2.217, FCF 1.144.\nOrientação do 3.º trim. 2026: 44,6–45,8 mil milhões de dólares; crescimento em dólares em 2026 “ligeiramente acima de 40%”.\nA 10/10/2026: ~30× os lucros dos últimos 12 meses, múltiplo historicamente elevado para a TSMC.\nIndicadores: receita mensal (dia ~10), peso da HPC e dos 2 nm, margem bruta vs orientação, capex e FCF, tensão no Estreito.\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "TSM",
+  "date": "2026-10-11",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "tsm-2026-10-11.pdf",
+  "id": "tsm-2026-10-11"
+ },
+ {
   "company": "NVIDIA",
   "sector": "Semicondutores · IA",
   "thesis": "A principal fornecedora da infraestrutura de computação da IA. No ano fiscal de 2026 (fev. 2025 – jan. 2026) faturou 215,9 mil milhões de dólares, 90% dos centros de dados, com lucro líquido de 120,1 mil milhões; no 2.º trimestre do ano fiscal de 2027 a receita trimestral chegou a 96,2 mil milhões, o dobro do ano anterior.\n\nO resultado não nasceu com o ChatGPT: vem de trinta anos de apostas — a GPU programável, o CUDA em 2006, a viragem para as redes neuronais a partir de 2012, a compra da Mellanox em 2019 e a passagem de vender chips a vender sistemas completos. Muitas pareceram más durante anos.\n\nTensão central: posição competitiva excecional, mas a receita depende de um ciclo de investimento em centros de dados concentrado em poucos clientes muito ricos, todos com incentivos para reduzir essa dependência.",
