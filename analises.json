@@ -30,6 +30,21 @@
   "id": "tsla-2026-10-11"
  },
  {
+  "company": "Alphabet (Google)",
+  "sector": "Publicidade digital · Cloud · IA",
+  "thesis": "A Alphabet é a empresa-mãe; a Google (Pesquisa, YouTube, Android, Chrome, Cloud, Gemini) gera mais de 99% da receita. Em 2025 faturou 402,8 mil milhões de dólares com margem operacional de 32%, dos quais 73% vieram de publicidade.\n\nA IA ainda não reduziu a pesquisa — que acelerou em 2026 (+19% e +17% nos dois primeiros trimestres) — e a Google Cloud tornou-se o segundo motor (+82% e margem de 35,6% no 2.º trim. de 2026).\n\nTensão central: defender a pesquisa e crescer na Cloud obrigou a um capex de 195–205 mil milhões em 2026, que absorve a maior parte do fluxo de caixa e levou a empresa a emitir capital.\n\nNota de transparência do próprio dossier: foi redigido pelo Claude (Anthropic); a Anthropic é concorrente da Google em IA, cliente da Google Cloud e participada da Alphabet.",
+  "strengths": "• Distribuição por defeito (Android, Chrome, acordos com a Apple, Gemini no Siri).\n• Infraestrutura própria de baixo custo e chips TPU; venda de capacidade TPU a terceiros em 2026.\n• Negócio publicitário que financia tudo: ~295 mil milhões de publicidade em 2025.\n• Google DeepMind e o Gemini (mais de mil milhões de utilizadores mensais em ago. 2026).\n• Cloud com backlog de 514 mil milhões.",
+  "risks": "• Perda de tráfego de pesquisa para assistentes de IA de terceiros e monetização inferior das respostas geradas.\n• Intensidade de capital: FCF negativo em 5,9 mil milhões no 2.º trim. de 2026; capex “significativamente” maior em 2027.\n• Regulação: condenações antitrust nos EUA (pesquisa 2024, ad tech 2025) em recurso; DMA e ad tech na UE.\n• Rede (anúncios em sites de terceiros) em declínio.\n• Lucro inflacionado por ganhos não realizados com a SpaceX e a Anthropic (~136 mil milhões no 1.º semestre de 2026).",
+  "valuation": "2025: receita 402,8 mil milhões USD (+15%), lucro operacional 129,0 (32%), lucro líquido 132,2; pesquisa 224,5; YouTube ads 40,4; Cloud 58,7 com ~13,9 de resultado.\n12 meses até jun. 2026: receita 445,9, margem operacional 33%.\nA 10/10/2026 negociava a ~18× os lucros dos últimos 12 meses, mas o rácio está deflacionado pelos ganhos não realizados; o preço/free cash flow passou para ~81×.\nIndicadores: crescimento de “Search & other”, margem e backlog da Cloud, FCF, depreciação, decisões dos recursos antitrust.\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "GOOGL",
+  "date": "2026-10-11",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "googl-2026-10-11.pdf",
+  "id": "googl-2026-10-11"
+ },
+ {
   "company": "NVIDIA",
   "sector": "Semicondutores · IA",
   "thesis": "A principal fornecedora da infraestrutura de computação da IA. No ano fiscal de 2026 (fev. 2025 – jan. 2026) faturou 215,9 mil milhões de dólares, 90% dos centros de dados, com lucro líquido de 120,1 mil milhões; no 2.º trimestre do ano fiscal de 2027 a receita trimestral chegou a 96,2 mil milhões, o dobro do ano anterior.\n\nO resultado não nasceu com o ChatGPT: vem de trinta anos de apostas — a GPU programável, o CUDA em 2006, a viragem para as redes neuronais a partir de 2012, a compra da Mellanox em 2019 e a passagem de vender chips a vender sistemas completos. Muitas pareceram más durante anos.\n\nTensão central: posição competitiva excecional, mas a receita depende de um ciclo de investimento em centros de dados concentrado em poucos clientes muito ricos, todos com incentivos para reduzir essa dependência.",
