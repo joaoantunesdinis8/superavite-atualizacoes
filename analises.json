@@ -13,5 +13,20 @@
   "fair_value": null,
   "pdf": "nvda-2026-10-09.pdf",
   "id": "nvda-2026-10-09"
+ },
+ {
+  "company": "Broadcom",
+  "sector": "Semicondutores · Software",
+  "thesis": "A Broadcom de hoje é a Avago, antiga divisão de semicondutores da HP comprada por fundos em 2005, que adquiriu a Broadcom original em 2016. No ano fiscal de 2025 faturou 63,9 mil milhões de dólares (58% semicondutores, 42% software de infraestrutura) e gerou 26,9 mil milhões de free cash flow. No 3.º trimestre de FY2026 a receita subiu 86%, para 29,6 mil milhões, com 16,7 mil milhões de chips de IA.\n\nDuas identidades: o comprador disciplinado de Hock Tan (compra líderes de nicho, corta o não essencial, extrai caixa) e o parceiro de desenho dos chips de IA personalizados da Google, Meta, OpenAI e Anthropic — ao mesmo tempo alternativa e complemento da NVIDIA.\n\nTensão central: o modelo de aquisições criou muito valor para os acionistas, muitas vezes à custa de clientes e trabalhadores; e o crescimento atual depende de um punhado de clientes gigantes.",
+  "strengths": "• Propriedade intelectual de interligação (SerDes, empacotamento, HBM), base dos switches e dos aceleradores.\n• Liderança em switches Ethernet para centros de dados (Tomahawk, Jericho).\n• Dez anos de TPU com a Google: confiança acumulada no desenho de chips por encomenda.\n• Software (VMware, mainframe) com clientes cativos e margem operacional do segmento de cerca de 75–78%.\n• Disciplina de capital: investimento em ativos fixos de ~1% da receita, free cash flow acima de 40% da receita.",
+  "risks": "• Concentração em quatro ou cinco clientes de IA cujas compras a Broadcom não controla.\n• Saúde financeira da OpenAI e da Anthropic, que não são lucrativas.\n• Internalização pelos clientes (a Apple já substituiu o Wi-Fi/Bluetooth pelo chip N1).\n• Margem bruta a descer com o peso dos aceleradores e da memória.\n• Erosão da base VMware nas renovações de 2026–28, depois dos aumentos de preço.\n• Dívida de cerca de 59 mil milhões (jul. 2026); dependência de Hock Tan.",
+  "valuation": "FY2025: receita 63,9 mil milhões USD (+23,9%), margem bruta 67,8%, margem operacional 39,9%, lucro líquido 23,1, free cash flow 26,9, dívida líquida 49,0 (cerca de 35 em jul. 2026).\nMetas da gestão para a receita de IA: ~58 mil milhões em FY2026, ~115 em FY2027 e ~230 em FY2028 (resumos da teleconferência, não resultados).\nO lucro GAAP é enganador (amortização de aquisições, efeitos fiscais): o free cash flow é a melhor medida.\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "AVGO",
+  "date": "2026-10-09",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "avgo-2026-10-09.pdf",
+  "id": "avgo-2026-10-09"
  }
 ]
