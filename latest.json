@@ -1,12 +1,12 @@
 {
- "version": "1.0.12",
- "notes": "Novo botão «Esqueci-me da palavra-passe» com código de recuperação (gere o seu em Definições → Código de recuperação).",
+ "version": "1.0.13",
+ "notes": "Novo: «📱 Ver no telemóvel» (Definições) — consulte a carteira, o Painel, os movimentos e os orçamentos no iPhone, com os dados cifrados na sua iCloud Drive. Mais segurança: os segredos deixam de ir na exportação.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.12-macOS-arm64.dmg",
-   "sha256": "c47a6c5b3bdc8b2f5dd7255eab3132f9e0af05969c35c477d33112470c7a95ff",
-   "size": 23794801
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.13-macOS-arm64.dmg",
+   "sha256": "c802c90ac3b60187b4827a845af7e5fbd7e28f6b32b563022e5ac163293b3cf1",
+   "size": 23820928
   }
  }
 }
