@@ -60,6 +60,21 @@
   "id": "pltr-2026-10-11"
  },
  {
+  "company": "SAP",
+  "sector": "Software empresarial · Cloud",
+  "thesis": "A SAP é o sistema de gestão central de grande parte das maiores empresas do mundo e concluiu com sucesso a passagem das licenças para subscrições na cloud: em 2025 faturou 36,8 mil milhões de euros (57% em cloud), com resultado operacional não-IFRS recorde de 10,4 mil milhões e free cash flow de 8,2 mil milhões.\n\nA vantagem é a profundidade do bloqueio: décadas de configurações, dados e formação tornam a mudança de ERP um projeto de anos. A data de fim do suporte do ECC (2027, com extensões até 2033) empurra a migração para o S/4HANA na cloud (RISE).\n\nTensão central: em 2026 a ação caiu fortemente por receio de que agentes de IA reduzam o valor do software empresarial, embora os resultados continuem a crescer.\n\nNota de transparência do próprio dossier: foi redigido pelo Claude (Anthropic); a Anthropic é parceira da SAP desde 2026.",
+  "strengths": "• Custos de mudança muito altos e conhecimento de processos para mais de 25 indústrias.\n• Receita previsível: 86% em 2025 (cloud + suporte).\n• Current cloud backlog de 22,9 mil milhões (+26% em moeda constante) no 2.º trim. de 2026.\n• FCF forte com capex mínimo (~0,7 mil milhões/ano); previsão de ~10 mil milhões em 2026.\n• Joule, Business Data Cloud e mais de 200 agentes integrados nos processos.",
+  "risks": "• Disrupção por agentes de IA de terceiros que se colocam “por cima” do SAP e reduzem o valor por utilizador.\n• Abrandamento do backlog cloud.\n• Execução das migrações S/4HANA (longas, caras, adiáveis até 2030–2033).\n• Erosão do suporte (margem ~90%) mais rápida do que a cloud compensa.\n• Dependência dos hiperescaladores; câmbio (reporta em euros, fatura muito em dólares).",
+  "valuation": "2025: receita 36,8 mil milhões EUR (+8%; +11% em moeda constante), cloud 57%, resultado operacional não-IFRS 10,4, lucro IFRS 7,2, FCF 8,2.\n12 meses até jun. 2026: receita 38,2, cloud 61%, resultado não-IFRS 11,0, FCF 8,7.\nEm outubro de 2026: ~27× os lucros e 25× o free cash flow (34 e 29× no fim de 2025); a descida reflete a dúvida sobre a IA, não uma deterioração dos resultados.\nIndicadores: current cloud backlog (>22% positivo, <18% negativo), Cloud ERP Suite, receita de suporte, margem bruta da cloud, receita de IA.\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "SAP.DE",
+  "date": "2026-10-11",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "sap-de-2026-10-11.pdf",
+  "id": "sap-de-2026-10-11"
+ },
+ {
   "company": "NVIDIA",
   "sector": "Semicondutores · IA",
   "thesis": "A principal fornecedora da infraestrutura de computação da IA. No ano fiscal de 2026 (fev. 2025 – jan. 2026) faturou 215,9 mil milhões de dólares, 90% dos centros de dados, com lucro líquido de 120,1 mil milhões; no 2.º trimestre do ano fiscal de 2027 a receita trimestral chegou a 96,2 mil milhões, o dobro do ano anterior.\n\nO resultado não nasceu com o ChatGPT: vem de trinta anos de apostas — a GPU programável, o CUDA em 2006, a viragem para as redes neuronais a partir de 2012, a compra da Mellanox em 2019 e a passagem de vender chips a vender sistemas completos. Muitas pareceram más durante anos.\n\nTensão central: posição competitiva excecional, mas a receita depende de um ciclo de investimento em centros de dados concentrado em poucos clientes muito ricos, todos com incentivos para reduzir essa dependência.",
