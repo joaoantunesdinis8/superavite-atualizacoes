@@ -1,12 +1,12 @@
 {
- "version": "1.0.6",
- "notes": "Faturas (leitura automática, nome, ligação ao pagamento, reconciliação de NIFs, envio ao contabilista), Quem me paga, Recorrentes e subscrições e simulador do carro na empresa.",
+ "version": "1.0.7",
+ "notes": "Relatórios → Mês a mês reformulado: meses em colunas, categorias com mapa de calor, melhor e pior mês.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.6-macOS-arm64.dmg",
-   "sha256": "0062a543b5dcdee34d849c3c102e46444898c5528275a222bed541273f694e45",
-   "size": 17214176
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.7-macOS-arm64.dmg",
+   "sha256": "e81b5a213f46d703d2660a040799bf4749a84f341c33858654c591084c4759d9",
+   "size": 17214889
   }
  }
 }
