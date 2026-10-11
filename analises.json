@@ -1,0 +1,17 @@
+[
+ {
+  "company": "NVIDIA",
+  "sector": "Semicondutores · IA",
+  "thesis": "A principal fornecedora da infraestrutura de computação da IA. No ano fiscal de 2026 (fev. 2025 – jan. 2026) faturou 215,9 mil milhões de dólares, 90% dos centros de dados, com lucro líquido de 120,1 mil milhões; no 2.º trimestre do ano fiscal de 2027 a receita trimestral chegou a 96,2 mil milhões, o dobro do ano anterior.\n\nO resultado não nasceu com o ChatGPT: vem de trinta anos de apostas — a GPU programável, o CUDA em 2006, a viragem para as redes neuronais a partir de 2012, a compra da Mellanox em 2019 e a passagem de vender chips a vender sistemas completos. Muitas pareceram más durante anos.\n\nTensão central: posição competitiva excecional, mas a receita depende de um ciclo de investimento em centros de dados concentrado em poucos clientes muito ricos, todos com incentivos para reduzir essa dependência.",
+  "strengths": "• Ecossistema de software (CUDA e bibliotecas): quase vinte anos de trabalho e milhões de programadores — custos de mudança.\n• Integração do sistema completo: GPU, CPU Grace/Vera, rede (NVLink, InfiniBand, Spectrum-X) e bastidores NVL72.\n• Escala de I&D e cadência de uma arquitetura nova por ano (Blackwell, Rubin, Feynman).\n• Capacidade reservada na TSMC (CoWoS) e memória HBM numa fase de escassez.\n• Pouco capital físico: quase todo o lucro se converte em caixa.",
+  "risks": "• Abrandamento do ciclo de investimento em IA (precedente: FY2023, lucro −55%).\n• Concentração: dois clientes diretos valeram 36% da receita em FY2026.\n• Chips próprios dos clientes (TPU, Trainium, Maia, MTIA) e ASIC da Broadcom/Marvell, sobretudo na inferência.\n• Erosão do fosso de software (PyTorch, JAX, Triton tornam o hardware mais intermutável).\n• Dependência da TSMC e de Taiwan; mercado chinês praticamente perdido.\n• “Financiamento circular”: investimentos em clientes (30 mil milhões na OpenAI, Anthropic, nuvens especializadas).\n• Dependência de Jensen Huang, sem sucessor publicamente designado.",
+  "valuation": "FY2026: receita 215,9 mil milhões USD (+65,5%), margem bruta 71,1% (75% nos dois primeiros trimestres de FY2027), margem operacional 60,4%, lucro líquido 120,1, free cash flow 96,7, caixa líquida 54,1.\nPrevisão da gestão para o 3.º trimestre de FY2027: 108 mil milhões (previsão, não resultado).\nSinais de alerta do dossier: margem bruta persistentemente abaixo de 70%; chips personalizados a crescer mais depressa do que o Data Center; um laboratório de fronteira a treinar e servir os melhores modelos fora da NVIDIA.\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "NVDA",
+  "date": "2026-10-09",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "nvda-2026-10-09.pdf",
+  "id": "nvda-2026-10-09"
+ }
+]
