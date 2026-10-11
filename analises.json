@@ -1,5 +1,20 @@
 [
  {
+  "company": "Amazon",
+  "sector": "Comércio eletrónico · Cloud",
+  "thesis": "A Amazon fatura sobretudo com retalho, mas lucra sobretudo com serviços: em 2025 teve 716,9 mil milhões de dólares de receita e 80 mil milhões de resultado operacional, dos quais 45,6 mil milhões vieram da AWS. A publicidade (68,6 mil milhões, +22%) e as taxas de vendedores externos tornaram o retalho rentável a partir de 2023.\n\nCada motor nasceu de um ativo que já tinha de construir para o anterior: os livros criaram clientes e logística; a logística permitiu o Marketplace e o Prime; a infraestrutura interna deu origem à AWS; o tráfego de compras deu origem à publicidade.\n\nTensão central: em 2026 está no maior ciclo de investimento da sua história (220 mil milhões de capex), com free cash flow negativo e dívida crescente, numa aposta concentrada na procura de IA.\n\nNota de transparência do próprio dossier: foi redigido pelo Claude (Anthropic); a Amazon é investidora da Anthropic e sua fornecedora de cloud.",
+  "strengths": "• Densidade da rede logística combinada com o Prime e o Marketplace — um sistema que se reforça e levaria décadas a replicar.\n• AWS: 57% do lucro operacional com 18% da receita; margem de 39,4% no 2.º trim. de 2026 e crescimento de 37%; backlog de 496 mil milhões.\n• Publicidade no momento da compra, com medição de vendas (+26% no 2.º trim. de 2026).\n• Chips próprios (Graviton, Trainium): negócio com mais de 25 mil milhões anualizados.\n• Capital de giro negativo: crescer gera caixa.",
+  "risks": "• Retorno do capex de IA: investe mais do que gera em caixa; dívida incluindo locações de 251,6 mil milhões (jun. 2026).\n• Dependência da AWS para a maior parte do lucro; Azure e Google Cloud a crescer depressa.\n• Comércio agêntico: assistentes de IA a comprar fora da loja retiram o ponto de entrada da publicidade.\n• Margens baixas no retalho (Internacional 3–4%); concorrência de Walmart, Temu, Shein, TikTok Shop.\n• Regulação: julgamento antitrust da FTC marcado para 9/2/2027; condições de trabalho; vendedores externos.\n• Lucro inflacionado por ganhos não realizados com a Anthropic.",
+  "valuation": "2025: receita 716,9 mil milhões USD (+12%), margem operacional 11,2%, lucro líquido 77,7, fluxo de caixa operacional 139,5, capex 128,3, free cash flow 11,2 (38,2 em 2024).\n12 meses até jun. 2026: receita 775,7, margem operacional 12,1%, free cash flow −11,6 (S&P).\nA 10/10/2026 negociava a ~21× o lucro dos últimos 12 meses, mas esse lucro inclui ganhos não realizados; com FCF negativo, o P/FCF não é calculável.\nIndicadores: crescimento e margem da AWS, backlog, publicidade, FCF a regressar a positivo em 2027.\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "AMZN",
+  "date": "2026-10-11",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "amzn-2026-10-11.pdf",
+  "id": "amzn-2026-10-11"
+ },
+ {
   "company": "NVIDIA",
   "sector": "Semicondutores · IA",
   "thesis": "A principal fornecedora da infraestrutura de computação da IA. No ano fiscal de 2026 (fev. 2025 – jan. 2026) faturou 215,9 mil milhões de dólares, 90% dos centros de dados, com lucro líquido de 120,1 mil milhões; no 2.º trimestre do ano fiscal de 2027 a receita trimestral chegou a 96,2 mil milhões, o dobro do ano anterior.\n\nO resultado não nasceu com o ChatGPT: vem de trinta anos de apostas — a GPU programável, o CUDA em 2006, a viragem para as redes neuronais a partir de 2012, a compra da Mellanox em 2019 e a passagem de vender chips a vender sistemas completos. Muitas pareceram más durante anos.\n\nTensão central: posição competitiva excecional, mas a receita depende de um ciclo de investimento em centros de dados concentrado em poucos clientes muito ricos, todos com incentivos para reduzir essa dependência.",
