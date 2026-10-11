@@ -58,5 +58,20 @@
   "fair_value": null,
   "pdf": "msft-2026-10-09.pdf",
   "id": "msft-2026-10-09"
+ },
+ {
+  "company": "Meta Platforms",
+  "sector": "Publicidade digital · Redes sociais",
+  "thesis": "Dona do Facebook, Instagram, WhatsApp, Messenger e Threads, usados diariamente por mais de 3,5 mil milhões de pessoas. Em 2025 faturou 201,0 mil milhões de dólares (+22%), com resultado operacional de 83,3 mil milhões. No 2.º trimestre de 2026 a receita cresceu 28%, para 60,8 mil milhões, mas o investimento quase duplicou e o free cash flow trimestral caiu para menos de mil milhões.\n\nUma máquina de atenção convertida em publicidade, controlada por Mark Zuckerberg através de ações de classe B.\n\nTensão central: o negócio publicitário acelera graças à IA, mas a empresa investe 130–145 mil milhões em 2026 em centros de dados para a “superinteligência” e o Reality Labs perde perto de 20 mil milhões por ano.",
+  "strengths": "• Escala de dados e IA de recomendação: no 2.º trim. de 2026, impressões +14% e preço por anúncio +12%.\n• Base de milhões de anunciantes e retorno mensurável para eles.\n• Efeitos de rede (sobretudo no WhatsApp) e capacidade de copiar e escalar formatos (Stories, Reels).\n• Núcleo muito rentável: resultado operacional da Família de Aplicações de 102,5 mil milhões em 2025; margem bruta ~82%.",
+  "risks": "• Retorno do investimento em IA e superinteligência; free cash flow perto de zero por muito tempo.\n• Governação: controlo absoluto do fundador.\n• Processos sobre menores e saúde mental (encargo de 2,4 mil milhões no 2.º trim. de 2026).\n• Regulação da publicidade personalizada (UE) e dependência da Apple e da Google.\n• Concorrência pela atenção (TikTok, YouTube, assistentes de IA); Reality Labs; dívida a subir.",
+  "valuation": "2025: receita 201,0 mil milhões USD, margem bruta 82,0%, margem operacional 41,4%, lucro líquido 60,5 (encargo fiscal não recorrente de ~16 mil milhões), free cash flow 46,1 (54,1 em 2024).\nJunho de 2026: 90,3 mil milhões em caixa e títulos contra 83,7 de dívida de longo prazo. Margem operacional do 2.º trim. de 2026: 31% (43% um ano antes).\nSinal mais importante: free cash flow face ao crescimento da receita publicitária — recuperação a partir de 2027 indicaria que o investimento se está a pagar.\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "META",
+  "date": "2026-10-09",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "meta-2026-10-09.pdf",
+  "id": "meta-2026-10-09"
  }
 ]
