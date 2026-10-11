@@ -1,12 +1,12 @@
 {
- "version": "1.0.18",
- "notes": "Faturas: botão «Procurar agora» na Reconciliação encontra cada fatura nos extratos e liga-a ao pagamento (as certas sozinhas, as dúvidas para escolher, um pagamento para várias faturas, desfazer). Leitura do valor e do número das faturas em mais formatos e releitura das faturas por rever.",
+ "version": "1.0.19",
+ "notes": "IBAN: pode colar o IBAN completo (só ficam guardados os últimos 4 dígitos). Fotografias e PDFs digitalizados de extratos lidos com leitura ótica; faturas, documentos e recibos aceitam também HEIC, WEBP, TIFF, GIF e BMP. Faturas: filtros por trimestre, ano, valor, fornecedor e estado, apagar na reconciliação e melhor leitura do IVA.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.18-macOS-arm64.dmg",
-   "sha256": "1d4aafeca25a233d5ab16e71a4f630693d558e4273eb31e3de137aba96d978b5",
-   "size": 24246824
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.19-macOS-arm64.dmg",
+   "sha256": "56014e95701a6fbbed025cb6403626d2227fef8d8c83c4497361eb48ea2591da",
+   "size": 24319836
   }
  }
 }
