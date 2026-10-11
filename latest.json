@@ -1,12 +1,12 @@
 {
- "version": "1.0.7",
- "notes": "Relatórios → Mês a mês reformulado: meses em colunas, categorias com mapa de calor, melhor e pior mês.",
+ "version": "1.0.8",
+ "notes": "Simuladores de impostos (IRS, Segurança Social, IRC, IVA, salário vs. dividendos), conselhos do Tio Dino (pessoal + empresa), Touch ID, transferências internas, créditos partilhados, carteira com TWR/MWR, dividendos e efeito cambial, definições compactas e apagar categorias.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.7-macOS-arm64.dmg",
-   "sha256": "e81b5a213f46d703d2660a040799bf4749a84f341c33858654c591084c4759d9",
-   "size": 17214889
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.8-macOS-arm64.dmg",
+   "sha256": "f1a178e60cee2653b33e864668fb7d0cda1746c010a0d10f22afdf39f81bfcb5",
+   "size": 23933919
   }
  }
 }
