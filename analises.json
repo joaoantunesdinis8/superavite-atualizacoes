@@ -75,6 +75,21 @@
   "id": "sap-de-2026-10-11"
  },
  {
+  "company": "Oracle",
+  "sector": "Software · Cloud para IA",
+  "thesis": "A Oracle construiu durante quatro décadas um negócio de software muito rentável em torno da base de dados relacional e das aplicações empresariais. Desde 2024 transformou-se numa das maiores construtoras de centros de dados para IA, com 664 mil milhões de dólares em contratos por cumprir (RPO) e a OCI a crescer 121% no trimestre até agosto de 2026.\n\nTem hoje dois negócios com economias opostas: base de dados, aplicações e suporte (maduro, margens muito altas) e infraestrutura cloud de IA (crescimento acima de 100%, capex enorme, margens mais baixas).\n\nTensão central: free cash flow de −23,7 mil milhões no ano fiscal de 2026, dívida perto de 170 mil milhões e rating BBB−. O resultado depende sobretudo de os clientes de IA — em particular a OpenAI — cumprirem os contratos.\n\nNota de transparência do próprio dossier: foi redigido pelo Claude (Anthropic); a Anthropic é concorrente da OpenAI, o maior cliente reportado da Oracle.",
+  "strengths": "• Base de dados instalada em sistemas críticos: suporte renovado durante décadas com margens muito altas.\n• Multicloud: a base de dados Oracle dentro de Azure, Google Cloud e AWS transforma concorrentes em canais.\n• OCI de segunda geração: clusters de GPUs grandes e rápidos, construídos depressa.\n• RPO recorde e fluxo de caixa operacional recorde (32 mil milhões no AF26), com pré-pagamentos de clientes.\n• Diversificação parcial de clientes de IA (Meta, Nvidia).",
+  "risks": "• Concentração: mais de metade do RPO poderá estar ligada à OpenAI (estimativas de analistas).\n• Financiamento e rating: dívida de ~169 mil milhões; BBB− na S&P; perda do grau de investimento encareceria tudo.\n• Conversão do RPO: ~metade em 36 meses; contratos podem atrasar ou ser reduzidos.\n• Margens da IA inferiores ao software; obsolescência das GPUs.\n• Diluição por emissão de ações; pessoa-chave (Ellison, ~40% do capital, mais de 80 anos).",
+  "valuation": "Ano fiscal 2026 (jun. 2025–mai. 2026): receita 67,4 mil milhões USD (+17%), margem bruta 65,8%, margem operacional 33,2%, lucro 17,0, FCF −23,7, dívida 167,4.\n1.º trim. AF27: receita 19,3 (+30%), OCI 7,4 (+121%); capex previsto de 90–95 mil milhões no AF27.\nEm outubro de 2026: ~22× os lucros e 17× os lucros previstos; o múltiplo baixo reflete o risco de financiamento e de concentração.\nIndicadores: crescimento da OCI, diversificação e conversão do RPO, capex vs orientação, FCF, rating, margem bruta, MW entregues.\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "ORCL",
+  "date": "2026-10-11",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "orcl-2026-10-11.pdf",
+  "id": "orcl-2026-10-11"
+ },
+ {
   "company": "NVIDIA",
   "sector": "Semicondutores · IA",
   "thesis": "A principal fornecedora da infraestrutura de computação da IA. No ano fiscal de 2026 (fev. 2025 – jan. 2026) faturou 215,9 mil milhões de dólares, 90% dos centros de dados, com lucro líquido de 120,1 mil milhões; no 2.º trimestre do ano fiscal de 2027 a receita trimestral chegou a 96,2 mil milhões, o dobro do ano anterior.\n\nO resultado não nasceu com o ChatGPT: vem de trinta anos de apostas — a GPU programável, o CUDA em 2006, a viragem para as redes neuronais a partir de 2012, a compra da Mellanox em 2019 e a passagem de vender chips a vender sistemas completos. Muitas pareceram más durante anos.\n\nTensão central: posição competitiva excecional, mas a receita depende de um ciclo de investimento em centros de dados concentrado em poucos clientes muito ricos, todos com incentivos para reduzir essa dependência.",
