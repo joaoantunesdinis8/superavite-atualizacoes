@@ -1,12 +1,12 @@
 {
- "version": "1.0.13",
- "notes": "Novo: «📱 Ver no telemóvel» (Definições) — consulte a carteira, o Painel, os movimentos e os orçamentos no iPhone, com os dados cifrados na sua iCloud Drive. Mais segurança: os segredos deixam de ir na exportação.",
+ "version": "1.0.14",
+ "notes": "Mercados renovados: análises em grelha com logótipo, novo separador «Maiores empresas», «Aprender» com notas e guias de investimento e calculadora de juros compostos. Mais 18 análises de empresas.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.13-macOS-arm64.dmg",
-   "sha256": "c802c90ac3b60187b4827a845af7e5fbd7e28f6b32b563022e5ac163293b3cf1",
-   "size": 23820928
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.14-macOS-arm64.dmg",
+   "sha256": "64f934d546d81654523569c89bcaa84f9a77f4935c0c530f5cb315999a8b9eab",
+   "size": 23840179
   }
  }
 }
