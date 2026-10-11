@@ -268,5 +268,20 @@
   "fair_value": 1900.0,
   "pdf": "rms-pa-2026-07-10.pdf",
   "id": "rms-pa-2026-07-10"
+ },
+ {
+  "company": "Adobe",
+  "sector": "Software",
+  "thesis": "A Adobe é um negócio de software por subscrição: Creative Cloud e Document Cloud (Digital Media, cerca de 74% das receitas do ano fiscal de 2025, incluindo Photoshop e Acrobat/PDF) e Experience Cloud (Digital Experience, cerca de 25%). Cerca de 94% das receitas são subscrição recorrente, com margem bruta de 89,3% e custo marginal mínimo por subscritor adicional.\n\nA tese do documento é uma divergência entre fundamentais e narrativa: receitas de 23,77 mil milhões de USD (+11%), ARR total de 25,20 mil milhões e free cash flow de 9,85 mil milhões em FY2025, mas a ação negoceia a cerca de 11x lucros e 8x FCF e caiu cerca de 60% face ao máximo de 2024, porque o mercado teme que a IA generativa (Midjourney, OpenAI, Google, Canva, Figma) comoditize a criação de conteúdo.\n\nA resposta da Adobe, o Firefly \"comercialmente seguro\", já monetiza (ARR AI-first acima de 500 milhões de USD no 2.º trimestre de FY2026). A saída anunciada do CEO Shantanu Narayen agrava a incerteza. O documento recomenda COMPRA para horizonte de 3 a 5 anos ou mais, com posição dimensionada gradualmente.",
+  "strengths": "• Modelo de subscrição de classe mundial: cerca de 94% de receita recorrente e margem bruta de 89,3%.\n• Rendibilidade de elite: margem operacional non-GAAP de 46,2% e margem de FCF de cerca de 41%.\n• Geração de caixa: FCF de 9,85 mil milhões de USD em FY2025 (+25%) e balanço praticamente sem dívida líquida.\n• Recompras de cerca de 12 mil milhões em FY2025 (-6% das ações) e nova autorização de 25 mil milhões até abril de 2030.\n• Custos de mudança elevados, marca dominante e I&D de cerca de 4,3 mil milhões por ano.\n• Múltiplos mais baixos do que Microsoft, Salesforce e Autodesk apesar das margens superiores.",
+  "risks": "• Disrupção por IA generativa e por Canva (4 mil milhões de USD de ARR, +43%) e Figma: risco de compressão do poder de preço e de abrandamento do crescimento.\n• Transição de liderança: Narayen (CEO desde 2007) anunciou a saída a 12/03/2026, com notícias sobre a saída do CFO.\n• Crescimento em desaceleração estrutural (de cerca de 22% em FY2016 para cerca de 11%).\n• Stock-based compensation elevada: 1,97 mil milhões de USD em FY2025 (cerca de 8,3% das receitas); as recompras compensam parte da diluição.\n• Risco regulatório (acordo de 150 milhões de USD com a FTC/DOJ e antitrust visível no caso Figma) e integração da Semrush por provar.\n• Exposição cambial (cerca de 40% a 48% das receitas internacionais) e sensibilidade a orçamentos de marketing em recessão.",
+  "valuation": "Preço de cerca de 191 USD (22/06/2026), capitalização de cerca de 77,6 mil milhões de USD. P/E TTM de cerca de 11,2x, forward de cerca de 7,5x a 8,5x; EV/EBITDA cerca de 8x; P/FCF cerca de 8x.\n\nFY2025: receitas de 23,77 mil milhões de USD, lucro líquido GAAP de 7,13 mil milhões (EPS GAAP 16,70 USD; non-GAAP 20,94 USD), FCF de 9,85 mil milhões, margem operacional GAAP de 36,6% e non-GAAP de 46,2%. Caixa de 6,6 mil milhões contra dívida de 6,2 mil milhões.\n\nDCF do autor (WACC 10%, FCF inicial 9,85 mil milhões, crescimento terminal 3%): base cerca de 465 USD por ação (valor intrínseco usado), bear cerca de 260, bull cerca de 700, disrupção severa cerca de 150 a 190. Margem de segurança superior a 50% no cenário base. Consenso de analistas \"Hold\" com alvo médio de cerca de 280 a 317 USD.\n\nConclusão: COMPRA, horizonte de 3 a 5 anos ou mais, perfil de risco moderado a elevado.\n\nResumo da análise original; não é recomendação de investimento.",
+  "author": "João Maria",
+  "symbol": "ADBE",
+  "date": "2026-06-22",
+  "verdict": "comprar",
+  "fair_value": 465.0,
+  "pdf": "adbe-2026-06-22.pdf",
+  "id": "adbe-2026-06-22"
  }
 ]
