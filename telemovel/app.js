@@ -24,8 +24,10 @@ async function store(op, val) {
 function welcome(msg = "") {
   $("#tabs").hidden = true; $("#when").textContent = "";
   $("#main").innerHTML = `<section class="card"><h2>Ver as suas finanças</h2>
-    <p>No computador: Definições → «📱 Ver no telemóvel». Depois toque em <b>Atualizar</b> e escolha os dois ficheiros
-    da pasta <b>Tio Dino</b> na iCloud Drive (<i>telemovel.tiodino</i> e <i>chave.json</i>).</p>
+    <ol class="steps"><li>No computador: Definições → «📱 Ver no telemóvel» → Ligar.</li>
+    <li>Aqui, toque em <b>Atualizar</b>. Abre-se a app Ficheiros.</li>
+    <li>Vá a <b>iCloud Drive → Tio Dino</b> e escolha <i>telemovel.tiodino</i> e <i>chave.json</i> (pode escolher um de cada vez).</li>
+    <li>Escreva a palavra-passe do Tio Dino.</li></ol>
     ${msg ? `<p class="neg">${esc(msg)}</p>` : ""}<button class="btn primary" id="pick">Atualizar</button></section>`;
   $("#pick").onclick = () => $("#files").click();
 }
@@ -42,7 +44,7 @@ function askPassword(pair, msg = "") {
   $("#pwf").onsubmit = async e => {
     e.preventDefault(); $("#go").disabled = true; $("#go").textContent = "A abrir…";
     try { SNAP = await unlock(pair.file, pair.chave, $("#pw").value); render(); }
-    catch (x) { askPassword(pair, x.message); }
+    catch (x) { askPassword(pair, x.message + " Mudou a palavra-passe ou o código no computador? Toque em «Atualizar ficheiros» e escolha os dois ficheiros novos."); }
   };
 }
 
@@ -50,9 +52,12 @@ $("#files").onchange = async () => {
   const texts = await Promise.all([...$("#files").files].map(f => f.text()));
   $("#files").value = "";
   const chave = texts.find(t => t.includes('"kdf"')), file = texts.find(t => !t.includes('"kdf"') && t.includes('"ct"'));
-  if (!chave || !file) return welcome("Escolha os dois ficheiros: telemovel.tiodino e chave.json.");
-  const pair = { file, chave, saved: new Date().toISOString() };
+  if (!chave && !file) return welcome("Esses ficheiros não são do Tio Dino. Escolha telemovel.tiodino e chave.json.");
+  let old = null; try { old = await store("get"); } catch { }
+  const pair = { file: file || old?.file, chave: chave || old?.chave, saved: new Date().toISOString() };
   try { await store("put", pair); } catch { }
+  if (!pair.file) return welcome("Já tenho a chave.json. Falta o ficheiro telemovel.tiodino: toque em Atualizar e escolha-o.");
+  if (!pair.chave) return welcome("Já tenho o telemovel.tiodino. Falta o ficheiro chave.json: toque em Atualizar e escolha-o.");
   askPassword(pair);
 };
 
@@ -118,4 +123,5 @@ document.querySelectorAll("#tabs button").forEach(b => b.onclick = () => {
 });
 $("#priv").onclick = () => document.body.classList.toggle("priv");
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => { });
-store("get").then(pair => pair ? askPassword(pair) : welcome()).catch(() => welcome());
+store("get").then(pair => pair && pair.file && pair.chave ? askPassword(pair)
+  : welcome(pair ? (pair.file ? "Falta o ficheiro chave.json." : "Falta o ficheiro telemovel.tiodino.") : "")).catch(() => welcome());

@@ -18,3 +18,4 @@ nav button{flex:1;background:none;border:0;padding:12px 4px;color:var(--mut);fon
 .seg{display:flex;gap:6px;margin-bottom:12px}.seg button{flex:1;padding:8px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--fg)}.seg button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
 body.priv .v{filter:blur(7px)}
 nav[hidden]{display:none}
+.steps{padding-left:1.2rem;line-height:1.5}.steps li{margin-bottom:.35rem}

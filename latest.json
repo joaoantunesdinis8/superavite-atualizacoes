@@ -1,12 +1,12 @@
 {
- "version": "1.0.14",
- "notes": "Mercados renovados: análises em grelha com logótipo, novo separador «Maiores empresas», «Aprender» com notas e guias de investimento e calculadora de juros compostos. Mais 18 análises de empresas.",
+ "version": "1.0.15",
+ "notes": "Calendário de pagamentos (um mês de cada vez), lembretes de documentos e ligação ao Google Calendar. Avisos diários por email (app Mail) e faturas encontradas no email. IRS do ano com vários rendimentos (salário, recibos verdes, ato único, rendas, juros, mais-valias, IRS Jovem) e leitura dos recibos de vencimento. Carteira: rebalancear, mais-valias e dividendos para o Anexo J, dividendos previstos. Mercados: alertas e notícias da watchlist, valor intrínseco (importar Excel, cotações diárias). Painel: quanto posso gastar hoje, gastos fora do normal, previsão do fim do ano, pesquisa global e «?» em cada número. Relatórios: património, comparar anos, inflação pessoal, comissões, relatório anual e fecho do mês em PDF. Conselheiro: saúde financeira e cenários «e se…». Empresa: calendário fiscal, tesouraria a 90 dias, faturas por receber, margem por cliente, pacote do contabilista. Despesas partilhadas, modo casal, cópia de segurança automática cifrada, importação por pasta, menu e separadores personalizáveis, Pessoal e Empresa separados. App mais rápida.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.14-macOS-arm64.dmg",
-   "sha256": "64f934d546d81654523569c89bcaa84f9a77f4935c0c530f5cb315999a8b9eab",
-   "size": 23840179
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.15-macOS-arm64.dmg",
+   "sha256": "b8371ab8378c1c72a42d4eb0de23e6d10f8a1f79a67214230cb9dfd14333bb54",
+   "size": 24072598
   }
  }
 }
