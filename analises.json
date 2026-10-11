@@ -45,6 +45,21 @@
   "id": "googl-2026-10-11"
  },
  {
+  "company": "Palantir",
+  "sector": "Software · IA para governos e empresas",
+  "thesis": "A Palantir passou duas décadas como fornecedora de software de inteligência e defesa, deficitária e pouco compreendida, e tornou-se em 2023–2026 uma das empresas de software que mais crescem no mundo: receita de 4,5 mil milhões de dólares em 2025 (+56%), +93% no 2.º trimestre de 2026 e margem operacional GAAP de 47%.\n\nVende licenças plurianuais que ligam os dados de uma organização a um modelo comum — a “ontologia” — sobre o qual se constroem aplicações de decisão e agentes de IA (AIP). Os “bootcamps” de cinco dias encurtaram o ciclo de venda e aceleraram o comercial nos EUA (+149%).\n\nTensão central: o negócio é excecional; o preço da ação (cerca de 82 vezes a receita) já pressupõe que continue excecional durante muitos anos.\n\nNota de transparência do próprio dossier: foi redigido pelo Claude (Anthropic); os modelos da Anthropic estão disponíveis através da plataforma da Palantir.",
+  "strengths": "• Certificações e confiança do Estado norte-americano nos ambientes mais sensíveis (Gotham, Maven, acordo-quadro com o Exército até 10 mil milhões).\n• Ontologia: depois de implementada, mudar de fornecedor exige reconstruir o modelo de toda a operação.\n• Apollo: funciona em redes isoladas, navios e veículos.\n• AIP independente do modelo de IA: beneficia da queda de preço dos modelos.\n• Margem bruta de 80–85%, FCF de 2,1 mil milhões em 2025 e 9,4 mil milhões de caixa sem dívida.",
+  "risks": "• Avaliação: ~82× a receita, 179× os lucros; um abrandamento para 30% poderia comprimir muito o múltiplo.\n• Dependência do governo dos EUA (~42% da receita) e 81% da receita nos EUA.\n• Concorrência em IA empresarial (Microsoft, Databricks, Snowflake, SAP, laboratórios de IA).\n• Remuneração em ações e diluição; métricas “ajustadas” mais favoráveis.\n• Controlo de voto dos fundadores (ações classe F); risco de pessoa-chave (Karp).\n• Reputação e regulação: imigração (ICE), polícia, uso militar, NHS, Regulamento de IA da UE.",
+  "valuation": "2025: receita 4.475 milhões USD (+56%), margem bruta 82,4%, lucro líquido 1.625, free cash flow 2.101.\n12 meses até jun. 2026: receita 6.156 (+79%), lucro líquido 3.017, FCF 3.358, caixa 9.409.\n2.º trim. 2026: receita 1.935 (governo 990, comercial 945); previsão para 2026 de 8,15 mil milhões (+82%).\nA 10/10/2026: ~82× a receita, 179× os lucros e 150× o free cash flow.\nIndicadores: crescimento comercial nos EUA, remaining deal value, retenção líquida, receita internacional, margem GAAP, ações em circulação.\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "PLTR",
+  "date": "2026-10-11",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "pltr-2026-10-11.pdf",
+  "id": "pltr-2026-10-11"
+ },
+ {
   "company": "NVIDIA",
   "sector": "Semicondutores · IA",
   "thesis": "A principal fornecedora da infraestrutura de computação da IA. No ano fiscal de 2026 (fev. 2025 – jan. 2026) faturou 215,9 mil milhões de dólares, 90% dos centros de dados, com lucro líquido de 120,1 mil milhões; no 2.º trimestre do ano fiscal de 2027 a receita trimestral chegou a 96,2 mil milhões, o dobro do ano anterior.\n\nO resultado não nasceu com o ChatGPT: vem de trinta anos de apostas — a GPU programável, o CUDA em 2006, a viragem para as redes neuronais a partir de 2012, a compra da Mellanox em 2019 e a passagem de vender chips a vender sistemas completos. Muitas pareceram más durante anos.\n\nTensão central: posição competitiva excecional, mas a receita depende de um ciclo de investimento em centros de dados concentrado em poucos clientes muito ricos, todos com incentivos para reduzir essa dependência.",
