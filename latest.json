@@ -1,12 +1,12 @@
 {
- "version": "1.0.5",
- "notes": "Modo privacidade, filtros por mês/trimestre/semestre, câmbio € / $ na Carteira, Créditos e empréstimos, calculadora FIRE e cofre de documentos.",
+ "version": "1.0.6",
+ "notes": "Faturas (leitura automática, nome, ligação ao pagamento, reconciliação de NIFs, envio ao contabilista), Quem me paga, Recorrentes e subscrições e simulador do carro na empresa.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.5-macOS-arm64.dmg",
-   "sha256": "2c27b9d1931d833e5d18cbd2cfcd4ddf64b7495b0d5371467129be6092f34094",
-   "size": 16137597
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.6-macOS-arm64.dmg",
+   "sha256": "0062a543b5dcdee34d849c3c102e46444898c5528275a222bed541273f694e45",
+   "size": 17214176
   }
  }
 }
