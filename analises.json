@@ -43,5 +43,20 @@
   "fair_value": null,
   "pdf": "mc-pa-2026-10-09.pdf",
   "id": "mc-pa-2026-10-09"
+ },
+ {
+  "company": "Microsoft",
+  "sector": "Software · Nuvem",
+  "thesis": "A maior empresa de software do mundo e uma das três grandes da nuvem. No ano fiscal de 2026 (jul. 2025 – jun. 2026) faturou 331,8 mil milhões de dólares (+18%), com resultado operacional de 155,2 e lucro líquido de 133,7 mil milhões; o Azure passou os 100 mil milhões de receita anual e cresceu 43% no último trimestre.\n\nDominou o PC, quase perdeu a internet móvel e a pesquisa, e reinventou-se com a nuvem e a IA sob Satya Nadella. O ativo mais valioso é a relação com praticamente todas as grandes organizações do mundo.\n\nTensão central: investimento em ativos fixos de 115,9 mil milhões em FY2026 (2,6 vezes o de dois anos antes) e um free cash flow que deixou de crescer.",
+  "strengths": "• Custos de mudança: Microsoft 365, identidade (Active Directory/Entra) e Windows nas empresas.\n• Distribuição empresarial sem paralelo (contratos plurianuais, rede de parceiros).\n• Escala de nuvem partilhada só com a AWS e a Google.\n• Receita maioritariamente recorrente; margem operacional de cerca de 47%, máximo histórico.\n• Carteira comercial por executar de 678 mil milhões (+84%).",
+  "risks": "• Retorno do investimento em IA: depreciações crescentes e free cash flow estagnado.\n• Concentração na OpenAI (cerca de 45% da carteira em jan. 2026, segundo a empresa).\n• Deslocação do valor do software para os fornecedores de modelos (agentes de IA).\n• Adoção lenta do Copilot (mais de 30 milhões de lugares pagos, fração pequena da base).\n• Concorrência na nuvem, segurança, regulação, energia e cadeia de abastecimento.",
+  "valuation": "FY2026: receita 331,8 mil milhões USD (+17,8%), margem bruta 67,9%, margem operacional 46,8%, lucro líquido 133,7 (inclui ganhos de ~5 mil milhões ligados à OpenAI e 3,2 com a Anthropic), fluxo de caixa operacional 182,9, free cash flow 67,0 (74,1 em FY2024).\nO investimento passou de 27% para 63% do fluxo de caixa operacional. Sinal mais importante para o dossier: o momento em que o free cash flow voltar a crescer (ou não).\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "MSFT",
+  "date": "2026-10-09",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "msft-2026-10-09.pdf",
+  "id": "msft-2026-10-09"
  }
 ]
