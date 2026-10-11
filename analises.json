@@ -373,5 +373,20 @@
   "fair_value": null,
   "pdf": "mcd-2026-06-04.pdf",
   "id": "mcd-2026-06-04"
+ },
+ {
+  "company": "Seagate",
+  "sector": "Hardware (armazenamento de dados)",
+  "thesis": "A Seagate é uma de apenas três fabricantes mundiais de discos rígidos (HDD), a par da Western Digital e da Toshiba. Foi reavaliada pelo mercado como infraestrutura da era da inteligência artificial, porque os centros de dados precisam de armazenar grandes volumes de dados a baixo custo por terabyte.\n\nNo 3.º trimestre fiscal de 2026 (terminado a 3 de abril de 2026) reportou receitas de 3,11 mil milhões de USD (+44%), margem bruta GAAP de 46,5% e free cash flow de 953 milhões de USD. A ação subiu mais de 600% em 12 meses (cerca de 870 a 895 USD).\n\nA conclusão do documento é que se trata de um \"negócio excecional num momento excecional do ciclo, com uma avaliação que deixa pouca margem para deceções\". Apresenta os casos otimista e pessimista e deixa a decisão ao leitor, sem emitir recomendação, pelo que fica classificada como estudo.",
+  "strengths": "• Oligopólio de três fabricantes, com barreiras à entrada elevadas.\n• Liderança em HAMR (plataforma Mozaic), com cerca de dois anos de avanço sobre a Western Digital.\n• Margens e caixa recorde: margem bruta de 46,5% e free cash flow de 953 milhões de USD no trimestre.\n• Capacidade nearline praticamente contratada até 2027.\n• Balanço a normalizar: dívida líquida/EBITDA de cerca de 0,7x e ROIC de cerca de 75%.",
+  "risks": "• Avaliação esticada: P/E (12 meses) de cerca de 50 a 75x contra média de 10 anos perto de 18x.\n• Ciclicidade do HDD e risco de \"pull-forward\" com digestão de inventário em 2027 e 2028.\n• Volatilidade extrema: beta de cerca de 2,3.\n• Concentração em poucos clientes hyperscalers.\n• Substituição por flash/SSD, mais eficiente em energia, e vendas líquidas de ações pelo CEO no último ano.",
+  "valuation": "• Cotação: cerca de 870 a 895 USD (final de maio de 2026); capitalização de cerca de 197 a 200 mil milhões de USD; intervalo de 52 semanas de cerca de 63 a 905 USD.\n• P/E (12 meses) de cerca de 50 a 75x; P/E futuro de cerca de 30 a 35x; PEG inferior a 1 nas estimativas do ano fiscal de 2027, se o crescimento se confirmar.\n• EPS estimado de cerca de 14 USD no ano fiscal de 2026 e cerca de 25 USD no de 2027.\n• Valor justo de terceiros muito disperso: GF Value de cerca de 153 USD; DCF Simply Wall St de cerca de 600 a 1.350 USD; analistas: BofA cerca de 900 USD e Evercore cerca de 1.000 USD.\n• O documento não fixa um valor justo próprio.\n\nResumo da análise original; não é recomendação de investimento.",
+  "author": "João Maria",
+  "symbol": "STX",
+  "date": "2026-05-30",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "stx-2026-05-30.pdf",
+  "id": "stx-2026-05-30"
  }
 ]
