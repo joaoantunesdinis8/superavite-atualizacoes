@@ -73,5 +73,20 @@
   "fair_value": null,
   "pdf": "meta-2026-10-09.pdf",
   "id": "meta-2026-10-09"
+ },
+ {
+  "company": "Netflix",
+  "sector": "Streaming · Entretenimento",
+  "thesis": "O maior serviço de streaming por subscrição, com mais de 300 milhões de lares pagantes em mais de 190 países. Em 2025 faturou 45,2 mil milhões de dólares (+16%), com margem operacional de 29,5% e free cash flow de 9,5 mil milhões; para 2026 prevê 51,0–51,4 mil milhões e margem de 31,5%.\n\nA história mais clara de autodisrupção: do DVD por correio ao streaming, de distribuidora a produtora, de serviço americano a global, de sem publicidade a plataforma com anúncios e eventos ao vivo.\n\nTensão central: venceu as “guerras do streaming”, mas o concorrente que mais pesa hoje é o YouTube; e, depois de perder a Warner Bros. para a Paramount em 2026, tem de continuar a crescer sozinha.",
+  "strengths": "• Escala global: o custo do conteúdo dilui-se por mais assinantes do que em qualquer concorrente.\n• Dados de visualização e recomendação; marca e hábito (dos cancelamentos mais baixos do setor).\n• Produção local para audiências globais (Casa de Papel, Squid Game).\n• Tecnologia de distribuição (Open Connect) e foco exclusivo no entretenimento.\n• Publicidade a crescer: cerca de 618 milhões no 2.º trim. de 2026 (+80%).",
+  "risks": "• Saturação nos países ricos e limites aos aumentos de preço.\n• YouTube e conteúdo gratuito de criadores (e gerado por IA).\n• Execução da publicidade (2.º trim. de 2026 abaixo do esperado).\n• Custo do conteúdo e do desporto; sucessos irregulares.\n• Concorrente consolidado Paramount + Warner Bros.; menor transparência (deixou de divulgar membros).",
+  "valuation": "2025: receita 45,2 mil milhões USD (+15,8%), margem bruta 48,5%, margem operacional 29,5%, lucro líquido 11,0, free cash flow 9,5; recompras de 9,2 mil milhões; não paga dividendos.\n2.º trim. de 2026: receita 12,6 mil milhões (+13%), margem operacional 33,4%. Em 2026 recebeu 2,8 mil milhões de compensação pela Warner Bros. (extraordinário).\nSinal mais importante: crescimento da receita abaixo de 10% com margem operacional estagnada.\n\nO dossier não atribui preço-alvo nem recomendação: o objetivo é compreender o negócio.",
+  "author": "João Maria",
+  "symbol": "NFLX",
+  "date": "2026-10-09",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "nflx-2026-10-09.pdf",
+  "id": "nflx-2026-10-09"
  }
 ]
