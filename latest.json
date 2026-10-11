@@ -1,12 +1,12 @@
 {
- "version": "1.0.9",
- "notes": "Questionário do Tio Dino com conselhos à sua medida; ligação à Trading 212 (API oficial, só leitura); compras de ações já não aparecem como transferências internas; relatórios mensais sempre atualizados.",
+ "version": "1.0.10",
+ "notes": "Novo menu Mercados (índices S&P 500, Nasdaq 100, Dow Jones, STOXX Europe 600 e análises de empresas), questionário com escolhas múltiplas, menu Conselheiro, ganho não realizado no património e correção da sincronização da Trading 212.",
  "date": "2026-10-11",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.9-macOS-arm64.dmg",
-   "sha256": "13c938e7044b3a173a0c244261e8c9ccbdaa9c44182ae1183fe60c4b5a1031f2",
-   "size": 23770531
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.10-macOS-arm64.dmg",
+   "sha256": "4bae6c03254bc2033eb36781d0bbc903dae0960464c6bd1144318ec6def6e0a9",
+   "size": 23788735
   }
  }
 }
