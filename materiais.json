@@ -1,0 +1,290 @@
+[
+ {
+  "title": "Hierarquia GICS: setores e indústrias da bolsa mundial",
+  "topic": "Mercados e setores",
+  "summary": "Explica a classificação GICS (setor, sub-setor, indústria, sub-indústria) e atribui a cada sub-indústria uma pontuação de importância económica e de ganhos em bolsa entre 1999 e 2025. Ajuda a perceber como o mercado se organiza e que áreas pesaram mais nos retornos.",
+  "body": "",
+  "id": "hierarquia-gics-setores-e-industrias-da-bolsa-mundial",
+  "kind": "guia",
+  "pdf": "gics-hierarquia-global-bolsa.pdf"
+ },
+ {
+  "title": "Análise global dos setores da bolsa",
+  "topic": "Mercados e setores",
+  "summary": "Apresenta os 11 setores GICS com as empresas líderes, o tipo de investimento (growth, value, defensivo, cíclico, rendimento) e o potencial estimado a 10 anos. Serve para comparar setores e perceber que perfil de risco cada um tem.",
+  "body": "",
+  "id": "analise-global-dos-setores-da-bolsa",
+  "kind": "guia",
+  "pdf": "analise-setores-bolsa-global.pdf"
+ },
+ {
+  "title": "Médias móveis e valor intrínseco para o investidor em valor",
+  "topic": "Análise e avaliação",
+  "summary": "Mostra como usar as médias móveis de 50 e 200 dias como complemento ao cálculo do valor intrínseco e da margem de segurança. Explica quando uma queda é oportunidade e quando é armadilha de valor, e inclui um processo em passos e um modelo de pedido para IA.",
+  "body": "",
+  "id": "medias-moveis-e-valor-intrinseco-para-o-investidor-em-valor",
+  "kind": "guia",
+  "pdf": "medias-moveis-valor-intrinseco.pdf"
+ },
+ {
+  "title": "Os primeiros cem anos dos Estados Unidos (1776–1876)",
+  "topic": "História e macroeconomia",
+  "summary": "Percorre a independência, a construção da república constitucional, a expansão territorial e a Guerra Civil até ao Centenário de 1876. Dá contexto histórico para compreender a origem da economia e das instituições norte-americanas.",
+  "body": "",
+  "id": "os-primeiros-cem-anos-dos-estados-unidos-17761876",
+  "kind": "guia",
+  "pdf": "eua-primeiros-100-anos.pdf"
+ },
+ {
+  "title": "Economia mundial após a reabertura do Estreito de Ormuz: cenários",
+  "topic": "História e macroeconomia",
+  "summary": "Descreve três cenários (alto, médio e baixo) para petróleo, combustíveis em Portugal, bolsas, inflação, juros e risco de recessão após um acordo EUA–Irão. Mostra como um choque energético se transmite à economia e aos mercados.",
+  "body": "",
+  "id": "economia-mundial-apos-a-reabertura-do-estreito-de-ormuz-cenarios",
+  "kind": "guia",
+  "pdf": "cenarios-economia-pos-ormuz.pdf"
+ },
+ {
+  "title": "Top 50 do NASDAQ: análise fundamental e ranking",
+  "topic": "Ferramentas e dados",
+  "summary": "Folha de cálculo com as 50 maiores empresas do NASDAQ: receitas, lucros, margens, P/E, dívida e ROE, com pontuações e ranking por atratividade. Inclui a metodologia dos scores para aprender a comparar empresas.",
+  "body": "",
+  "id": "top-50-do-nasdaq-analise-fundamental-e-ranking",
+  "kind": "guia",
+  "pdf": "nasdaq-top50-analise.pdf"
+ },
+ {
+  "title": "3 formas de investir em ações",
+  "topic": "Ações e análise",
+  "summary": "Tipos de ações (ordinárias, preferenciais, blue chips, de crescimento, cíclicas, etc.) e as três principais formas de investir em bolsa.",
+  "body": "Ação - fração de uma empresa\n\ncompra e venda através da bolsa\n\nForma de obter lucros - vender / dividendos\n\nAções ordinárias - receção de lucro através de dividendos, permissão de assistir e votar na Assembleia dessa mesma empresa.\n\nQuando a empresa tem resultados positivos tem duas opções:\n\n- Ou reinveste nesse mesmo capital ou divide os lucros para os acionistas minoritários (payout ratio)\n- Os dividendos normalmente são divulgados.\n\nAções preferenciais - os que tem títulos sobre as ações são os primeiros a receber. São prioritários em relação às ações ordinárias.\n\nGolden shares - ações de ouro/ações privilegiadas.\n\nBlue chips - ações que geram muita liquidez e que todos os investidores procuram.\n\nPenny stock - ações de empresas em que o nível de capitalização são muito baixas. São muito arriscadas.\n\nAções de crescimento - ações de empresas que não pagam dividendos, usam esse dinheiro para crescer enquanto empresa. As flutuações são muito comuns. Empresas ligadas a tecnologias, comunicações.\n\nIncome stocks - ações que pagam dividendos. Ações para pessoas conservadoras.\n\nAções em valor - ações que o investidor escolhe porque acha que esta sobrevalorizada, ou seja, em saldos.\n\nAções cíclicas - ações que estão dependentes do ciclo da economia. Setor automóvel / empresas de construção. A melhor altura para comprar e quando está no fim do ciclo.\n\nAções defensivas - resistem às flutuações económicas. São ações muito estáveis. Empresas de comida etc.\n\nAções especulativas - são de empresas que variam nos ganhos e são vistas como um grande potencial. (nova gestão, etc)\n\nAções são ativos a longo prazo.\n\n## 3 principais maneiras de investir em ações\n\nInvestimento direto é o que vem à cabeça quando se trata de investir na bolsa. Tentar que a performance seja acima do índice de referência.\n\nProcurar sempre informação sobre a empresa aonde se investe.\n\nFundos de investimento são instrumentos que se adaptam a vários perfis. São direcionadas para quem não tem tempo ou não se sente à vontade em comprar ações. Tem um gestor que faz isso por elas. Estar atento às comissões de gestão ou de performance.\n\nUm ETF (“Exchange Traded Fund”) é um conjunto diversificado de ativos (como um fundo de investimento), que transaciona numa Bolsa (como uma ação). Os ETFs são uma forma fácil, de baixo custo e eficiente em termos fiscais de investir o seu dinheiro.\n\nReverse Trackers - ganham quando o mercado cai, ou seja, funcionam de forma inversa.",
+  "id": "3-formas-de-investir-em-acoes",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Prós e contras de investir em ações",
+  "topic": "Ações e análise",
+  "summary": "Principais vantagens e desvantagens de investir em ações.",
+  "body": "## VANTAGENS\n\n- efeito de reboque do ciclo económico;\n- fácil acesso;\n- dividendos;\n- liquidez;\n- permitem ganhar riqueza;\n- vários setores / vários preços;\n\n## Desvantagens\n\n- risco de perda de capital;\n- é preciso tempo para estudar os investimentos;\n- volatilidade",
+  "id": "pros-e-contras-de-investir-em-acoes",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Dicas inspiradas em Warren Buffett",
+  "topic": "Estratégias",
+  "summary": "Lista de princípios de investimento e vida financeira associados a Warren Buffett.",
+  "body": "- nunca depender de uma única fonte de rendimento;\n- não comprar bens desnecessários;\n- pague se em primeiro lugar;\n- ter dinheiro guardado - objetivos;\n- investir em literacia financeira;\n- avaliar o risco dos ativos;\n- não colocar o € todo num só investimento;\n- ser persistente e paciente;\n- ser diferente;\n- investir em ações que conhece;\n- diversificar;\n- saber quando sair de um investimento;\n- não ser ganancioso;\n- saber o que quer fazer da vida;\n- o que significa sucesso ?",
+  "id": "dicas-inspiradas-em-warren-buffett",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Como investir com pouco dinheiro",
+  "topic": "Começar a investir",
+  "summary": "Fatores a ter em conta (inflação, comissões, impostos) e produtos por onde começar com montantes pequenos.",
+  "body": "Fatores a ter em conta:\n\n- Inflação\n- Comissões\n- Impostos\n\nPrioridades antes de investir:\n\n- Fundo de emergência\n- Reforma\n- Definir o perfil de investidor\n\nProdutos para começar (do mais conservador para o mais arriscado):\n\n- Dívida do Estado / certificados de aforro\n- Certificados do Tesouro\n- PPR: seguros e fundos de investimento\n- Ações",
+  "id": "como-investir-com-pouco-dinheiro",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Diversificar a carteira",
+  "topic": "Estratégias",
+  "summary": "Cinco princípios para diversificar uma carteira de investimentos e reequilibrá-la.",
+  "body": "1 - não investir apenas em ações e obrigações; (não meter todos os ovos na mesma cesta)\n\ndiversificar no tipo de ações (energéticas / tecnológicas / banca / imobiliário / criptomoedas)\n\n2 - usar os etfs como forma de diversificar\n\n3 - ter uma parcela de dinheiro para quando houver quedas !!!!!\n\n4 - pensar numa forma global (olhar para a carteira de investimentos de uma forma global) EUA / EUROPA / mercados emergentes\n\n5 - rebalancear a carteira ocasionalmente (por exemplo 50/50 ou 70/30)",
+  "id": "diversificar-a-carteira",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Definições de taxas: TAEG, TAN e spread",
+  "topic": "Finanças pessoais",
+  "summary": "Explica a diferença entre TAEG, TAN e spread bancário.",
+  "body": "## TAEG (Taxa Anual Efetiva Global)\n\nJá a TAEG representa o valor do custo total que o crédito tem para o consumidor, com o acréscimo dos encargos referentes à contratação de outros produtos e serviços.\n\nEste custo contempla os seguintes aspetos:\n\n- Juros\n- Impostos\n- Comissões\n- Comissões de manutenção das contas bancárias\n- Seguros obrigatórios para os pedidos de crédito\n- Despesas várias associadas aos contratos de crédito\n\nA TAEG é, por isso, um dos grandes e fundamentais indicadores a ter em conta quando se efetua um pedido de crédito. Pois isso vai permitir a avaliação, relativamente à entidade financeira que se encontra nas melhores condições em termos do crédito a apresentar.\n\nDe referir ainda que a título de curiosidade, a TAEG, é utilizada para medir o custo do crédito habitação desde o dia 1 de janeiro de 2018.\n\n## TAN (Taxa Anual Nominal)\n\nEsta taxa é muito usada por exemplo, em operações que envolvam um pagamento de juros sobre um determinado crédito ou ainda aplicado a remuneração de um depósito ou poupança. A TAN não inclui, outras despesas que possam estar inerentes à contratação de um crédito. Esta taxa tem também como função, medir o custo do crédito, cujo respetivo valor é obtido depois de se calcular a divisão do valor da TAN pelo número de prestações anual.\n\n## Spread\n\nrefere-se à diferença entre o preço de compra (procura) e venda (oferta) de uma ação, título ou transação monetária. Analogamente, quando o banco empresta dinheiro a alguém, cobra uma taxa pelo empréstimo ― uma taxa que será certamente superior à taxa de captação. A diferença entre as duas taxas é o chamado spread bancário.",
+  "id": "definicoes-de-taxas-taeg-tan-e-spread",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Análise fundamental (longo prazo)",
+  "topic": "Ações e análise",
+  "summary": "Introdução à análise fundamental: fatores qualitativos e quantitativos e indicadores como PER, dividend yield e ROI.",
+  "body": "Como saber se uma empresa é boa para investir:\n\n- focar na informação da empresa\n- analisar os dados e os resultados da empresa\n- saúde financeira\n\n## Características\n\n- dados qualitativos / quantitativos\n- determinar o cenário de investimento a longo prazo\n- perfil de investidor\n- projeções a longo prazo!\n- analisar o cenário micro/macro da empresa\n\nTop down e bottom up\n\nTop-down é um modelo de gestão no formato de cascata. Isso quer dizer que as decisões e abordagens a serem seguidas vêm dos cargos mais altos da empresa e são direcionados para os demais, que devem segui-las.\n\nBottom up, o modelo de gestão bottom-up (na tradução, de baixo para cima) é aquele no qual as decisões de uma empresa vem da sua base para o topo\n\n## Fatores a ter em conta (micro)\n\n- tecnologia\n- facturação\n- mercado externo\n- capacidade instalada\n- importação / exportação\n- mercado cambial\n- fluxo de caixa\n- relatório de Contas\n\n## Quantitativa (contas)\n\nreceitas\n\nmargens operacionais\n\nendividamento\n\n## Qualitativa (gestão)\n\nqualidade da gestão\n\nperícias do gestor\n\nreconhecimento da marca\n\nriscos inerentes ao segmento\n\n- Encontrar empresas que estejam subvalorizadas no mercado\n\nPER (price earnings ratio)\n\nLucro/preço da ação\n\ndividendo yield - mede a rentabilidade quanto à ação\n\nROI (return on investment) se o negócio gera benefício",
+  "id": "analise-fundamental-longo-prazo",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Como analisar as contas de uma empresa",
+  "topic": "Ações e análise",
+  "summary": "Como ler os relatórios de contas (earnings season) e que perguntas fazer sobre desempenho, lucro e custos.",
+  "body": "earning season - relatório de Contas relativo ao ano passado (volatilidade do mercado)\n\ntrimestrais / semestrais / anuais\n\npreço das ações acompanha a evolução da empresa\n\nearning per share - valor dos ganhos por ação de uma empresa\n\nAs divulgações das contas da empresas são feitas antes da abertura de mercado ou depois para não ter influência nas cotações.\n\nContas da empresa\n\n- receita\n- despesas\n- lucro (resultado líquido)\n\nquando há lucro consecutivamente, a cotação tem tendência para subir\n\nquando há prejuízo, a cotação tem tendência para baixar\n\nUma startup é uma empresa inovadora em fase inicial, com grande potencial de crescimento, habitualmente relacionada com a área da tecnologia. A expressão startup (start-começar| up - subir) transmite a ideia de rápida evolução e crescimento elevado numa fase inicial do negócio.\n\nestimativas feitas por analistas\n\n## Perguntas a fazer ao ler um relatório de contas\n\n1. Ler o comunicado da empresa do relatório\n\n2. qual foi o desempenho financeiro da empresa no último ano/trimestre e quais os factores\n\n3. Como está o desempenho da empresa em relação ao último trimestre / ano\n\n4. Como é que a empresa gera lucro? os produtos/serviços\n\n5. Os custos estão sob controle? As despesas estão altas? quais as despesas a ser cortadas?",
+  "id": "como-analisar-as-contas-de-uma-empresa",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "5 maneiras de melhorar as finanças pessoais",
+  "topic": "Finanças pessoais",
+  "summary": "Ideias práticas: calcular o ganho por hora, fazer o orçamento, poupança automática e o desafio das 52 semanas.",
+  "body": "- Calcular o ganho por hora\n- Avaliar o orçamento: apontar todas as despesas e todos os ganhos\n- Fazer um mapa (por exemplo em Excel) e classificar as despesas em:\n- coisas desnecessárias\n- coisas essenciais\n- coisas que talvez se possam reduzir\n- Poupança mensal automática para outra conta ou para um PPR\n- Desafio das 52 semanas",
+  "id": "5-maneiras-de-melhorar-as-financas-pessoais",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Guia sobre fundos de investimento para iniciantes",
+  "topic": "ETFs e fundos",
+  "summary": "O que são fundos de investimento, tipos, vantagens, riscos, custos e como escolher um.",
+  "body": "Fundo de investimento - instrumento financeiro que resulta da captação de dinheiro de vários investidores.\n\n## Fundo de investimento mobiliário\n\ncaracteriza se por valores mobiliários (ações, obrigações)\n\n## Fundo de investimento imobiliário\n\nimóveis\n\n## Tipos de fundos mobiliários\n\n- Fundos Monetários ou tesouraria (fundos ligados a instrumentos com muita liquidez)\n- Fundos de obrigações\n- Fundos mistos\n- Fundos flexíveis\n- Fundos especiais de investimento\n- Fundos de índice (ETF's)\n- Fundos PPR\n- Fundos de capital garantido\n\n## Vantagens\n\n- Gestão profissional de quem dirige os nossos investimentos\n- Tempo necessário para olhar para os mercados e estudá-los\n- Informação e liquidez diária\n- Segurança\n- Permite uma economia de escala / maior margem de manobra para negociar\n\n## Desvantagens\n\n- Vários custos necessários\n- Estar exposto a uma gestão passiva do corretor\n- Não gerir pessoalmente os investimentos\n- Os fundos nem sempre são fiáveis\n- Riscos capitais (risco de capital na própria rentabilidade do ativo)\n- Quanto maior a rentabilidade potencial maior é o risco de perdas\n- Risco de mercado (estão suscetíveis a variações dos preços)\n- Risco de remuneração (os rendimentos que pode gerar são relativos)\n- Risco de liquidez (fundos fechados/fechados abertos)\n\n## Custos\n\n- Comissão de subscrição\n- Comissão de resgate\n- Comissão de gestão\n\n## Como escolher um fundo?\n\n- Investigar a entidade gestora\n- Ler a política de investimento\n- Perceber o que o corretor vai fazer com o dinheiro\n- Ver o histórico do último ano / últimos 5 anos\n- YTD (year to date) - desde o início do ano\n- Informar sobre as condições de subscrição de resgate (líquido)\n- Avaliar se as taxas são adequadas ao tipo de gestão",
+  "id": "guia-sobre-fundos-de-investimento-para-iniciantes",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Segurança, liberdade e independência financeira (movimento FIRE)",
+  "topic": "Finanças pessoais",
+  "summary": "Níveis de segurança, independência e liberdade financeira e o movimento FIRE (regra de 25x as despesas anuais).",
+  "body": "Movimento FIRE (2000)\n\nFinancial Independence Retire Early\n\nObjetivo: Poupar o máximo possível entre os 20 e os 30 anos para ter a possibilidade de se reformar (atingir a independência financeira) antes dos 40.\n\nLargar os empregos desinteressantes e ter a possibilidade de investir noutras áreas.\n\nLevar uma vida frugal (viver com coisas básicas)\n\n\" Nómadas digitais \"\n\nCríticas: Muitas pessoas consideram que é impossível ter taxas de poupança tão altas, cerca de 70/80% do que ganham.\n\nCalcular o valor das despesas ao longo de 1 ano e multiplicar por 25.\n\nMuitos adeptos do FIRE não têm filhos.\n\n## Três patamares\n\n## Segurança financeira nível 1\n\nQuantidade de dinheiro necessária para cobrir todas as despesas do mês.\n\nImportante o investimento neste patamar.\n\n## Independência financeira nível 2\n\nDinheiro suficientemente acumulado para poder ter renda passiva. Cash flow mensal suficiente p cobrir as despesas.\n\nTrocar o tempo por dinheiro.\n\nMovimento FIRE\n\nHá casos em que ainda é importante trabalhar.\n\n## Liberdade financeira nível 3\n\nLiberdade em termos de comprar tudo o que deseja.\n\nTer cash flow mensal para poder cobrir todas as despesas.\n\nNível mais alto da montanha.\n\n## Autonomia financeira (nível 2.5)\n\nConsiste em pensar tudo em cash flow.\n\nDinheiro a entrar e dinheiro a sair.\n\nPoupar e investir dinheiro em ativos que geram rendimento para cobrir 2,5 vezes as despesas mensais.\n\n## Exemplo\n\nDespesas mensais de 1000€\n\nRenda mensal de 2500€\n\n1000€ assegurados para as despesas\n\n1000€ para poupanças\n\n500€ para sonhos e desejos\n\n60% para as despesas\n\n20% para desejos\n\n20% investimento\n\n## 7 dicas\n\n1. Conhecer os números da liberdade financeira. (25x despesas de um ano)\n\n2. Ter objetivos e um planeamento financeiro.\n\n3. Avaliar o primeiro passo a fazer.\n\n4. Reduzir o peso das dívidas.\n\n5. Procurar ganhar mais.\n6. Investir na literacia financeira.",
+  "id": "seguranca-liberdade-e-independencia-financeira-movimento-fire",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Fundo de emergência",
+  "topic": "Finanças pessoais",
+  "summary": "O que é o fundo de emergência, quanto guardar (6 a 12 meses de despesas) e onde mantê-lo.",
+  "body": "É um montante que esta reservado para situações imprevistas (ex: desemprego)\n\nValor recomendado: o correspondente à cobertura de 6 meses de despesas normais.\n\n- Fazer um mapa de planeamento\n\nExemplo:\n\nDespesas: 1000€ por mês\n\nValor necessário: 6.000€ a 12.000€\n\nOnde guardar:\n\n- Depósitos a prazo (juros)\n- Fundos de tesouraria (risco baixo)\n- Certificados de aforro (emprestar dinheiro ao Estado)\n\nImportante: a melhor opção é a que combina liquidez e menor risco.",
+  "id": "fundo-de-emergencia",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "6 áreas-chave do planeamento financeiro pessoal",
+  "topic": "Finanças pessoais",
+  "summary": "Seis áreas do planeamento financeiro pessoal, do cash flow ao planeamento sucessório.",
+  "body": "- Fazer um mapa de cash flow (entrada e saída) + orçamento\n- Avaliar a situação líquida\n- Planear os melhores investimentos\n- Fiscalização\n- Preparar a reforma\n- Planeamento sucessório",
+  "id": "6-areas-chave-do-planeamento-financeiro-pessoal",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Pagar-se a si primeiro",
+  "topic": "Finanças pessoais",
+  "summary": "Separar logo cerca de 10% do rendimento para poupança, de forma automática, antes de qualquer outra despesa.",
+  "body": "Primeira coisa que fazer quando receber o salário/rendimento é separar parte desse dinheiro.\n\n10% do rendimento/salário\n\nOs 10% é o valor ideal para que não haja muita alteração naquilo que é os gastos feitos.\n\n## Exemplo\n\n1000€ por mês / 100€ de poupança\n\n22 dias de trabalho / 8 horas de trabalho\n\n49 minutos por dia para receber os 10%\n\n20 dias de trabalho para pagar contas\n\n1200€ por ano em poupanças\n\nBoas práticas:\n\n- Programar uma transferência automática para outra conta.\n\nOpções de destino:\n\n- Corretora de valores\n- IGCP/CTT (certificados)\n- PPR\n- Automatizar as poupanças\n- Tratar a poupança como uma despesa fixa\n- Deixar o dinheiro parado vai provocar perda de valor por causa da inflação.",
+  "id": "pagar-se-a-si-primeiro",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Juros compostos",
+  "topic": "Começar a investir",
+  "summary": "Diferença entre juro simples e composto, fórmulas, regra dos 72 e rendimento real.",
+  "body": "Juro simples - taxa que incide apenas sobre o capital inicial.\n\nJuros compostos - taxa que incide sobre o capital inicial e sobre os juros já acumulados.\n\n## Fórmulas\n\nJuros simples\n\nA = P (1+ rt)\n\nA - montante final\n\nP - saldo principal inicial\n\nr - taxa de juros anual\n\nt - tempo (em anos)\n\nJuros compostos\n\nA = P (1 + r/n)^(nt)\n\nn - número de vezes que os juros são aplicados por período\n\nt - número de períodos decorridos\n\n## Regra dos 72\n\nt ≈ 72 / r\n\nt - número de anos necessários para duplicar o valor de um investimento\n\nr - taxa de juros por período, em percentagem\n\n## Rendimento real\n\nRendimento real (%) = [ (1 + rendimento líquido) / (1 + inflação) - 1 ] x 100",
+  "id": "juros-compostos",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "ETFs",
+  "topic": "ETFs e fundos",
+  "summary": "O que são ETFs, diferenças face aos fundos tradicionais, vantagens, desvantagens e o que avaliar antes de investir.",
+  "body": "Exchange Traded Fund\n\nETF (Exchange Traded Fund) é um fundo negociado em bolsa. Investir em ETF pode ser uma alternativa aos fundos tradicionais, com menos custos e riscos.\n\nO etf permite investir diretamente num índice.\n\nO objetivo do etf é que o retorno seja o mais semelhante possível ao seu índice.\n\nA maioria dos etf replica vários setores (energia, metais preciosos, metais industriais, tecnologia)\n\nPara investir diretamente num índice é preciso comprar as ações das empresas que o constituem (por exemplo, o PSI 20: EDP, Navigator, Jerónimo Martins...).\n\n## Quem emite ETF?\n\n- Sociedades gestoras, bancos...\n\n## Tipos de ETF\n\n- índices\n- setoriais (ações da banca, por exemplo)\n- taxas de juro\n- temáticas (energias renováveis, por exemplo)\n- Diversificação\n- Taxas mais baixas\n- Não há capital garantido\n\n## Diferença entre fundo tradicional (FT) e ETF\n\n- ETF negoceiam em mercados regulados como as ações;\n- gestão passiva (ETF) gestão ativa (FT);\n- menos comissões no ETF;\n- ETF distribui dividendos (consultar a política dos dividendos);\n- custos de gestão (ETF) menor que no FT;\n- diversificação a baixo custo (ETF);\n- possibilidade para investir em pouco tempo (ETF).\n\n## Desvantagens dos ETF\n\n- não há a possibilidade de escolher as ações;\n- impossibilidade de retirar ações que não são favoráveis;\n- tributação igual à dos fundos internacionais (28%, regra datada)\n- retenção na fonte do país oriundo do lucro do ETF e no próprio país.\n\n## Características a avaliar\n\n- investir com valores maiores por causa das comissões;\n- podem variar em termos de tamanho, quanto menor os ativos, maior o spread do comprador vendedor;\n- avaliar a quantidade de ativos e a sua liquidez;\n- avaliar a política de dividendos;\n- avaliar o nosso perfil de investidor;\n- criar uma estratégia;\n\nNota: os índices cotam-se em pontos; as ações em euros/dólares.",
+  "id": "etfs",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Criptomoedas e tokens",
+  "topic": "Cripto",
+  "summary": "Conceitos de token e blockchain, os quatro tipos de tokens e o enquadramento regulatório.",
+  "body": "## Conceitos básicos\n\nToken - representa digitalmente um ativo (dinheiro, propriedade e investimento) numa blockchain.\n\nMiddleman - intermediário\n\nBlockchain - regista as transações entre as pessoas sem um intermediário.\n\nA Bitcoin nasceu em 2008, no contexto da crise financeira; a Ethereum surgiu mais tarde.\n\nBitcoin - surgiu como alternativa ao sistema bancário tradicional após a crise financeira de 2008.\n\n## Quatro tipos de tokens\n\nPayment tokens - são utilizados para transferência de capital, funcionando como dinheiro eletrónico. A Bitcoin, o Ethereum e mais de 10 mil criptomoedas existentes no mercado enquadram se nesta categoria.\n\nUtility tokens - oferecem alguma utilidade, como desconto em um produto específico ou acesso a um serviço exclusivo. Os fan tokens ativos digitais de clubes de futebol, são exemplos. Algumas equipas dão o direito de participar em promoções ou ter acesso a locais exclusivos.\n\nNFT (non fungible token) - representam algo único. Podem espelhar obras de arte, musicas, capas históricas de revistas e até tweets. Ao adquirir um NFT, a pessoa compra um código de computador que contém um registo do objeto.\n\nSecurity tokens -  representam algum valor mobiliário, como uma ação negociada na Bolsa de Valores. Como estão “ligados” a produtos regulados, eles precisam atender às regras de supervisores do mercado de capitais.\n\n## Tokens e regulação\n\nCabe lembrar que, a depender do projeto, um token pode ser considerado um valor mobiliário. Nesse caso, precisa passar pelo crivo dos reguladores.\n\nPara identificar se algum ativo digital se enquadra nessa categoria, a Comissão de Mercado de Valores Mobiliários (CMVM), assim como a SEC (Securities and Exchange Commission, equivalente americano da CMVM) nos Estados Unidos, realizam um teste chamado Howey Test.\n\nNessa avaliação, as duas agências reguladoras submetem o ativo a cinco parâmetros para determinar se sua oferta estará sob jurisdição do órgão. Se sim, é considerado um valor mobiliário e, portanto, passa a ser considerado um security token.\n\nNota: toda a criptomoedas é token, mas nem todos os tokens são criptomoedas.\n\n## Como funcionam\n\nO funcionamento do token depende do projeto e da categoria na qual o ativo se enquadra. No geral, no entanto, eles “rodam” nalguma blockchain. Além disso, são baseados em contratos inteligentes.\n\nOs payments tokens funcionam como meio de pagamento. Os utility tokens, por outro lado, dão acesso a serviços exclusivos, cupons de descontos, direito a voto e outros benefícios.\n\nJá os NFTs (sigla em inglês para tokens não-fungíveis) representam algo único – portanto, são itens virtuais colecionáveis exclusivos. O security token, por fim, é semelhante a valores mobiliários, como ações, e dão direito a lucro",
+  "id": "criptomoedas-e-tokens",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Estratégia de investimento: dollar cost averaging",
+  "topic": "Estratégias",
+  "summary": "Investir um montante fixo a intervalos regulares, independentemente do mercado, para reduzir o risco de entrar a preços altos.",
+  "body": "Construção de um portefólio a longo prazo\n\nDefinir um valor para investir todos os meses\n\n- \"Time the market\": tentar investir consoante o mercado (o que esta estratégia evita)\n\nAplicar em bolsa uma quantia fixa independente do mercado estar em alta ou em baixa\n\n## Exemplo ilustrativo\n\nInvestir 1000€ por mês durante 6 meses (6.000€) numa mesma ação, a preços diferentes em cada compra. O preço médio de compra fica entre o mais baixo e o mais alto, em vez de depender de uma única data de entrada.\n\nCom preços baixos compram-se mais títulos; com preços altos compram-se menos.\n\n- equilíbrio no investimento\n\n- garante a gestão emocional dos investimentos\n\n- não tentar adivinhar os momentos de entrada\n\n- mito da bolsa: comprar barato, vender caro\n\n- não há certeza sobre isso\n\n## Passos\n\n1. Decidir quanto dinheiro investir\n2. Definir a frequência do investimento (intervalo)\n3. Decidir em quantos períodos dividir o investimento\n\nObjetivo: proteger de comprar a preços altos\n\nDá para fazer em todos os investimentos.\n\n## Vantagens\n\n- estratégia utilizada por qualquer pessoa\n\n- permite tornar um investimento um hábito\n\n- permite focar no longo prazo e nos juros compostos\n\n- diminui a ansiedade\n\n## Desvantagens\n\n- não aproveitamento das melhores alturas do mercado\n\n- comissões, no longo prazo são maiores\n\n## Outras estratégias\n\n- investir de uma vez só;\n- comprar o mesmo número de ações em intervalos definidos;\n- investir em ações por impulso ou desejo.",
+  "id": "estrategia-de-investimento-dollar-cost-averaging",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Estratégia de Warren Buffett: investimento em valor",
+  "topic": "Estratégias",
+  "summary": "Princípios do investimento em valor: perspetiva de dono do negócio, valor intrínseco, margem de segurança e indicadores-chave.",
+  "body": "Warren Buffett construiu o seu património a partir de ações, seguindo a escola de investimento em valor de Benjamin Graham.\n\nInvestimento em valor (1934)\n\nLivro de referência: \"Security Analysis\"\n\nÉ uma estratégia de investimento que aposta em ações depreciadas / sub valorizadas.\n\nComprar barato para vender a longo prazo\n\n1. Olhar com uma perspectiva de dono de negócio (sócio)\n\n2. Irracionalidade dos mercados a longo prazo (oscilação dos preços) (oportunidades de negócio)\n\n3. Valor intrínseco (preço justo da ação)\n\nÉ feita através da análise fundamental (qualitativos e quantitativos)\n\nA avaliação é subjetiva.\n\n4. Margem de segurança\n\nComprar com desconto face ao valor intrínseco (por exemplo, a cerca de 2/3 desse valor)\n\n- Estes investidores não acreditam na hipótese de mercado eficiente porque o preço atual das ações já possui todas as informações acerca do preço.\n- As ações podem estar sobrevalorizadas ou sub valorizadas.\n- Estes investidores não seguem o efeito manada.\n- Paciência\n\n## Indicadores importantes\n\n- per (price earning ratio) quanto menor melhor\n- price to book (quanto menor, mais barata a ação face ao valor contabilístico)\n- indice de endividamento (quanto maior, mais dívida)\n- dividend yield\n\n## Perguntas sobre a empresa\n\nComo é que a empresa vai vender mais?\n\nPerceber quem são os concorrentes\n\nVer os regulamentos (estado)\n\ngovernance (gestor) ponto importante",
+  "id": "estrategia-de-warren-buffett-investimento-em-valor",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "IRS: o que é e categorias de rendimentos",
+  "topic": "Impostos",
+  "summary": "Características do IRS, categorias de rendimento (A, B, E, F, G, H) e rendimentos não sujeitos.",
+  "body": "⚠️ Regras e taxas mudam todos os anos: confirme os valores em vigor (Portal das Finanças e entidades oficiais).\n\nImposto sobre o Rendimento das Pessoas Singulares.\n\n## Características do IRS\n\n- Direto: Incide imediatamente sobre o rendimento e é atribuído diretamente a uma pessoa (contribuinte).\n- De base mundial: Aplica-se à totalidade dos rendimentos dos residentes em Portugal, independentemente do local onde forem obtidos, e ainda sobre os não residentes pelos rendimentos obtidos em Portugal.\n- Pessoal: Tem em conta a situação económica e social do contribuinte e do seu agregado familiar. Por exemplo, o cálculo do imposto é afetado pelo estado civil, número de dependentes, património, grau de deficiência (se existir), entre outros fatores.\n- Periódico: Tem uma natureza anual, uma vez que incide sobre o valor dos rendimentos obtidos entre 1 de janeiro e 31 de dezembro, depois de efetuadas as correspondentes deduções e abatimentos.\n- Declarativo: É determinado com base nas informações que constam na declaração de rendimentos – tecnicamente designada por Declaração Modelo 3 – que cada contribuinte tem o dever de entregar anualmente.\n- Progressivo (por escalões): Quanto mais elevado o escalão de rendimento sujeito a imposto, maior a taxa, mas só até um determinado nível (consultar a tabela de escalões em vigor). Ou seja, quem ganha mais, paga uma taxa de imposto superior.\n\n## Categorias de rendimentos no IRS\n\n## Categoria A\n\nNesta categoria estão incluídos os rendimentos do trabalho dependente, como vencimentos, gratificações, percentagens, comissões, participações, subsídios ou prémios, indemnizações, etc.\n\n## Categoria B\n\nFazem parte desta categoria os rendimentos empresariais e profissionais. Em causa estão rendimentos gerados pelo exercício de qualquer atividade comercial, industrial, agrícola, silvícola ou pecuária. Entre outros rendimentos, integram-se nesta categoria as importâncias obtidas no exercício, por conta própria, de qualquer atividade de prestação de serviços, incluindo as de carácter científico, artístico ou técnico, independentemente da sua natureza.\n\n## Categoria E\n\nEngloba os rendimentos de capitais, incluindo juros de depósitos à ordem ou a prazo e dividendos.\n\n## Categoria F\n\nConsideram-se rendimentos prediais as rendas dos prédios rústicos, urbanos e mistos. Esta categoria abrange ainda os rendimentos provenientes da exploração de alojamento local, desde que esta não esteja afeta a uma atividade empresarial.\n\n## Categoria G\n\nAqui enquadram-se os incrementos patrimoniais que não são considerados nas restantes categorias de rendimentos. São eles: mais-valias, indemnizações por danos emergentes não comprovados e por lucros cessantes e indemnizações por danos morais. Consideram-se ainda incrementos patrimoniais as importâncias atribuídas em virtude da assunção de obrigações de não concorrência e acréscimos patrimoniais não justificados.\n\n## Categoria H\n\nÉ constituída pelos rendimentos provenientes de pensões de aposentação ou de reforma, velhice, invalidez ou sobrevivência e ainda de alimentos. Estão igualmente incluídos na categoria H as prestações pagas por companhias de seguros, fundos de pensões, ou outras entidades, no âmbito de regimes complementares de Segurança Social, em razão de contribuições da entidade patronal e que não sejam consideradas rendimentos do trabalho dependente.\n\n## Nota\n\nO IRS não incide sobre a totalidade dos rendimentos recebidos. O Código do IRS prevê, basicamente, dois tipos de descontos: deduções ao rendimento e deduções à coleta (imposto a pagar).\n\n## Rendimentos não sujeitos a IRS\n\nHá alguns rendimentos que estão livres de IRS. Isso acontece porque são tributados em sede de outros impostos ou por razões de política fiscal. Entre os rendimentos não sujeitos a este imposto estão:\n\n- Subsídio de desemprego\n- Baixa médica\n- Abono de família\n- Prémios em jogos sociais\n- Prémios literários, artísticos e científicos\n- Prémios e bolsas atribuídos a praticantes de desportos de alta competição\n- Subsídio de alimentação e ajudas de custo até determinados valores\n- Indemnizações devidas em consequência de lesão corporal, doença ou morte\n\nNota: o limite de isenção para salários e pensões (a nota original indicava 8 500 euros) é datado e deve ser confirmado junto da Autoridade Tributária.",
+  "id": "irs-o-que-e-e-categorias-de-rendimentos",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Cuidados a ter com o IRS",
+  "topic": "Impostos",
+  "summary": "Pontos de atenção na tributação dos investimentos e na entrega da declaração de IRS.",
+  "body": "⚠️ Regras e taxas mudam todos os anos: confirme os valores em vigor (Portal das Finanças e entidades oficiais).\n\n## Tributação dos investimentos\n\n- Tributação autónoma: taxa única (28%, regra datada) ou englobamento\n- Retenção na fonte: o imposto pode já vir retido\n- Certificados de aforro e depósitos a prazo: não é preciso declarar os juros, exceto se optar pelo englobamento\n- Fundos nacionais: 28% retidos na fonte\n- Fundos estrangeiros: declaração obrigatória\n- Ações e ETFs: 28% (taxa autónoma)\n- Dividendos de ações: não é preciso declarar, exceto se optar pelo englobamento\n\n## Cuidados na entrega do IRS\n\n- Respeitar o prazo, mas não entregar logo na primeira semana\n- Fazer o download do programa\n- IRS automático (por exemplo, pensionistas e trabalhadores independentes, quando aplicável)\n- Anexo H (deduções e benefícios fiscais)\n- PPR: informação pré-preenchida\n- Verificar se há dispensa da entrega de IRS\n- Simular a entrega (englobamento vs taxa autónoma)\n- IRS dos filhos pode ser entregue com os pais\n- Confirmar que o IBAN está correto",
+  "id": "cuidados-a-ter-com-o-irs",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Investimentos mais seguros em Portugal",
+  "topic": "Começar a investir",
+  "summary": "Opções conservadoras em Portugal: depósitos, certificados de aforro, certificados do Tesouro, contas ordenado e PPR.",
+  "body": "⚠️ Regras e taxas mudam todos os anos: confirme os valores em vigor (Portal das Finanças e entidades oficiais).\n\nInvestimentos para perfis mais conservadores (menor retorno, menor risco):\n\n- Depósitos a prazo (3, 6 ou 12 meses); os depósitos promocionais podem ter taxas brutas muito baixas\n- Certificados de aforro (resgate possível após 3 meses): dívida do Estado\n- Certificados do Tesouro Poupança Crescimento (mínimo 1000 €, prazo de 1 ano): dívida do Estado\n- Contas ordenado com taxa promocional, tipicamente com limites de saldo e de depósito mensal\n- Seguros de capitalização\n- PPR com capital garantido, com entregas mensais de baixo valor",
+  "id": "investimentos-mais-seguros-em-portugal",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Growth investing",
+  "topic": "Estratégias",
+  "summary": "Estratégia de investir em empresas com forte potencial de crescimento: checklist, prós e contras.",
+  "body": "Estratégia oposta ao investimento em valor.\n\n- Investir em ações não tendo em conta o preço\n- Deve apresentar um crescimento contínuo\n- Empresas emergentes\n- Disposição de pagar mais para obter um lucro maior da ação\n\n## Pontos importantes\n\n- potencial de crescimento de vendas no longo prazo; (10 anos)\n- gestão / inovação / desenvolvimento;\n- margens de lucro;\n- o crescimento é rápido no início;\n- consumidores leais;\n\n## Checklist\n\n- produtos ou serviços com potencial para crescer?\n- gestão com capacidade de gerar mais lucros com produtos melhores?\n-  pesquisa e a inovação é compatível com a reputação da empresa?\n- estrutura de vendas acima da média?\n- boa margem de lucro?\n- o que a empresa esta a fazer para melhorar as margens de lucro?\n- a empresa tem boas políticas de relacionamento no trabalho?\n- bom relacionamento executivo?\n- a empresa tem uma boa estrutura?\n- boa análise de gastos?\n- pistas relevantes se pode vir se a destacar aos seus concorrentes?\n- terá capacidade para manter o capital da empresa ou vai ser preciso aumentar mais?\n- é aberta aos investidores?\n- tem uma gestão de integridade inquestionável?\n\n## Prós\n\n- os investimentos podem se valorizar mais no mercado em geral\n- os investidores podem se expor a indústrias a nível de tecnologia...\n\n## Contras\n\n- maior risco\n- maior volatilidade\n- não há dividendos\n- as avaliações podem estar erradas\n\n## Exemplos típicos\n\n- Meta\n- Apple\n- Netflix\n- Amazon",
+  "id": "growth-investing",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Investir num cenário de volatilidade",
+  "topic": "Estratégias",
+  "summary": "Sete formas de lidar com a volatilidade dos mercados.",
+  "body": "Volatilidade é a variação, por vezes rápida, do preço de um ativo.\n\nComo ser menos afetado pela volatilidade:\n\n1. Ter uma estratégia de investimento clara\n2. Combinar os investimentos com a tolerância ao risco (estar confortável)\n3. Diversificar a carteira por geografia e setor\n4. Investir no longo prazo\n5. Não tentar adivinhar o momento de mercado\n6. Adotar a estratégia de dollar cost averaging\n7. Considerar delegar a gestão (fundos de gestão ativa)",
+  "id": "investir-num-cenario-de-volatilidade",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Erros financeiros que não se devem cometer",
+  "topic": "Finanças pessoais",
+  "summary": "Lista de erros comuns em gastos, poupança e investimento.",
+  "body": "## Gastos e dívida\n\n- Gastar mais do que se ganha\n- Atrasar pagamentos\n- Comprar por impulso\n- Comprar sem precisar\n- Estoirar o cartão de crédito\n- Viver segundo o padrão dos outros (influências da sociedade)\n\n## Poupança e planeamento\n\n- Não poupar\n- Não ter um fundo de emergência\n- Não ter planeamento nem objetivos financeiros\n- Não poupar para a reforma\n- Não falar de finanças em casal\n- Misturar finanças pessoais com empresariais\n\n## Investimento\n\n- Não investir\n- Não avaliar todos os custos de uma operação\n- Não conhecer o perfil de investidor\n- Investir em dicas de que toda a gente fala\n- Não investir em literacia financeira",
+  "id": "erros-financeiros-que-nao-se-devem-cometer",
+  "kind": "nota",
+  "pdf": null
+ },
+ {
+  "title": "Análise de empresas: indicadores-chave",
+  "topic": "Ações e análise",
+  "summary": "Resumo dos principais rácios para analisar uma empresa: PER, price to book, dividend yield, EPS, ROI, ROA e outros.",
+  "body": "Indicadores habituais na análise de uma empresa a partir do relatório de contas (+ quanto maior melhor; - quanto menor melhor, em regra):\n\n- Price to earnings ratio (preço/lucro) (-)\n- Price to book ratio (preço/valor contabilístico, ou seja, ativos menos passivos) (-)\n- Dividend yield (dividendos anuais pagos vs preço da ação) (+)\n- Earnings per share (lucro da empresa a dividir pelo número de ações) (+)\n- Margens de lucro (lucro bruto / receita) (+)\n- Return on investment (ganho ou perda face ao investimento inicial) (+)\n- Return on assets (lucro / total de ativos) (+)\n- Debt to equity ratio (dívida total / capital próprio) (-)\n- Autonomia financeira (capital próprio / total de ativos)\n- Liquidez geral (ativos correntes / passivos correntes)",
+  "id": "analise-de-empresas-indicadores-chave",
+  "kind": "nota",
+  "pdf": null
+ }
+]
