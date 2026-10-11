@@ -210,6 +210,21 @@
   "id": "jnj-2026-10-03"
  },
  {
+  "company": "Costco",
+  "sector": "Consumo básico (clubes de armazém)",
+  "thesis": "A Costco é o maior operador mundial de clubes de armazém: 939 armazéns em 14 países, 84,1 milhões de membros pagantes e receitas de 303,2 mil milhões de USD no ano fiscal de 2026. O modelo assenta num sortido curto (cerca de 4.000 referências), margem bruta próxima de 11% e receita recorrente de quotas, com taxas de renovação acima de 90%.\n\nO ano fiscal de 2026 foi muito sólido: lucro líquido de 9,23 mil milhões de USD (+13,9%) e lucro por ação diluído de 20,76 USD (+14,0%). Mesmo assim, a ação fechou setembro a 911,82 USD, cerca de 17% abaixo do máximo de 52 semanas.\n\nA tese da análise é que o problema não é o negócio, é o preço: a cerca de 40 vezes os lucros esperados, a cotação já desconta uma década de execução quase perfeita. Os cenários a 12 meses apontam para um retorno próximo de zero, e a cinco anos para 5% a 7% ao ano, incluindo dividendos.\n\nConclusão: manter (para quem já tem), acumular gradualmente abaixo de 820 USD e compra convicta abaixo de 750 USD. Classificada como \"quality compounder defensivo\", com horizonte de 5 a 10 anos ou mais.",
+  "strengths": "• Receita recorrente de quotas (5,91 mil milhões de USD no AF2026) e renovações de 92,3% nos EUA e Canadá.\n• Escala por referência e marca própria Kirkland Signature, com poder negocial sobre fornecedores.\n• Caixa líquida positiva, ciclo de conversão de caixa quase nulo e retorno sobre o capital investido acima de 20%.\n• Lucros sem uma única queda anual na última década (lucro líquido a crescer cerca de 14,7% ao ano).\n• Rede em expansão: 33 aberturas previstas no AF2027 e quota de cerca de 64% nos clubes de armazém dos EUA.",
+  "risks": "• Avaliação exigente: P/E de 43,9x (histórico) e 40,0x (prospetivo), com PEG próximo de 4.\n• Contração de múltiplos: a 32 vezes os lucros esperados, a cotação recuaria para cerca de 730 USD.\n• Abrandamento das renovações, sobretudo entre membros captados por via digital.\n• Tarifas e custos de importação; os reembolsos IEEPA são pontuais.\n• Concorrência (Sam's Club, Amazon, BJ's) e custos laborais acima da inflação.",
+  "valuation": "• Cotação: 911,82 USD (fecho de 30/09/2026); capitalização de cerca de 404 mil milhões de USD.\n• P/E histórico 43,9x; P/E prospetivo 40,0x; PEG próximo de 4; média histórica de 15 anos de 30 a 35 vezes.\n• Preço justo estimado pela análise: 850 a 950 USD (o valor 900 USD indicado é o ponto médio deste intervalo).\n• Cenários a 12 meses: pessimista 726 USD (-20%), base 935 USD (+3%), otimista 1.081 USD (+19%); valor ponderado de cerca de 920 USD.\n• Perspetiva a cinco anos: lucro por ação de cerca de 34 USD no AF2031, a 35 vezes, equivale a cerca de 1.200 USD.\n• Preço-alvo médio dos analistas: 1.046 a 1.058 USD.\n• Dividendo ordinário de 5,88 USD por ano (rendimento de 0,65%).\n\nResumo da análise original; não é recomendação de investimento.",
+  "author": "João Maria",
+  "symbol": "COST",
+  "date": "2026-10-01",
+  "verdict": "manter",
+  "fair_value": 900.0,
+  "pdf": null,
+  "id": "cost-2026-10-01"
+ },
+ {
   "company": "Visa",
   "sector": "Pagamentos e serviços financeiros",
   "thesis": "A Visa é a maior rede de pagamentos eletrónicos do mundo. Não empresta dinheiro, não emite cartões e não assume risco de crédito: liga bancos emissores, adquirentes, comerciantes e consumidores através da VisaNet e cobra uma pequena comissão por cada transação autorizada, compensada e liquidada. É uma portagem sobre o consumo global, com margem operacional de cerca de 67% e conversão quase total dos lucros em fluxo de caixa.\n\nGanha com comissões de serviço sobre o volume, comissões de processamento por transação, comissões sobre transações internacionais (as mais rentáveis) e serviços de valor acrescentado. No 3.º trimestre fiscal de 2026 superou pela primeira vez 4 biliões de USD de volume num trimestre, com receita líquida de 11,6 mil milhões (+14%).\n\nA tensão central: um duopólio com efeito de rede e crescimento de dois dígitos, contra riscos regulatórios nos EUA (Credit Card Competition Act, acordo de intercâmbio, processo antitrust do DOJ sobre o débito) e a ameaça, ainda teórica, das stablecoins e dos pagamentos conta a conta. O documento classifica-a como qualidade composta e recomenda comprar com acumulação gradual.",
