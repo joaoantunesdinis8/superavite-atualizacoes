@@ -358,5 +358,20 @@
   "fair_value": 465.0,
   "pdf": "adbe-2026-06-22.pdf",
   "id": "adbe-2026-06-22"
+ },
+ {
+  "company": "McDonald's",
+  "sector": "Restauração (fast food)",
+  "thesis": "A McDonald's é a maior cadeia de restauração rápida do mundo: mais de 43.000 restaurantes em 119 países e vendas sistémicas acima de 130 mil milhões de USD. Cerca de 95% dos restaurantes são franchisados, pelo que o negócio é, na prática, de royalties e imobiliário, com margem EBITDA de cerca de 53% em 2024.\n\nA análise (junho de 2026, cotação de referência de cerca de 284 USD) classifica-a como \"compounding quality\": qualidade excecional, crescimento moderado e previsível (EPS esperado de 7% a 10% ao ano), dividendos crescentes há mais de 26 anos e recompras consistentes.\n\nA avaliação é descrita como razoável para a qualidade (P/E de cerca de 24 a 25x), \"não barata, não cara\". O documento descreve-a como posição \"core\" adequada a uma carteira diversificada de longo prazo, mas não emite uma recomendação de compra, manutenção ou venda, pelo que fica classificada como estudo.",
+  "strengths": "• Maior rede de fast food do mundo, com escala, marca e poder de compra difíceis de igualar.\n• Modelo de franchising quase puro: margem EBITDA de 53,3% e margem operacional de 46,3% em 2024.\n• Cash flow operacional superior a 9 mil milhões de USD por ano.\n• Dividend Aristocrat: mais de 26 anos de aumentos consecutivos; rendimento de cerca de 2,5%.\n• Estratégia digital e de expansão (meta de 50.000 restaurantes até 2027).",
+  "risks": "• Segurança alimentar: surto de E. coli em outubro de 2024, com queda de tráfego e custos superiores a 100 milhões de USD.\n• Pressão sobre o consumidor e perceção de preços elevados.\n• Concorrência crescente, incluindo cadeias fast-casual como Chipotle.\n• Risco cambial e geopolítico (operações em mais de 100 países).\n• Pressões regulatórias e laborais (salários mínimos) e dívida líquida de 37,3 mil milhões de USD em 2024 (2,7x EBITDA).",
+  "valuation": "• Cotação de referência: cerca de 284 USD (junho de 2026); capitalização de cerca de 196 mil milhões de USD.\n• P/E de cerca de 24 a 25x os lucros esperados de 2025; EV/EBITDA de cerca de 19x; P/S de 7,9x em 2024.\n• 2024: receitas de 25,9 mil milhões de USD, EBITDA de 13,8 mil milhões, resultado líquido de 8,22 mil milhões e EPS de 11,51 USD.\n• Rendimento do dividendo de cerca de 2,5%.\n• O documento não indica valor justo nem preço-alvo.\n\nResumo da análise original; não é recomendação de investimento.",
+  "author": "João Maria",
+  "symbol": "MCD",
+  "date": "2026-06-04",
+  "verdict": "estudo",
+  "fair_value": null,
+  "pdf": "mcd-2026-06-04.pdf",
+  "id": "mcd-2026-06-04"
  }
 ]
