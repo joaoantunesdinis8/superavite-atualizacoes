@@ -1,12 +1,12 @@
 {
- "version": "1.0.23",
- "notes": "Importar: botão «Converter em Excel» sempre visível ao lado de Analisar, para corrigir as linhas mal lidas. Valor intrínseco: botão Pesquisar e pesquisa por nome ou símbolo enquanto escreve.",
+ "version": "1.0.24",
+ "notes": "Importar: os extratos passam a importar-se em CSV (sem erros de leitura), com instruções para exportar o CSV no homebanking. Só tem o PDF? Pedido pronto para o Claude converter em CSV e passo a passo no iLovePDF.",
  "date": "2026-10-12",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.23-macOS-arm64.dmg",
-   "sha256": "7e6a92a15dae335b6e9323a713b8f2782ba35d4ac9d064c97dfda1037ef74944",
-   "size": 24446740
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.24-macOS-arm64.dmg",
+   "sha256": "5d813269423cd3387b298bdb994daefec4696315b2cdc3ce72fafbbd52d95fd2",
+   "size": 24443781
   }
  }
 }
