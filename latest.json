@@ -1,12 +1,12 @@
 {
- "version": "1.0.28",
- "notes": "Aspeto novo: 12 temas em claro e escuro, 15 letras e tamanho do texto à escolha; menu agrupado; Painel por prioridades; página própria para cada ativo com a sua posição; tabela da carteira com colunas à escolha; melhor no telemóvel e com leitores de ecrã. Também: ações e índices comparados em %, rentabilidade por período, mais-valias em PDF e índices/ETF novos logo no próprio dia.",
+ "version": "1.0.29",
+ "notes": "Subscrição: ao criar conta (ou na próxima abertura) indique o seu email; 30 dias grátis e depois 9,99 €/mês ou 95,90 €/ano por MB WAY. Só o nome e o email saem do computador, nunca os dados financeiros; exportar os dados funciona sempre. Página de cada empresa com gráficos maiores e separados: receitas, lucro, fluxo de caixa livre, EBITDA, dívida face ao fluxo de caixa livre e margens.",
  "date": "2026-10-12",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.28-macOS-arm64.dmg",
-   "sha256": "a8346890c0b81814225948b0025b56a6622e9bbf93e0bc7f035dde9ad3debd1c",
-   "size": 25208193
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.29-macOS-arm64.dmg",
+   "sha256": "b2766d0aa55e0dea978a01eb558b4e3a1e0c26a262b43a4be2de5b1dc2fb4aad",
+   "size": 25229672
   }
  }
 }
