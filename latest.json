@@ -1,12 +1,12 @@
 {
- "version": "1.0.19",
- "notes": "IBAN: pode colar o IBAN completo (só ficam guardados os últimos 4 dígitos). Fotografias e PDFs digitalizados de extratos lidos com leitura ótica; faturas, documentos e recibos aceitam também HEIC, WEBP, TIFF, GIF e BMP. Faturas: filtros por trimestre, ano, valor, fornecedor e estado, apagar na reconciliação e melhor leitura do IVA.",
- "date": "2026-10-11",
+ "version": "1.0.20",
+ "notes": "Boas-vindas do Tio Dino e resumo semanal; avisos numa só lista («O Tio Dino reparou») com adiar e dispensar; balancete da empresa, ponto de equilíbrio e mapa de impostos face ao banco; simulador de crédito com comparação de propostas e dados das suas contas; salário líquido; «Posso comprar isto?»; fundo de emergência; excedente do mês para metas e investimento; assistente «Fechar o mês»; prestações divididas em juros e capital; IVA das faturas passa para os movimentos; arquivo único de documentos; menu mais simples (Investimentos, Documentos, Simuladores).",
+ "date": "2026-10-12",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.19-macOS-arm64.dmg",
-   "sha256": "56014e95701a6fbbed025cb6403626d2227fef8d8c83c4497361eb48ea2591da",
-   "size": 24319836
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.20-macOS-arm64.dmg",
+   "sha256": "3d049407e54c2452e673dfb30fcaa38d8166da9ff6592f0963a5f7463860035b",
+   "size": 24407770
   }
  }
 }
