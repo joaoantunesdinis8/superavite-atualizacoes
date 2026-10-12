@@ -1,12 +1,12 @@
 {
- "version": "1.0.20",
- "notes": "Boas-vindas do Tio Dino e resumo semanal; avisos numa só lista («O Tio Dino reparou») com adiar e dispensar; balancete da empresa, ponto de equilíbrio e mapa de impostos face ao banco; simulador de crédito com comparação de propostas e dados das suas contas; salário líquido; «Posso comprar isto?»; fundo de emergência; excedente do mês para metas e investimento; assistente «Fechar o mês»; prestações divididas em juros e capital; IVA das faturas passa para os movimentos; arquivo único de documentos; menu mais simples (Investimentos, Documentos, Simuladores).",
+ "version": "1.0.21",
+ "notes": "Investimentos: novo separador Oportunidades (wide moat e subvalorizadas, a partir dos seus dados, sem aconselhamento); custo das ações em dólares calculado com o câmbio do Yahoo; ETF sem ISIN reconhecidos; preços do valor intrínseco atualizados a cada 30 minutos e corrigidos para bolsas europeias. Faturas: quando não se conseguem ler, a app diz porquê e como resolver. Extratos PDF: mais formatos reconhecidos (datas sem ano, débito/crédito pelo saldo); no máximo 5 extratos por importação.",
  "date": "2026-10-12",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.20-macOS-arm64.dmg",
-   "sha256": "3d049407e54c2452e673dfb30fcaa38d8166da9ff6592f0963a5f7463860035b",
-   "size": 24407770
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.21-macOS-arm64.dmg",
+   "sha256": "551d0ddfa802b8e20c131d78d83b585c1b37e540231f8a1f2398d3b947b2f28a",
+   "size": 24418775
   }
  }
 }
