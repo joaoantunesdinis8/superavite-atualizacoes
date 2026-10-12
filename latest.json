@@ -1,12 +1,12 @@
 {
- "version": "1.0.22",
- "notes": "Extratos PDF lidos como tabela (pelas colunas) e com o sinal depois do valor (Moey, Crédito Agrícola); botão «Descarregar em Excel para corrigir»; suporte por email nos erros; conselhos para importar sem erros. Preços da carteira, valor intrínseco e watchlist atualizados sempre que se abre a página; valores intrínsecos partilhados com todos; Orçamentos com objetivos de poupança e investimento.",
+ "version": "1.0.23",
+ "notes": "Importar: botão «Converter em Excel» sempre visível ao lado de Analisar, para corrigir as linhas mal lidas. Valor intrínseco: botão Pesquisar e pesquisa por nome ou símbolo enquanto escreve.",
  "date": "2026-10-12",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.22-macOS-arm64.dmg",
-   "sha256": "47be15b5d11e359fb699bf793f17309383dae0f60be0461ab6aaf829fa944dac",
-   "size": 24446512
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.23-macOS-arm64.dmg",
+   "sha256": "7e6a92a15dae335b6e9323a713b8f2782ba35d4ac9d064c97dfda1037ef74944",
+   "size": 24446740
   }
  }
 }
