@@ -1,12 +1,12 @@
 {
- "version": "1.0.26",
- "notes": "Cópias locais diárias e exportação cifrada; números iguais em todo o lado; «Rever contagens» para reembolsos, duplicados e prendas; avisos de valores parciais ou desatualizados; contas ao cêntimo; um só sistema de avisos (Definições → Avisos, app e email); Conselheiro só informativo; várias watchlists, ficha financeira das empresas e índices/ETFs por geografia.",
+ "version": "1.0.27",
+ "notes": "Ações nos avisos e «As minhas decisões»; datas de resultados e dividendos no Calendário; tese de investimento com data de revisão; exposição por setor e país (também dentro dos ETFs); comparar empresas; ficha com cores pelos critérios de investimento em valor, previsões e 10 anos de contas (SEC); distribuir um aporte sem vender; como exportar o CSV em cada banco.",
  "date": "2026-10-12",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.26-macOS-arm64.dmg",
-   "sha256": "7ab29ec463ed9d03f2d53764ef26f9eb5d4b4d64992854b3a82134453d8bc0e8",
-   "size": 24511473
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.27-macOS-arm64.dmg",
+   "sha256": "72438337fdb244ef0a7f31232b1ceebd47284d6270bd042ee30d8612229ba425",
+   "size": 24552199
   }
  }
 }
