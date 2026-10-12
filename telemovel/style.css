@@ -19,3 +19,6 @@ nav button{flex:1;background:none;border:0;padding:12px 4px;color:var(--mut);fon
 body.priv .v{filter:blur(7px)}
 nav[hidden]{display:none}
 .steps{padding-left:1.2rem;line-height:1.5}.steps li{margin-bottom:.35rem}
+
+.parcial{color:#7A4E00;font-weight:600}
+@media (prefers-color-scheme:dark){.parcial{color:#FCD889}}

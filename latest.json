@@ -1,12 +1,12 @@
 {
- "version": "1.0.25",
- "notes": "Importar: extratos também em Excel (.xlsx), além de CSV. Boas-vindas: a curiosidade do Tio Dino muda em cada abertura; semana sem movimentos já não aparece como «gastou menos 100%».",
+ "version": "1.0.26",
+ "notes": "Cópias locais diárias e exportação cifrada; números iguais em todo o lado; «Rever contagens» para reembolsos, duplicados e prendas; avisos de valores parciais ou desatualizados; contas ao cêntimo; um só sistema de avisos (Definições → Avisos, app e email); Conselheiro só informativo; várias watchlists, ficha financeira das empresas e índices/ETFs por geografia.",
  "date": "2026-10-12",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.25-macOS-arm64.dmg",
-   "sha256": "bb1c12f6e25300b14a6aef7667516e950cb9a4e62ae85158b6dac60a2587e746",
-   "size": 24445890
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.26-macOS-arm64.dmg",
+   "sha256": "7ab29ec463ed9d03f2d53764ef26f9eb5d4b4d64992854b3a82134453d8bc0e8",
+   "size": 24511473
   }
  }
 }

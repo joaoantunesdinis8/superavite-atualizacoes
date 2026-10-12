@@ -81,10 +81,10 @@ function painel(sp) {
   const t = cur.totals || {}, p = prev.totals || {};
   const cats = Object.entries(cur.by_category_total || {}).sort((a, b) => b[1] - a[1]).slice(0, 8);
   return `<section class="kpis">
-    <div><small>Receitas ${y}</small>${eur(t.income)}<small>${y - 1}: ${eur(p.income)}</small></div>
+    <div><small>Receitas ${y}</small>${eur((t.income || 0) + (t.invest_income || 0))}<small>${y - 1}: ${eur((p.income || 0) + (p.invest_income || 0))}</small></div>
     <div><small>Despesas ${y}</small>${eur(t.expenses)}<small>${y - 1}: ${eur(p.expenses)}</small></div>
     <div><small>Poupança ${y}</small>${eur(t.savings)}<small>${y - 1}: ${eur(p.savings)}</small></div>
-    ${sp.net_worth == null ? "" : `<div><small>Património</small>${eur(sp.net_worth)}</div>`}</section>
+    ${sp.net_worth == null ? "" : `<div><small>Património</small>${eur(sp.net_worth)}${(sp.net_worth_missing || []).length ? `<small class="parcial">◐ parcial: sem saldo de ${esc(sp.net_worth_missing.join(", "))}</small>` : ""}</div>`}</section>
     <section class="card"><h2>Onde gastou em ${y}</h2>${cats.map(([c, v]) => `<div class="li"><span>${esc(c)}</span>${eur(v)}</div>`).join("") || "<p>Sem despesas.</p>"}</section>`;
 }
 
