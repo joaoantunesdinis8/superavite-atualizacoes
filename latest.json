@@ -1,12 +1,12 @@
 {
- "version": "1.0.21",
- "notes": "Investimentos: novo separador Oportunidades (wide moat e subvalorizadas, a partir dos seus dados, sem aconselhamento); custo das ações em dólares calculado com o câmbio do Yahoo; ETF sem ISIN reconhecidos; preços do valor intrínseco atualizados a cada 30 minutos e corrigidos para bolsas europeias. Faturas: quando não se conseguem ler, a app diz porquê e como resolver. Extratos PDF: mais formatos reconhecidos (datas sem ano, débito/crédito pelo saldo); no máximo 5 extratos por importação.",
+ "version": "1.0.22",
+ "notes": "Extratos PDF lidos como tabela (pelas colunas) e com o sinal depois do valor (Moey, Crédito Agrícola); botão «Descarregar em Excel para corrigir»; suporte por email nos erros; conselhos para importar sem erros. Preços da carteira, valor intrínseco e watchlist atualizados sempre que se abre a página; valores intrínsecos partilhados com todos; Orçamentos com objetivos de poupança e investimento.",
  "date": "2026-10-12",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.21-macOS-arm64.dmg",
-   "sha256": "551d0ddfa802b8e20c131d78d83b585c1b37e540231f8a1f2398d3b947b2f28a",
-   "size": 24418775
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.22-macOS-arm64.dmg",
+   "sha256": "47be15b5d11e359fb699bf793f17309383dae0f60be0461ab6aaf829fa944dac",
+   "size": 24446512
   }
  }
 }
