@@ -1,12 +1,17 @@
 {
- "version": "1.0.29",
- "notes": "Subscrição: ao criar conta (ou na próxima abertura) indique o seu email; 30 dias grátis e depois 9,99 €/mês ou 95,90 €/ano por MB WAY. Só o nome e o email saem do computador, nunca os dados financeiros; exportar os dados funciona sempre. Página de cada empresa com gráficos maiores e separados: receitas, lucro, fluxo de caixa livre, EBITDA, dívida face ao fluxo de caixa livre e margens.",
- "date": "2026-10-12",
+ "version": "1.0.30",
+ "notes": "Correção: depois de anular uma importação feita no espaço errado, já é possível importar o mesmo extrato no espaço certo (a conta vazia passa para esse espaço). Primeira versão também para Windows com a subscrição.",
+ "date": "2026-10-13",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.29-macOS-arm64.dmg",
-   "sha256": "b2766d0aa55e0dea978a01eb558b4e3a1e0c26a262b43a4be2de5b1dc2fb4aad",
-   "size": 25229672
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.30-macOS-arm64.dmg",
+   "sha256": "a04f37189aca47137bb2bfe7dadfa57cee20cd03418424204c05457eca414665",
+   "size": 25230297
+  },
+  "windows": {
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.30-Windows.exe",
+   "sha256": "948c1bd73fdbf58e60341d90622c2bb056b604326972505944933412b40e1015",
+   "size": 32862470
   }
  }
 }
