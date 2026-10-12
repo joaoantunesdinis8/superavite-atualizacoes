@@ -1,12 +1,12 @@
 {
- "version": "1.0.27",
- "notes": "Ações nos avisos e «As minhas decisões»; datas de resultados e dividendos no Calendário; tese de investimento com data de revisão; exposição por setor e país (também dentro dos ETFs); comparar empresas; ficha com cores pelos critérios de investimento em valor, previsões e 10 anos de contas (SEC); distribuir um aporte sem vender; como exportar o CSV em cada banco.",
+ "version": "1.0.28",
+ "notes": "Aspeto novo: 12 temas em claro e escuro, 15 letras e tamanho do texto à escolha; menu agrupado; Painel por prioridades; página própria para cada ativo com a sua posição; tabela da carteira com colunas à escolha; melhor no telemóvel e com leitores de ecrã. Também: ações e índices comparados em %, rentabilidade por período, mais-valias em PDF e índices/ETF novos logo no próprio dia.",
  "date": "2026-10-12",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.27-macOS-arm64.dmg",
-   "sha256": "72438337fdb244ef0a7f31232b1ceebd47284d6270bd042ee30d8612229ba425",
-   "size": 24552199
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.28-macOS-arm64.dmg",
+   "sha256": "a8346890c0b81814225948b0025b56a6622e9bbf93e0bc7f035dde9ad3debd1c",
+   "size": 25208193
   }
  }
 }
