@@ -1,17 +1,17 @@
 {
- "version": "1.0.31",
- "notes": "Os preços da subscrição passam a vir sempre do servidor (também antes de indicar o email). Nova app autónoma para o telemóvel em tiodino-movel.pages.dev, com os dados só no telemóvel.",
+ "version": "1.0.32",
+ "notes": "Windows: a instalação já funciona com nomes de utilizador com acentos (ex.: João).",
  "date": "2026-10-13",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.31-macOS-arm64.dmg",
-   "sha256": "39987496a281cb49a1b9e28852f6ca405863b163100802652251cf2361cac654",
-   "size": 25232653
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.32-macOS-arm64.dmg",
+   "sha256": "61a725d28cc0f2a53f6d6308a4d548b70228df37c65ba0c32e4ee42c6c19beb4",
+   "size": 25233162
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.31-Windows.exe",
-   "sha256": "a1187722e2b15ba6373bfcaba47d73857b461b5bc5a45c770e97864fd604ff29",
-   "size": 32863142
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.32-Windows.exe",
+   "sha256": "e7676e450131c6a7ad0f87f8428791a9329a17a621e5559a7e2f1f96617bc1a4",
+   "size": 32961448
   }
  }
 }
