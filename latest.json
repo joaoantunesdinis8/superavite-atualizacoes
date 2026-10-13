@@ -1,17 +1,17 @@
 {
- "version": "1.0.35",
- "notes": "Ligação aos bancos sem o limite de 4 leituras por dia e cada conta nova marcada como Pessoal ou Empresa; empresa: código QR das faturas, mapa do IVA, contas correntes e cobranças, certidões, tesouraria a 13 semanas, salários, orçamento anual, imobilizado, pacote do contabilista e InvoiceXpress; programa de convites.",
+ "version": "1.0.36",
+ "notes": "Bancos: ligar também o acesso de empresa (ex.: Bankinter Empresas) sem perder a ligação pessoal; as contas da empresa ficam no espaço Empresa.",
  "date": "2026-10-13",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.35-macOS-arm64.dmg",
-   "sha256": "162f7b99c91608803ec6e604aaa738e691ee6d81f4ee513e36145e27a965a26a",
-   "size": 25187594
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.36-macOS-arm64.dmg",
+   "sha256": "f0e5d5b9af017d278ad2db1e9bbfc44a62c6f43e0fd7d589c37fe572861ecd51",
+   "size": 25189177
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.35-Windows.exe",
-   "sha256": "49c7bb8cb4ed48b0fce316e9ce10cfc03f0b3037d9be4ff98b70ccca7b526a1c",
-   "size": 33048042
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.36-Windows.exe",
+   "sha256": "82908273a15606138321dff247a9fa5033172c21ac2d4373a1d9a26a4a874c12",
+   "size": 33046836
   }
  }
 }
