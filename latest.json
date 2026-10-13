@@ -1,17 +1,17 @@
 {
- "version": "1.0.30",
- "notes": "Correção: depois de anular uma importação feita no espaço errado, já é possível importar o mesmo extrato no espaço certo (a conta vazia passa para esse espaço). Primeira versão também para Windows com a subscrição.",
+ "version": "1.0.31",
+ "notes": "Os preços da subscrição passam a vir sempre do servidor (também antes de indicar o email). Nova app autónoma para o telemóvel em tiodino-movel.pages.dev, com os dados só no telemóvel.",
  "date": "2026-10-13",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.30-macOS-arm64.dmg",
-   "sha256": "a04f37189aca47137bb2bfe7dadfa57cee20cd03418424204c05457eca414665",
-   "size": 25230297
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.31-macOS-arm64.dmg",
+   "sha256": "39987496a281cb49a1b9e28852f6ca405863b163100802652251cf2361cac654",
+   "size": 25232653
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.30-Windows.exe",
-   "sha256": "948c1bd73fdbf58e60341d90622c2bb056b604326972505944933412b40e1015",
-   "size": 32862470
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.31-Windows.exe",
+   "sha256": "a1187722e2b15ba6373bfcaba47d73857b461b5bc5a45c770e97864fd604ff29",
+   "size": 32863142
   }
  }
 }
