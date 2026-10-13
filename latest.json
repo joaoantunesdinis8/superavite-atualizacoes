@@ -1,12 +1,12 @@
 {
- "version": "1.0.33",
- "notes": "Ligação direta ao seu banco (Enable Banking, gratuita para uso pessoal) com guia passo a passo; planos Pessoal, Empresa e Pessoal + Empresa; apagar contas vazias; instalador do Windows mais robusto.",
+ "version": "1.0.34",
+ "notes": "Ligação ao banco: explicação de onde estão o ficheiro .pem e o Application ID.",
  "date": "2026-10-13",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.33-macOS-arm64.dmg",
-   "sha256": "eaccf6b1da7959ac4475f44ed86672611ebae72b7b02f0e3624f9c59da52fff3",
-   "size": 25260667
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.34-macOS-arm64.dmg",
+   "sha256": "b590ad179b93007b349ce511fd4ddca691f831b6a95abb7e17f5607c46e7ed7d",
+   "size": 25259193
   }
  }
 }
