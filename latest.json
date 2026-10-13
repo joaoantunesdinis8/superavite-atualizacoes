@@ -1,17 +1,12 @@
 {
- "version": "1.0.32",
- "notes": "Windows: a instalação já funciona com nomes de utilizador com acentos (ex.: João).",
+ "version": "1.0.33",
+ "notes": "Ligação direta ao seu banco (Enable Banking, gratuita para uso pessoal) com guia passo a passo; planos Pessoal, Empresa e Pessoal + Empresa; apagar contas vazias; instalador do Windows mais robusto.",
  "date": "2026-10-13",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.32-macOS-arm64.dmg",
-   "sha256": "61a725d28cc0f2a53f6d6308a4d548b70228df37c65ba0c32e4ee42c6c19beb4",
-   "size": 25233162
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.32-Windows.exe",
-   "sha256": "e7676e450131c6a7ad0f87f8428791a9329a17a621e5559a7e2f1f96617bc1a4",
-   "size": 32961448
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.33-macOS-arm64.dmg",
+   "sha256": "eaccf6b1da7959ac4475f44ed86672611ebae72b7b02f0e3624f9c59da52fff3",
+   "size": 25260667
   }
  }
 }
