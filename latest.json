@@ -1,17 +1,12 @@
 {
- "version": "1.0.37",
- "notes": "A fatura aparece em cada movimento da empresa (ver, ligar ou carregar ali mesmo); as entradas de dinheiro importadas contam logo como rendimento; tipo de movimento e categoria sempre coerentes; mapa de km com rotinas semanais.",
+ "version": "1.0.38",
+ "notes": "Categorias: escolher em que tipos de movimento se usam, mudar o nome e mais emojis; «aplicar aos semelhantes» mostra a lista para escolher; em lote, uma entrada com categoria de despesa passa a reembolso e o que fica de fora diz porquê; aplicar o tipo em lote; transferências internas entre empresa e pessoal com desfazer.",
  "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.37-macOS-arm64.dmg",
-   "sha256": "0481c0d20f4963c3b44716da163e63b838dcfb4941347dfe3a3a5894938cdb19",
-   "size": 25194505
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.37-Windows.exe",
-   "sha256": "233d245b0b36d049a379b1e5f7b05f7c94c38abd14575b944bced1d2fbe7b0a9",
-   "size": 33060803
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.38-macOS-arm64.dmg",
+   "sha256": "2a60e99c0ad57ce28126476c5d30dd7c4f2fba1693ff643c28ba4be3eb0803e3",
+   "size": 25202087
   }
  }
 }
