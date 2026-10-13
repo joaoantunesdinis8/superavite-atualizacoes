@@ -1,17 +1,17 @@
 {
- "version": "1.0.36",
- "notes": "Bancos: ligar também o acesso de empresa (ex.: Bankinter Empresas) sem perder a ligação pessoal; as contas da empresa ficam no espaço Empresa.",
- "date": "2026-10-13",
+ "version": "1.0.37",
+ "notes": "A fatura aparece em cada movimento da empresa (ver, ligar ou carregar ali mesmo); as entradas de dinheiro importadas contam logo como rendimento; tipo de movimento e categoria sempre coerentes; mapa de km com rotinas semanais.",
+ "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.36-macOS-arm64.dmg",
-   "sha256": "f0e5d5b9af017d278ad2db1e9bbfc44a62c6f43e0fd7d589c37fe572861ecd51",
-   "size": 25189177
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.37-macOS-arm64.dmg",
+   "sha256": "0481c0d20f4963c3b44716da163e63b838dcfb4941347dfe3a3a5894938cdb19",
+   "size": 25194505
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.36-Windows.exe",
-   "sha256": "82908273a15606138321dff247a9fa5033172c21ac2d4373a1d9a26a4a874c12",
-   "size": 33046836
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.37-Windows.exe",
+   "sha256": "233d245b0b36d049a379b1e5f7b05f7c94c38abd14575b944bced1d2fbe7b0a9",
+   "size": 33060803
   }
  }
 }
