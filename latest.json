@@ -1,17 +1,17 @@
 {
- "version": "1.0.34",
- "notes": "Ligação ao banco: explicação de onde estão o ficheiro .pem e o Application ID.",
+ "version": "1.0.35",
+ "notes": "Ligação aos bancos sem o limite de 4 leituras por dia e cada conta nova marcada como Pessoal ou Empresa; empresa: código QR das faturas, mapa do IVA, contas correntes e cobranças, certidões, tesouraria a 13 semanas, salários, orçamento anual, imobilizado, pacote do contabilista e InvoiceXpress; programa de convites.",
  "date": "2026-10-13",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.34-macOS-arm64.dmg",
-   "sha256": "b590ad179b93007b349ce511fd4ddca691f831b6a95abb7e17f5607c46e7ed7d",
-   "size": 25259193
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.35-macOS-arm64.dmg",
+   "sha256": "162f7b99c91608803ec6e604aaa738e691ee6d81f4ee513e36145e27a965a26a",
+   "size": 25187594
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.34-Windows.exe",
-   "sha256": "be367030462ca9227c25cb541927a0c24f62d3e41c70f4baec0b432dfe4b4d54",
-   "size": 32982363
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.35-Windows.exe",
+   "sha256": "49c7bb8cb4ed48b0fce316e9ce10cfc03f0b3037d9be4ff98b70ccca7b526a1c",
+   "size": 33048042
   }
  }
 }
