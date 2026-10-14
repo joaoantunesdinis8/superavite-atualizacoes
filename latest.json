@@ -1,17 +1,17 @@
 {
- "version": "1.0.44",
- "notes": "Telemóvel com os dados do computador: ligar com um código de 8 letras, consultar (painel, movimentos, orçamentos, carteira, prazos, faturas, contratos, conta do sócio) e enviar fotografias de faturas, despesas em dinheiro e classificações, que entram sozinhas no computador. Tudo cifrado com a sua palavra-passe. Ligação ao banco: Revolut, N26, bunq e Wise passam a aparecer.",
+ "version": "1.0.45",
+ "notes": "Inteligência artificial: recomenda sempre a versão mais recente do modelo e, se o fornecedor retirar um modelo (ex.: Gemini 2.5), passa sozinha para o que ele indica. Ver no telemóvel: quem estava ligado pela pasta da iCloud pode passar para a ligação com código num só passo.",
  "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.44-macOS-arm64.dmg",
-   "sha256": "0b3aa51e1ec4bfb5bba57ff2eef2cb9b82f2de407beb7aa733650a57ef765560",
-   "size": 25748989
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.45-macOS-arm64.dmg",
+   "sha256": "b1e62f68aa42e0a29c0e4fde455cc72004959864c9dc1c90214634ed8b86504a",
+   "size": 25753588
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.44-Windows.exe",
-   "sha256": "5019f3bb71d8beeb26d8f84f54ceb3de112bc27cdfcfd6b9209540a3bb81d821",
-   "size": 33353106
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.45-Windows.exe",
+   "sha256": "a6dfd6fd36810276f5e3293104aad11d93d4c8a0bc7213867cd42360a2de790d",
+   "size": 33354701
   }
  }
 }
