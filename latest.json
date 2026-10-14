@@ -1,12 +1,12 @@
 {
- "version": "1.0.49",
- "notes": "Importar transações da DEGIRO (com comissões e a cotação na bolsa certa), salário do sócio-gerente: escolher salário, reembolso de despesas ou transferência, carteira explica o custo desconhecido e avisa das ações escondidas, gráfico mais claro face aos índices e mensagens de confirmação mais visíveis.",
+ "version": "1.0.50",
+ "notes": "Ações em massa nos Movimentos (selecionar todos os filtrados, necessidade, confirmar, mudar descrição) e nas Faturas (confirmar, reler, marcar, mover de espaço, descarregar ZIP, apagar). Inclui a 1.0.49: DEGIRO, salário/reembolso do sócio, carteira e mensagens mais visíveis.",
  "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.49-macOS-arm64.dmg",
-   "sha256": "492e43bf4865dc9de4866b185f76bac89825cd694ff7c0dc61f11a0faf9e6bbb",
-   "size": 25841215
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.50-macOS-arm64.dmg",
+   "sha256": "0a3a1efc5e9d091b6b24b73a5b650be40a1700e69e7cb29bac82e39608010c63",
+   "size": 25847544
   }
  }
 }
