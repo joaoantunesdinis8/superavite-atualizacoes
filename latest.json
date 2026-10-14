@@ -1,17 +1,12 @@
 {
- "version": "1.0.45",
- "notes": "Inteligência artificial: recomenda sempre a versão mais recente do modelo e, se o fornecedor retirar um modelo (ex.: Gemini 2.5), passa sozinha para o que ele indica. Ver no telemóvel: quem estava ligado pela pasta da iCloud pode passar para a ligação com código num só passo.",
+ "version": "1.0.46",
+ "notes": "Dinheiro por investir nas corretoras (Trading 212 automático ou indicado à mão), ligação à Interactive Brokers, modelo de CSV para importar operações de investimento, datas em dia/mês/ano, menu sem piscar ao abrir e Painel e orçamentos mais arrumados.",
  "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.45-macOS-arm64.dmg",
-   "sha256": "b1e62f68aa42e0a29c0e4fde455cc72004959864c9dc1c90214634ed8b86504a",
-   "size": 25753588
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.45-Windows.exe",
-   "sha256": "a6dfd6fd36810276f5e3293104aad11d93d4c8a0bc7213867cd42360a2de790d",
-   "size": 33354701
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.46-macOS-arm64.dmg",
+   "sha256": "c5ac012aa0201402604b2c4024b32070f085781be1d2444edcd0eb1824c0810d",
+   "size": 25690597
   }
  }
 }
