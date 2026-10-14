@@ -1,17 +1,12 @@
 {
- "version": "1.0.48",
- "notes": "Reconciliação bancária mês a mês (lista com «Resolver» ou duas colunas, sugestões com grau de certeza, aceitar as certas, mês reconciliado), desfazer ligações uma a uma, reler faturas, reembolso ao sócio confirmado, correção dos totais gigantes mal lidos, filtro «por rever e sem pagamento» e cotações de ações sem ISIN no Yahoo (ex.: Alphabet).",
+ "version": "1.0.49",
+ "notes": "Importar transações da DEGIRO (com comissões e a cotação na bolsa certa), salário do sócio-gerente: escolher salário, reembolso de despesas ou transferência, carteira explica o custo desconhecido e avisa das ações escondidas, gráfico mais claro face aos índices e mensagens de confirmação mais visíveis.",
  "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.48-macOS-arm64.dmg",
-   "sha256": "f4723a8d9a47bc4c2aab6e0f0f7652a1ea8eacc76b51e8f87f710c166b1257c7",
-   "size": 25818513
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.48-Windows.exe",
-   "sha256": "38ab1769271bef0a3993ed066d52938f281a9062e7d6d017d30fadd9a0ad219e",
-   "size": 33424632
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.49-macOS-arm64.dmg",
+   "sha256": "492e43bf4865dc9de4866b185f76bac89825cd694ff7c0dc61f11a0faf9e6bbb",
+   "size": 25841215
   }
  }
 }
