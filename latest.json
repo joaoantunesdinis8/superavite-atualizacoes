@@ -1,17 +1,17 @@
 {
- "version": "1.0.41",
- "notes": "Assistente pessoal com IA (escrever, falar por voz e anexar ficheiros), com a IA que cada um escolher (Claude, GPT, Gemini, Mistral ou Ollama no próprio computador) e guia de como a usar. Contratos encontrados no email (várias caixas de email) com datas de fim e condições. Menu Faturas próprio; reconciliação bancária que encontra transferências e reembolsos ao sócio; faturas repetidas; dinheiro já retirado; importação do SAF-T de qualquer programa de faturação. Ligação ao banco: saldo atual (já não fica no fim do mês) e atualização automática diária. Filtro por banco nos Movimentos, «Por rever» em toda a app e temas com mais contraste.",
+ "version": "1.0.42",
+ "notes": "Assistente na janela do canto inferior direito, em qualquer página (escrever, falar e anexar ficheiros). Despesas partilhadas: a parte dos outros não conta como despesa e as devoluções não contam como rendimento. Faturas com pagamentos parciais e prestações; o resto pago pelo sócio ou como desconto. Conta corrente do sócio (o que a empresa lhe deve e o que ele deve à empresa) com acertos e compensação.",
  "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.41-macOS-arm64.dmg",
-   "sha256": "3ba66bd188aa6c6f5bfef25da7a1fe05f0864b6c0dc9bd7b138c0b717fa8caf4",
-   "size": 25615913
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.42-macOS-arm64.dmg",
+   "sha256": "254c1a7759bc515977b3fade86b7f1e8f592914a50e9cf36dd8168354e4cddaa",
+   "size": 25628946
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.41-Windows.exe",
-   "sha256": "b4aa3b04097a1c47db39b79f55ff84542c512ec1846a349d1f0807dce7aa1c0d",
-   "size": 33316981
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.42-Windows.exe",
+   "sha256": "b80818bebafc3dba7c2d83f42db72420a4c4d2b47c2111c2c7de19385cd94df7",
+   "size": 33337975
   }
  }
 }
