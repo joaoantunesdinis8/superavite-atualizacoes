@@ -22,3 +22,7 @@ nav[hidden]{display:none}
 
 .parcial{color:#7A4E00;font-weight:600}
 @media (prefers-color-scheme:dark){.parcial{color:#FCD889}}
+
+details.card summary{cursor:pointer;font-weight:600}
+label.btn{display:inline-block;text-align:center}
+.li select{margin:6px 0 0;padding:6px;font-size:14px}

@@ -1,17 +1,17 @@
 {
- "version": "1.0.43",
- "notes": "Inteligência artificial: corrigida a ligação ao Gemini, Claude, GPT e Mistral na app instalada («Sem ligação ao fornecedor»). O modelo passa a ser uma lista que se preenche sozinha ao guardar a chave, com o recomendado já escolhido.",
+ "version": "1.0.44",
+ "notes": "Telemóvel com os dados do computador: ligar com um código de 8 letras, consultar (painel, movimentos, orçamentos, carteira, prazos, faturas, contratos, conta do sócio) e enviar fotografias de faturas, despesas em dinheiro e classificações, que entram sozinhas no computador. Tudo cifrado com a sua palavra-passe. Ligação ao banco: Revolut, N26, bunq e Wise passam a aparecer.",
  "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.43-macOS-arm64.dmg",
-   "sha256": "a12f03121034260298421a93c2b7a5d80cdb1148b98ce69cfcb9e3b8e0225ac4",
-   "size": 25630718
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.44-macOS-arm64.dmg",
+   "sha256": "0b3aa51e1ec4bfb5bba57ff2eef2cb9b82f2de407beb7aa733650a57ef765560",
+   "size": 25748989
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.43-Windows.exe",
-   "sha256": "90777bba2fb7983ea90c84bef950238454098202254403db6df525331ce90c72",
-   "size": 33342019
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.44-Windows.exe",
+   "sha256": "5019f3bb71d8beeb26d8f84f54ceb3de112bc27cdfcfd6b9209540a3bb81d821",
+   "size": 33353106
   }
  }
 }

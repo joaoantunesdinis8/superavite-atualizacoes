@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; script-src 'self'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self' https://tio-dino-licencas.tiodino10.workers.dev; script-src 'self'">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Tio Dino">
 <meta name="theme-color" content="#e53b2c">
@@ -18,6 +18,7 @@
 <nav id="tabs" hidden>
   <button data-t="painel" class="on">Painel</button><button data-t="mov">Movimentos</button>
   <button data-t="orc">Orçamentos</button><button data-t="cart">Carteira</button>
+  <button data-t="mais" data-cloud hidden>Mais</button><button data-t="enviar" data-cloud hidden>Enviar</button>
 </nav>
 <input type="file" id="files" multiple hidden>
 <script type="module" src="app.js"></script>
