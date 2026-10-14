@@ -1,17 +1,17 @@
 {
- "version": "1.0.40",
- "notes": "Área Pessoas completa (painel, equipa, organograma com arrastar e fotografias, prazos, desempenho, remuneração, férias, horas, formação, contratações, ajudas de custo). Perfil da empresa: questionário que mostra só o que a empresa usa. Contratos (rendas com senhorio particular ou empresa, leasing, avenças) com retenções e Modelo 10. Mapa de obrigações do ano, fichas de clientes e fornecedores, crédito e reembolso do IVA, fecho do ano para o contabilista. Salários reconhecidos sozinhos nos movimentos. Milhares sempre separados nos valores. Tabelas ordenáveis e filtráveis, saldos do banco e Por classificar num só sítio.",
+ "version": "1.0.41",
+ "notes": "Assistente pessoal com IA (escrever, falar por voz e anexar ficheiros), com a IA que cada um escolher (Claude, GPT, Gemini, Mistral ou Ollama no próprio computador) e guia de como a usar. Contratos encontrados no email (várias caixas de email) com datas de fim e condições. Menu Faturas próprio; reconciliação bancária que encontra transferências e reembolsos ao sócio; faturas repetidas; dinheiro já retirado; importação do SAF-T de qualquer programa de faturação. Ligação ao banco: saldo atual (já não fica no fim do mês) e atualização automática diária. Filtro por banco nos Movimentos, «Por rever» em toda a app e temas com mais contraste.",
  "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.40-macOS-arm64.dmg",
-   "sha256": "2a34316efd6a08cdbf136a80ea47a5111156dd532ad0680f66dd06f3ebbee5b3",
-   "size": 25550732
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.41-macOS-arm64.dmg",
+   "sha256": "3ba66bd188aa6c6f5bfef25da7a1fe05f0864b6c0dc9bd7b138c0b717fa8caf4",
+   "size": 25615913
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.40-Windows.exe",
-   "sha256": "6975ffc815f2675b93595c10341eb0d416acc65888c68e6dbfdd18b0df577a3f",
-   "size": 33255480
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.41-Windows.exe",
+   "sha256": "b4aa3b04097a1c47db39b79f55ff84542c512ec1846a349d1f0807dce7aa1c0d",
+   "size": 33316981
   }
  }
 }
