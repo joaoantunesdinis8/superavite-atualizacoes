@@ -1,17 +1,17 @@
 {
- "version": "1.0.42",
- "notes": "Assistente na janela do canto inferior direito, em qualquer página (escrever, falar e anexar ficheiros). Despesas partilhadas: a parte dos outros não conta como despesa e as devoluções não contam como rendimento. Faturas com pagamentos parciais e prestações; o resto pago pelo sócio ou como desconto. Conta corrente do sócio (o que a empresa lhe deve e o que ele deve à empresa) com acertos e compensação.",
+ "version": "1.0.43",
+ "notes": "Inteligência artificial: corrigida a ligação ao Gemini, Claude, GPT e Mistral na app instalada («Sem ligação ao fornecedor»). O modelo passa a ser uma lista que se preenche sozinha ao guardar a chave, com o recomendado já escolhido.",
  "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.42-macOS-arm64.dmg",
-   "sha256": "254c1a7759bc515977b3fade86b7f1e8f592914a50e9cf36dd8168354e4cddaa",
-   "size": 25628946
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.43-macOS-arm64.dmg",
+   "sha256": "a12f03121034260298421a93c2b7a5d80cdb1148b98ce69cfcb9e3b8e0225ac4",
+   "size": 25630718
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.42-Windows.exe",
-   "sha256": "b80818bebafc3dba7c2d83f42db72420a4c4d2b47c2111c2c7de19385cd94df7",
-   "size": 33337975
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.43-Windows.exe",
+   "sha256": "90777bba2fb7983ea90c84bef950238454098202254403db6df525331ce90c72",
+   "size": 33342019
   }
  }
 }
