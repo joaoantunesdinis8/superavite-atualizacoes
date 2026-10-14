@@ -1,17 +1,12 @@
 {
- "version": "1.0.47",
- "notes": "Saldo obrigatório em cada conta (os movimentos importados atualizam-no), Pagar menos (contas que subiram, fidelizações e subscrições esquecidas), pensão estimada, o meu ano em números, procurar movimentos por valor, fatura ao lado ao rever, ficha da empresa na horizontal e comissões bancárias corrigidas.",
+ "version": "1.0.48",
+ "notes": "Reconciliação bancária mês a mês (lista com «Resolver» ou duas colunas, sugestões com grau de certeza, aceitar as certas, mês reconciliado), desfazer ligações uma a uma, reler faturas, reembolso ao sócio confirmado, correção dos totais gigantes mal lidos, filtro «por rever e sem pagamento» e cotações de ações sem ISIN no Yahoo (ex.: Alphabet).",
  "date": "2026-10-14",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.47-macOS-arm64.dmg",
-   "sha256": "c99ad3ae0eec92c0db70f5904502a45227d19faef89efe0c3da6a3fc9ebd719f",
-   "size": 25810110
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.47-Windows.exe",
-   "sha256": "0b978eef464c573a803fba639ed4a6aeefb137974c2a7cc7149ee73f23566dd8",
-   "size": 33406174
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.48-macOS-arm64.dmg",
+   "sha256": "f4723a8d9a47bc4c2aab6e0f0f7652a1ea8eacc76b51e8f87f710c166b1257c7",
+   "size": 25818513
   }
  }
 }
