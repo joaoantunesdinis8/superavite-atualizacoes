@@ -1,17 +1,12 @@
 {
- "version": "1.0.52",
- "notes": "Calculadora DCF com cenários pessimista/normal/otimista e avaliações guardadas; gráfico técnico com suportes e resistências; rastreador de ações; lista lateral de acompanhamento; o meu algoritmo (Qualidade e moat / Potencial 10x); contacto e classificação na Ajuda; índices no topo.",
+ "version": "1.0.53",
+ "notes": "Ficha da empresa com «O negócio» (o que faz, números do negócio e explicação com IA) e o gráfico técnico integrado; tese no fim da página. Bancos que autorizam sem partilhar contas passam a ser avisados. Contas só com o saldo indicado já se podem apagar.",
  "date": "2026-10-15",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.52-macOS-arm64.dmg",
-   "sha256": "699dffade2ddc2ebac9b1e5bdeb2cd1f26999cfb0ce9238bc0fd55c49c767636",
-   "size": 25923144
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.52-Windows.exe",
-   "sha256": "7ad7e2cc1ab4d86d9b8de86ab9eda39b92908beca1a439c6f6885ad8625237ce",
-   "size": 33574103
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.53-macOS-arm64.dmg",
+   "sha256": "28bc1219ea8c41cdb159a08dbdc167d9b5209ba8644d49efd162ec52bceb7b4b",
+   "size": 25952629
   }
  }
 }
