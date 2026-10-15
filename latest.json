@@ -1,17 +1,12 @@
 {
- "version": "1.0.54",
- "notes": "Indicar o saldo de qualquer conta, sempre, com valor e data (Saldos das contas e Definições → Contas próprias).",
+ "version": "1.0.55",
+ "notes": "Mais rápido: as cotações atualizam-se em lote (até 20× menos pedidos). Base de dados e ficheiros (faturas, documentos, extratos) cifrados no computador: na primeira entrada recebe um código de recuperação novo — guarde-o. Indicar o saldo de qualquer conta. Correções no ecrã.",
  "date": "2026-10-15",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.54-macOS-arm64.dmg",
-   "sha256": "3544eb2dd79f15e69809dae121f834344dd4c6c103405d605fdadeaf75c78c8c",
-   "size": 25952880
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.54-Windows.exe",
-   "sha256": "492c5adada2b0c56164e3c99dfef483fa45db37e2775b74dba6455fe9a3474e2",
-   "size": 33584962
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.55-macOS-arm64.dmg",
+   "sha256": "ec05674d16598fbc144d4d8edc9a7c16946c8476eadcbfd55ca5b0f6c652680b",
+   "size": 29357427
   }
  }
 }
