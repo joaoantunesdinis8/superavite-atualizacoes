@@ -1,17 +1,12 @@
 {
- "version": "1.0.51",
- "notes": "Ficha das empresas completa (resumo em colunas, crescimento 1/2/5/10 anos, 13 gráficos com P/L e PEG, pesquisar qualquer empresa), investimentos desde sempre com movimentos/faturas desde outra data, Ajuda com perguntas frequentes, termos e privacidade, relatórios de erro opcionais e pagamento da subscrição preparado.",
+ "version": "1.0.52",
+ "notes": "Calculadora DCF com cenários pessimista/normal/otimista e avaliações guardadas; gráfico técnico com suportes e resistências; rastreador de ações; lista lateral de acompanhamento; o meu algoritmo (Qualidade e moat / Potencial 10x); contacto e classificação na Ajuda; índices no topo.",
  "date": "2026-10-15",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.51-macOS-arm64.dmg",
-   "sha256": "957feda37e850768d97851359e6c2154b6c5c3a4e8d9ffacb07d2ddc8dfbd08d",
-   "size": 25769514
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.51-Windows.exe",
-   "sha256": "84a786384444009619b29894259501b87aee0498caaef6378014db38d5a4d6e6",
-   "size": 33469885
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.52-macOS-arm64.dmg",
+   "sha256": "699dffade2ddc2ebac9b1e5bdeb2cd1f26999cfb0ce9238bc0fd55c49c767636",
+   "size": 25923144
   }
  }
 }
