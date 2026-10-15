@@ -1,17 +1,12 @@
 {
- "version": "1.0.50",
- "notes": "Ações em massa nos Movimentos (selecionar todos os filtrados, necessidade, confirmar, mudar descrição) e nas Faturas (confirmar, reler, marcar, mover de espaço, descarregar ZIP, apagar). Inclui a 1.0.49: DEGIRO, salário/reembolso do sócio, carteira e mensagens mais visíveis.",
- "date": "2026-10-14",
+ "version": "1.0.51",
+ "notes": "Ficha das empresas completa (resumo em colunas, crescimento 1/2/5/10 anos, 13 gráficos com P/L e PEG, pesquisar qualquer empresa), investimentos desde sempre com movimentos/faturas desde outra data, Ajuda com perguntas frequentes, termos e privacidade, relatórios de erro opcionais e pagamento da subscrição preparado.",
+ "date": "2026-10-15",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.50-macOS-arm64.dmg",
-   "sha256": "0a3a1efc5e9d091b6b24b73a5b650be40a1700e69e7cb29bac82e39608010c63",
-   "size": 25847544
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.50-Windows.exe",
-   "sha256": "29a953a7053d137f58f5a8a73b3cc628e8637a38a5b657a89d8b31d31f0ed8c8",
-   "size": 33442503
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.51-macOS-arm64.dmg",
+   "sha256": "957feda37e850768d97851359e6c2154b6c5c3a4e8d9ffacb07d2ddc8dfbd08d",
+   "size": 25769514
   }
  }
 }
