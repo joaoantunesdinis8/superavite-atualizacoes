@@ -1,17 +1,12 @@
 {
- "version": "1.0.55",
- "notes": "Mais rápido: as cotações atualizam-se em lote (até 20× menos pedidos). Base de dados e ficheiros (faturas, documentos, extratos) cifrados no computador: na primeira entrada recebe um código de recuperação novo — guarde-o. Indicar o saldo de qualquer conta. Correções no ecrã.",
+ "version": "1.0.56",
+ "notes": "Investimentos e Painel muito mais rápidos: cotações, watchlist e índices em lote, fichas das empresas reutilizadas, Painel até 5× mais rápido com muitos movimentos, gráfico mais leve.",
  "date": "2026-10-15",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.55-macOS-arm64.dmg",
-   "sha256": "ec05674d16598fbc144d4d8edc9a7c16946c8476eadcbfd55ca5b0f6c652680b",
-   "size": 29357427
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.55-Windows.exe",
-   "sha256": "d8237b340265557b2bb43deb0baa83a4e1a9533cfc4cbfad102bdd0d23a4b3b1",
-   "size": 36095943
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.56-macOS-arm64.dmg",
+   "sha256": "13028667f1f5b0be712bc66d124d283159708c91ad911a1a104c9b0f7c6c4a7e",
+   "size": 29367722
   }
  }
 }
