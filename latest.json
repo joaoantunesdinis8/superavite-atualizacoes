@@ -1,17 +1,12 @@
 {
- "version": "1.0.58",
- "notes": "Reconciliação mais automática: a app aprende o texto do extrato de cada fornecedor, compara as faturas com o e-Fatura, junta os recebimentos e mostra tudo numa vista «Por tratar» com perguntas simples. Indicador de qualidade da reconciliação. Windows: leitura ótica, código QR e email por IMAP.",
+ "version": "1.0.59",
+ "notes": "Mudar de menu está mais rápido; «Carteira e mercados» volta a abrir na Carteira; os títulos do menu já não desaparecem ao guardar a Aparência; cotações atualizadas de 15 em 15 minutos; no espaço Empresa o menu chama-se «Investimentos».",
  "date": "2026-10-16",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.58-macOS-arm64.dmg",
-   "sha256": "a13d3906f5035d8b223da2683e502b1e41f3473c7a51db267fd735a49cc61fed",
-   "size": 38923743
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.58-Windows.exe",
-   "sha256": "2bd8c4458c01f4b2200e72a91f5c86d860136c442d4654cda7917bf6476fbfc4",
-   "size": 48441611
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.59-macOS-arm64.dmg",
+   "sha256": "36accddeef3a6f273449596004730436dd0a3f636d6d6f9267dc7faec8746316",
+   "size": 38959730
   }
  }
 }
