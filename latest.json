@@ -1,17 +1,12 @@
 {
- "version": "1.0.57",
- "notes": "App muito mais rápida: os pedidos à base deixam de se atrapalhar (Painel e Carteira de dezenas de segundos para poucos segundos). Touch ID volta a funcionar depois de cifrar a base. Números dos gráficos arredondados.",
- "date": "2026-10-15",
+ "version": "1.0.58",
+ "notes": "Reconciliação mais automática: a app aprende o texto do extrato de cada fornecedor, compara as faturas com o e-Fatura, junta os recebimentos e mostra tudo numa vista «Por tratar» com perguntas simples. Indicador de qualidade da reconciliação. Windows: leitura ótica, código QR e email por IMAP.",
+ "date": "2026-10-16",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.57-macOS-arm64.dmg",
-   "sha256": "6111e116d1f6676d824dabab62a326b05f05eb64dbdcd8c4be54fc22c708285a",
-   "size": 29369197
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.57-Windows.exe",
-   "sha256": "5e34cb54c032f1eeed20908003d6656f194e5f4ca527bb86182abad3840155b6",
-   "size": 36104508
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.58-macOS-arm64.dmg",
+   "sha256": "a13d3906f5035d8b223da2683e502b1e41f3473c7a51db267fd735a49cc61fed",
+   "size": 38923743
   }
  }
 }
