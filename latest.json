@@ -1,17 +1,17 @@
 {
- "version": "1.0.60",
- "notes": "Pagamentos únicos já não aparecem como recorrentes; «Por classificar» abre só com o que falta; gráfico da empresa configurável; a Carteira explica a sincronização da Trading 212; o banco é consultado até 3 vezes por dia.",
+ "version": "1.0.61",
+ "notes": "A Carteira mostra a corretora de cada posição e tem filtro por corretora; o extrato «Conta» da DEGIRO explica que é preciso importar o «Transações».",
  "date": "2026-10-17",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.60-macOS-arm64.dmg",
-   "sha256": "e5d60bdc8870c36fe081b8f926a6bb0a4f026ec08cee3814f593e2af0657b5ee",
-   "size": 39147099
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.61-macOS-arm64.dmg",
+   "sha256": "e2bc99dba74434143d8b698dbc69dc6de4015322726e53aedeae71e302f510fb",
+   "size": 39149631
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.60-Windows.exe",
-   "sha256": "e54052425059d4fbc5c2591540e5675817730a989bcd946358282703e77a245d",
-   "size": 48459107
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.61-Windows.exe",
+   "sha256": "0f05bc45f8960043aa556706e45015ab7f589fb8febf7b16e7896088955c690b",
+   "size": 48462441
   }
  }
 }
