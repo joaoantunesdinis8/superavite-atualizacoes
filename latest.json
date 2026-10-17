@@ -1,17 +1,17 @@
 {
- "version": "1.0.61",
- "notes": "A Carteira mostra a corretora de cada posição e tem filtro por corretora; o extrato «Conta» da DEGIRO explica que é preciso importar o «Transações».",
+ "version": "1.0.62",
+ "notes": "Procurar o símbolo de uma ação pelo nome; temas com mais contraste; escolher várias contas nos Movimentos; mudar a conta do banco ligado já não apaga as classificações; categorias da Empresa e do Pessoal nunca se misturam; a Carteira mostra o estado da Trading 212.",
  "date": "2026-10-17",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.61-macOS-arm64.dmg",
-   "sha256": "e2bc99dba74434143d8b698dbc69dc6de4015322726e53aedeae71e302f510fb",
-   "size": 39149631
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.62-macOS-arm64.dmg",
+   "sha256": "327be6ba9e91e968edddbf76526c0f7a10fbdb227ad333f365d85f88dd40e808",
+   "size": 38948805
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.61-Windows.exe",
-   "sha256": "0f05bc45f8960043aa556706e45015ab7f589fb8febf7b16e7896088955c690b",
-   "size": 48462441
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.62-Windows.exe",
+   "sha256": "0346ff0fc57a22b1be7217530a2119f600f9cb3149b8a2073a8a0eb5d59283d5",
+   "size": 48470438
   }
  }
 }
