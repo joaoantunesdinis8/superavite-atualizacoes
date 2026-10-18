@@ -1,17 +1,17 @@
 {
- "version": "1.0.62",
- "notes": "Procurar o símbolo de uma ação pelo nome; temas com mais contraste; escolher várias contas nos Movimentos; mudar a conta do banco ligado já não apaga as classificações; categorias da Empresa e do Pessoal nunca se misturam; a Carteira mostra o estado da Trading 212.",
- "date": "2026-10-17",
+ "version": "1.0.63",
+ "notes": "Faturas: escolha a pasta onde guarda as faturas e a app vai lá ver uma vez por dia e junta as novas",
+ "date": "2026-10-18",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.62-macOS-arm64.dmg",
-   "sha256": "327be6ba9e91e968edddbf76526c0f7a10fbdb227ad333f365d85f88dd40e808",
-   "size": 38948805
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.63-macOS-arm64.dmg",
+   "sha256": "5e7611b66fa61a98016f3e45ca86fe549b8858005d7dd6f4278c8565b485ba5f",
+   "size": 38945046
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.62-Windows.exe",
-   "sha256": "0346ff0fc57a22b1be7217530a2119f600f9cb3149b8a2073a8a0eb5d59283d5",
-   "size": 48470438
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.63-Windows.exe",
+   "sha256": "805408fe64c7906491a4576cd2b6497fb3f04e874615b616e3136e39bcc706f1",
+   "size": 48481231
   }
  }
 }
