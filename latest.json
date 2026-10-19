@@ -1,17 +1,12 @@
 {
- "version": "1.0.64",
- "notes": "Carteira: ações que já não existem, compras e vendas registadas à mão, importar carteira com guia por corretora e diagnóstico das corretoras",
+ "version": "1.0.65",
+ "notes": "Trading 212: as compras antigas que faltavam na Carteira passam a ser trazidas sozinhas (ligações feitas em versões antigas)",
  "date": "2026-10-19",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.64-macOS-arm64.dmg",
-   "sha256": "aa36c117d9433851dc1ecbe1a1f2da24b8a1dd7008d427f5318a77fe55a2e8f9",
-   "size": 38966608
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.64-Windows.exe",
-   "sha256": "8e08c3b452c43e98ab68deecb84cbbb3026afbc816dfa85701d1b6e9b098c5f6",
-   "size": 48563715
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.65-macOS-arm64.dmg",
+   "sha256": "9b2e8b34e45a42e9d7347f0f3e324a109bcf9f51b8722197c6644de8cc3a43e8",
+   "size": 38965648
   }
  }
 }
