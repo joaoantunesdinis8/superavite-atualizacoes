@@ -7,6 +7,11 @@
    "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.64-macOS-arm64.dmg",
    "sha256": "aa36c117d9433851dc1ecbe1a1f2da24b8a1dd7008d427f5318a77fe55a2e8f9",
    "size": 38966608
+  },
+  "windows": {
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.64-Windows.exe",
+   "sha256": "8e08c3b452c43e98ab68deecb84cbbb3026afbc816dfa85701d1b6e9b098c5f6",
+   "size": 48563715
   }
  }
 }
