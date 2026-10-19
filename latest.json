@@ -1,17 +1,12 @@
 {
- "version": "1.0.63",
- "notes": "Faturas: escolha a pasta onde guarda as faturas e a app vai lá ver uma vez por dia e junta as novas",
- "date": "2026-10-18",
+ "version": "1.0.64",
+ "notes": "Carteira: ações que já não existem, compras e vendas registadas à mão, importar carteira com guia por corretora e diagnóstico das corretoras",
+ "date": "2026-10-19",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.63-macOS-arm64.dmg",
-   "sha256": "5e7611b66fa61a98016f3e45ca86fe549b8858005d7dd6f4278c8565b485ba5f",
-   "size": 38945046
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.63-Windows.exe",
-   "sha256": "805408fe64c7906491a4576cd2b6497fb3f04e874615b616e3136e39bcc706f1",
-   "size": 48481231
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.64-macOS-arm64.dmg",
+   "sha256": "aa36c117d9433851dc1ecbe1a1f2da24b8a1dd7008d427f5318a77fe55a2e8f9",
+   "size": 38966608
   }
  }
 }
