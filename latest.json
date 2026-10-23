@@ -1,17 +1,17 @@
 {
- "version": "1.0.65",
- "notes": "Trading 212: as compras antigas que faltavam na Carteira passam a ser trazidas sozinhas (ligações feitas em versões antigas)",
- "date": "2026-10-19",
+ "version": "1.0.66",
+ "notes": "Nova marca Superavite: cores, letras e ícone novos. O assistente passa a ter o nome que escolher. Recuperação da palavra-passe por email e melhorias de segurança.",
+ "date": "2026-10-23",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.65-macOS-arm64.dmg",
-   "sha256": "9b2e8b34e45a42e9d7347f0f3e324a109bcf9f51b8722197c6644de8cc3a43e8",
-   "size": 38965648
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.66-macOS-arm64.dmg",
+   "sha256": "7cbf12a34162ff6b15834f66789b645278fa2ae08f29e641eeb8d2964c622167",
+   "size": 39129330
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.65-Windows.exe",
-   "sha256": "29e2ea073ba16ecffd7e8c980f1e761d63703c1d0de8a002335c5c43151bd9c3",
-   "size": 48562319
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.66-Windows.exe",
+   "sha256": "b9ca393423f495e20aac29d83589ddb2ff99be824f491be28eb18e1c6966bb60",
+   "size": 48829376
   }
  }
 }
