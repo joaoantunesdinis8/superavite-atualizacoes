@@ -1,17 +1,17 @@
 {
- "version": "1.0.66",
+ "version": "1.0.67",
  "notes": "Nova marca Superavite: cores, letras e ícone novos. O assistente passa a ter o nome que escolher. Recuperação da palavra-passe por email e melhorias de segurança.",
  "date": "2026-10-23",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.66-macOS-arm64.dmg",
-   "sha256": "7cbf12a34162ff6b15834f66789b645278fa2ae08f29e641eeb8d2964c622167",
-   "size": 39129330
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.67-macOS-arm64.dmg",
+   "sha256": "ceaf6271a9f8fe773da2ccaaefe6595b60c8f515643647b0d02fbc3bcc3f1fcf",
+   "size": 39128362
   },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.66-Windows.exe",
-   "sha256": "b9ca393423f495e20aac29d83589ddb2ff99be824f491be28eb18e1c6966bb60",
-   "size": 48829376
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.67-Windows.exe",
+   "sha256": "b3842ef72d90181bbf50145ec03c74b68e90516de88ecef300d10ac75aa1006f",
+   "size": 48830171
   }
  }
 }
