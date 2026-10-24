@@ -1,12 +1,17 @@
 {
- "version": "1.0.68",
- "notes": "Menus por secção em Investimentos, Pessoas e Relatórios; o Algoritmo e outras páginas voltam a ter separadores; notícias das empresas; novos períodos no gráfico.",
- "date": "2026-10-24",
+ "version": "1.0.67",
+ "notes": "Nova marca Superavite: cores, letras e Ã­cone novos. O assistente passa a ter o nome que escolher. RecuperaÃ§Ã£o da palavra-passe por email e melhorias de seguranÃ§a.",
+ "date": "2026-10-23",
  "assets": {
+  "macos-arm64": {
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.67-macOS-arm64.dmg",
+   "sha256": "ceaf6271a9f8fe773da2ccaaefe6595b60c8f515643647b0d02fbc3bcc3f1fcf",
+   "size": 39128362
+  },
   "windows": {
-   "url": "https://github.com/joaoantunesdinis8/superavite-atualizacoes/raw/main/Superavite-1.0.68-Windows.exe",
-   "sha256": "8da51f8e8601413d8c12db5d5011f53979ef22215eeadcbcdd179507fec6beb1",
-   "size": 50970183
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.67-Windows.exe",
+   "sha256": "b3842ef72d90181bbf50145ec03c74b68e90516de88ecef300d10ac75aa1006f",
+   "size": 48830171
   }
  }
 }
