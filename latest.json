@@ -1,17 +1,12 @@
 {
- "version": "1.0.67",
- "notes": "Nova marca Superavite: cores, letras e ícone novos. O assistente passa a ter o nome que escolher. Recuperação da palavra-passe por email e melhorias de segurança.",
- "date": "2026-10-23",
+ "version": "1.0.66",
+ "notes": "Subscrição: se a app mostrar «Não foi possível confirmar a subscrição» apesar de estar paga, «Verificar» volta a ligar este computador e resolve",
+ "date": "2026-10-25",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.67-macOS-arm64.dmg",
-   "sha256": "ceaf6271a9f8fe773da2ccaaefe6595b60c8f515643647b0d02fbc3bcc3f1fcf",
-   "size": 39128362
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.67-Windows.exe",
-   "sha256": "b3842ef72d90181bbf50145ec03c74b68e90516de88ecef300d10ac75aa1006f",
-   "size": 48830171
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.66-macOS-arm64.dmg",
+   "sha256": "1f54a2133375fde0855d2ec38c3923e13e4451f2f10e076c47d2bbd874f85c78",
+   "size": 38966278
   }
  }
 }
