@@ -1,12 +1,6 @@
 {
  "version": "1.0.66",
- "notes": "Subscrição: se a app mostrar «Não foi possível confirmar a subscrição» apesar de estar paga, «Verificar» volta a ligar este computador e resolve",
+ "notes": "Sem instaladores: o Superavite usa-se no site, app.superavite.com.",
  "date": "2026-10-25",
- "assets": {
-  "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.66-macOS-arm64.dmg",
-   "sha256": "1f54a2133375fde0855d2ec38c3923e13e4451f2f10e076c47d2bbd874f85c78",
-   "size": 38966278
-  }
- }
+ "assets": {}
 }
