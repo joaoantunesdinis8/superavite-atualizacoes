@@ -1,6 +1,12 @@
 {
- "version": "1.0.66",
- "notes": "Sem instaladores: o Superavite usa-se no site, app.superavite.com.",
- "date": "2026-10-25",
- "assets": {}
+ "version": "1.0.69",
+ "notes": "O assistente passa a pedir a tua confirmação, com pré-visualização, antes de apagar movimentos, corrigir vários de uma vez, mudar o que entra nos totais de uma conta ou desligar faturas.",
+ "date": "2026-10-31",
+ "assets": {
+  "macos-arm64": {
+   "url": "https://github.com/joaoantunesdinis8/superavite-atualizacoes/raw/main/Superavite-1.0.69-macOS-arm64.dmg",
+   "sha256": "43738c761e621cb29e87ed8458809546eb39dd782192f7ef2b0c80ea112c8870",
+   "size": 39101080
+  }
+ }
 }
