@@ -1,12 +1,17 @@
 {
- "version": "1.0.69",
- "notes": "O assistente passa a pedir a tua confirmação, com pré-visualização, antes de apagar movimentos, corrigir vários de uma vez, mudar o que entra nos totais de uma conta ou desligar faturas.",
- "date": "2026-10-31",
+ "version": "1.0.70",
+ "notes": "Google Drive: a verificação diz o que viu (em vez de só «nada de novo»), sugere a pasta-mãe para ler todos os meses, «Procurar agora» repete os ficheiros que falharam e há «Voltar a ler as apagadas».",
+ "date": "2026-11-03",
  "assets": {
   "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/superavite-atualizacoes/raw/main/Superavite-1.0.69-macOS-arm64.dmg",
-   "sha256": "43738c761e621cb29e87ed8458809546eb39dd782192f7ef2b0c80ea112c8870",
-   "size": 39101080
+   "url": "https://github.com/joaoantunesdinis8/superavite-atualizacoes/raw/main/Superavite-1.0.70-macOS-arm64.dmg",
+   "sha256": "825d569e0157738006a5ee1818b51347c955b8e9792066181bc1b9fef255e7ef",
+   "size": 39116397
+  },
+  "windows": {
+   "url": "https://github.com/joaoantunesdinis8/superavite-atualizacoes/raw/main/Superavite-1.0.70-Windows.exe",
+   "sha256": "824cf9c813b695d5b09c3b404869a098866404ea7fd56b6808de0f549e0cd754",
+   "size": 48635347
   }
  }
 }
