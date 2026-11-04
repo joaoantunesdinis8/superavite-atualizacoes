@@ -1,17 +1,6 @@
 {
  "version": "1.0.70",
- "notes": "Google Drive: a verificação diz o que viu (em vez de só «nada de novo»), sugere a pasta-mãe para ler todos os meses, «Procurar agora» repete os ficheiros que falharam e há «Voltar a ler as apagadas».",
- "date": "2026-11-03",
- "assets": {
-  "macos-arm64": {
-   "url": "https://github.com/joaoantunesdinis8/superavite-atualizacoes/raw/main/Superavite-1.0.70-macOS-arm64.dmg",
-   "sha256": "825d569e0157738006a5ee1818b51347c955b8e9792066181bc1b9fef255e7ef",
-   "size": 39116397
-  },
-  "windows": {
-   "url": "https://github.com/joaoantunesdinis8/superavite-atualizacoes/raw/main/Superavite-1.0.70-Windows.exe",
-   "sha256": "824cf9c813b695d5b09c3b404869a098866404ea7fd56b6808de0f549e0cd754",
-   "size": 48635347
-  }
- }
+ "notes": "A Superavite passou a funcionar só no site: app.superavite.com. Já não há atualizações da app instalada.",
+ "date": "2026-11-04",
+ "assets": {}
 }
