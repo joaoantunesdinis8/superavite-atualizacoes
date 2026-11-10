@@ -1,3016 +1,3022 @@
 {
-"as_of": "2026-10-09",
-"updated": "2026-10-12",
+"as_of": "2026-11-10",
+"updated": "2026-11-10",
 "items": [
 {
 "symbol": "A",
-"value": 113.8679,
+"value": 123.43,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AAPL",
-"value": 250.4203,
+"value": 250.42,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "ABBV",
-"value": 208.8142,
+"value": 212.06,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "ABNB",
-"value": 184.7105,
+"value": 187.55,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ABT",
-"value": 129.0657,
+"value": 130.25,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ACGL",
-"value": 115.5762,
+"value": 115.52,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ACN",
-"value": 324.2749,
+"value": 324.26,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ADBE",
-"value": 438.2598,
+"value": 438.25,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ADI",
-"value": 355.7765,
+"value": 366.17,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ADM",
-"value": 63.0296,
+"value": 64.31,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ADP",
-"value": 336.5805,
+"value": 347.85,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "ADSK",
-"value": 418.9213,
+"value": 418.93,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AEE",
-"value": 97.9958,
+"value": 97.92,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AEP",
-"value": 109.8578,
+"value": 114.02,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AES",
-"value": 19.0391,
+"value": 18.8,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AFL",
-"value": 116.2371,
+"value": 117.17,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AIG",
-"value": 120.0,
+"value": 122.2,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "AIZ",
-"value": 257.3291,
+"value": 258.99,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AJG",
-"value": 331.4343,
+"value": 333.79,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AKAM",
-"value": 106.5345,
+"value": 106.62,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ALB",
-"value": 176.0299,
+"value": 172.3,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "ALGN",
-"value": 253.1666,
+"value": 208.14,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ALL",
-"value": 211.8859,
+"value": 207.83,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ALLE",
-"value": 200.3195,
+"value": 169.09,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AMAT",
-"value": 261.8957,
+"value": 270.77,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "AMCR",
-"value": 47.248,
+"value": 46.7,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "AMD",
-"value": 743.6713,
+"value": 727.62,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AME",
-"value": 218.9746,
+"value": 216.73,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AMGN",
-"value": 425.8134,
+"value": 427.23,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "AMP",
-"value": 594.8538,
+"value": 597.92,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "AMT",
-"value": 174.7938,
+"value": 165.99,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AMZN",
-"value": 233.6033,
+"value": 237.14,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "ANET",
-"value": 164.1224,
+"value": 207.26,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "AON",
-"value": 420.7231,
+"value": 442.56,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AOS",
-"value": 94.518,
+"value": 81.87,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "APA",
-"value": 27.3307,
+"value": 28.62,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "APD",
-"value": 262.6144,
+"value": 262.73,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "APH",
-"value": 74.8584,
+"value": 92.87,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "APO",
-"value": 98.4729,
+"value": 99.02,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "APP",
-"value": 473.8967,
+"value": 475.81,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "APTV",
-"value": 52.0623,
+"value": 51.79,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ARE",
-"value": 100.4192,
+"value": 93.15,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "ARES",
-"value": 142.3955,
+"value": 165.27,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "ATO",
-"value": 136.8492,
+"value": 137.92,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AVGO",
-"value": 438.8687,
+"value": 439.46,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "AVY",
-"value": 217.2427,
+"value": 264.42,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AWK",
-"value": 167.0729,
+"value": 165.04,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "AXON",
-"value": 289.1951,
+"value": 289.2,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "AXP",
-"value": 295.9474,
+"value": 311.1,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "AZO",
-"value": 3659.7162,
+"value": 3659.55,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BA",
-"value": 209.2668,
+"value": 209.77,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BAC",
-"value": 47.67,
+"value": 47.45,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BALL",
-"value": 71.1538,
+"value": 71.71,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "BAX",
-"value": 34.5194,
+"value": 35.59,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "BBY",
-"value": 83.9703,
+"value": 84.36,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "BDX",
-"value": 141.7824,
+"value": 142.91,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "BE",
-"value": 95.1493,
+"value": 119.05,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "BEN",
-"value": 20.7496,
+"value": 20.9,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "BF.B",
-"value": 43.9833,
+"value": 43.34,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BG",
-"value": 112.7538,
+"value": 111.76,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "BIIB",
-"value": 192.536,
+"value": 210.41,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "BKNG",
-"value": 185.8799,
+"value": 185.97,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BKR",
-"value": 45.4218,
+"value": 47.2,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "BLK",
-"value": 1164.9876,
+"value": 1387.33,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BMY",
-"value": 45.5505,
+"value": 48.18,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BNY",
-"value": 83.8681,
+"value": 84.55,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BR",
-"value": 268.6749,
+"value": 268.69,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BRK.B",
-"value": 515.2593,
+"value": 516.24,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BRO",
-"value": 106.6486,
+"value": 107.59,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "BSX",
-"value": 72.0452,
+"value": 56.98,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "BX",
-"value": 168.1725,
+"value": 164.66,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "BXP",
-"value": 67.0337,
+"value": 66.34,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "C",
-"value": 80.2824,
+"value": 81.48,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CAH",
-"value": 157.5816,
+"value": 158.26,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "CARR",
-"value": 67.1177,
+"value": 57.68,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CASY",
-"value": 405.3629,
+"value": 403.54,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CAT",
-"value": 481.1095,
+"value": 520.14,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CB",
-"value": 299.8243,
+"value": 299.83,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CBOE",
-"value": 217.1331,
+"value": 197.47,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "CBRE",
-"value": 129.9553,
+"value": 139.5,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CCI",
-"value": 84.1683,
+"value": 78.23,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CCL",
-"value": 26.3711,
+"value": 26.75,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CDNS",
-"value": 219.0872,
+"value": 219.09,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "CDW",
-"value": 205.1219,
+"value": 207.13,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CEG",
-"value": 208.4551,
+"value": 209.57,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CF",
-"value": 125.8916,
+"value": 127.38,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "CFG",
-"value": 49.6408,
+"value": 47.69,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CHD",
-"value": 84.1568,
+"value": 80.12,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "CHRW",
-"value": 128.7757,
+"value": 137.57,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CHTR",
-"value": 360.3346,
+"value": 379.43,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CI",
-"value": 406.3156,
+"value": 407.67,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CIEN",
-"value": 120.6691,
+"value": 123.19,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CINF",
-"value": 185.9663,
+"value": 181.33,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CL",
-"value": 83.1873,
+"value": 81.31,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "CLX",
-"value": 127.5689,
+"value": 129.02,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CMCSA",
-"value": 38.3872,
+"value": 36.1,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CME",
-"value": 220.7222,
+"value": 220.72,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "CMG",
-"value": 57.7514,
+"value": 37.94,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CMI",
-"value": 372.5991,
+"value": 377.6,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CMS",
-"value": 69.7073,
+"value": 70.38,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CNC",
-"value": 63.741,
+"value": 72.64,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CNP",
-"value": 33.7295,
+"value": 34.71,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "COF",
-"value": 179.2229,
+"value": 176.09,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "COHR",
-"value": 106.3587,
+"value": 109.98,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "COIN",
-"value": 148.4402,
+"value": 128.09,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "COO",
-"value": 69.6605,
+"value": 90.05,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "COP",
-"value": 128.8556,
+"value": 134.17,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "COR",
-"value": 317.158,
+"value": 318.35,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "COST",
-"value": 569.6445,
+"value": 569.64,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "CPAY",
-"value": 444.504,
+"value": 451.45,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CPRT",
-"value": 55.0252,
+"value": 44.22,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "CPT",
-"value": 106.9253,
+"value": 105.8,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "CRH",
-"value": 90.0497,
+"value": 101.41,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CRL",
-"value": 216.3059,
+"value": 213.11,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CRM",
-"value": 314.8688,
+"value": 314.85,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CRWD",
-"value": 108.7889,
+"value": 108.79,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CSCO",
-"value": 82.7092,
+"value": 79.18,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CSGP",
-"value": 101.2974,
+"value": 101.43,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CSX",
-"value": 34.3909,
+"value": 38.43,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "CTAS",
-"value": 172.3812,
+"value": 172.38,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CTSH",
-"value": 111.5088,
+"value": 91.77,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CVNA",
-"value": 80.4266,
+"value": 82.85,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "CVS",
-"value": 82.1432,
+"value": 82.15,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "CVX",
-"value": 173.0732,
+"value": 181.15,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "D",
-"value": 71.6161,
+"value": 75.12,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DAL",
-"value": 61.0203,
+"value": 67.12,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "DASH",
-"value": 239.1384,
+"value": 246.85,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DD",
-"value": 74.29,
+"value": 72.69,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DDOG",
-"value": 196.3444,
+"value": 199.84,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DE",
-"value": 411.9485,
+"value": 421.27,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "DECK",
-"value": 155.1666,
+"value": 148.04,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DELL",
-"value": 243.4208,
+"value": 308.01,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DG",
-"value": 145.7221,
+"value": 145.24,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "DGX",
-"value": 169.7186,
+"value": 183.77,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DHI",
-"value": 165.9857,
+"value": 162.39,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "DHR",
-"value": 203.792,
+"value": 220.84,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "DIS",
-"value": 97.8359,
+"value": 101.7,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "DLR",
-"value": 174.0943,
+"value": 176.03,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "DLTR",
-"value": 114.6391,
+"value": 115.88,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "DOC",
-"value": 21.3104,
+"value": 21.1,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "DOV",
-"value": 196.5955,
+"value": 197.96,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "DOW",
-"value": 39.5877,
+"value": 39.76,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "DPZ",
-"value": 382.9187,
+"value": 382.91,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "DRI",
-"value": 187.249,
+"value": 186.92,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DTE",
-"value": 134.4565,
+"value": 134.5,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DUK",
-"value": 121.726,
+"value": 121.47,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DVA",
-"value": 173.0881,
+"value": 193.41,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "DVN",
-"value": 43.6189,
+"value": 43.61,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "DXCM",
-"value": 132.4567,
+"value": 103.49,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "EBAY",
-"value": 114.3279,
+"value": 120.03,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ECHO",
-"value": 18.1898,
+"value": 17.69,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "ECL",
-"value": 268.9731,
+"value": 274.44,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "ED",
-"value": 106.1212,
+"value": 106.36,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "EFX",
-"value": 282.5741,
+"value": 223.5,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "EG",
-"value": 470.7002,
+"value": 449.51,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "EIX",
-"value": 75.4331,
+"value": 71.81,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "EL",
-"value": 112.6364,
+"value": 110.96,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ELV",
-"value": 476.669,
+"value": 499.17,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "EME",
-"value": 681.0888,
+"value": 736.21,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "EMR",
-"value": 135.0947,
+"value": 135.91,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "EOG",
-"value": 166.5655,
+"value": 172.26,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "EQIX",
-"value": 887.6719,
+"value": 938.56,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "EQT",
-"value": 60.3979,
+"value": 59.73,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "ERIE",
-"value": 478.9474,
+"value": 328.29,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ES",
-"value": 79.0975,
+"value": 78.28,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ESS",
-"value": 219.0787,
+"value": 276.09,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "ETN",
-"value": 409.2295,
+"value": 415.66,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ETR",
-"value": 69.6194,
+"value": 70.5,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "EVRG",
-"value": 67.1923,
+"value": 67.45,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "EW",
-"value": 90.2935,
+"value": 90.94,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "EXC",
-"value": 49.1005,
+"value": 48.88,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "EXE",
-"value": 135.3275,
+"value": 138.24,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "EXPD",
-"value": 209.7016,
+"value": 215.84,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "EXPE",
-"value": 239.7657,
+"value": 242.18,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "EXR",
-"value": 148.2277,
+"value": 145.5,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "F",
-"value": 10.4896,
+"value": 10.79,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "FANG",
-"value": 220.7122,
+"value": 227.29,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "FAST",
-"value": 33.8695,
+"value": 35.54,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FCX",
-"value": 47.0202,
+"value": 56.58,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "FDS",
-"value": 337.8986,
+"value": 337.91,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FDX",
-"value": 286.862,
+"value": 289.63,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FDXF",
-"value": 99.2266,
+"value": 96.06,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FE",
-"value": 49.4995,
+"value": 50.59,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FERG",
-"value": 227.7375,
+"value": 250.25,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FFIV",
-"value": 388.0236,
+"value": 329.11,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FICO",
-"value": 1706.9292,
+"value": 1150.01,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "FIS",
-"value": 90.6042,
+"value": 92.35,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FISV",
-"value": 166.9594,
+"value": 166.46,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FITB",
-"value": 52.2277,
+"value": 50.31,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "FIX",
-"value": 849.7722,
+"value": 965.14,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "FLEX",
-"value": 54.7194,
+"value": 58.73,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "FOX",
-"value": 66.1812,
+"value": 71.62,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FOXA",
-"value": 66.1824,
+"value": 71.62,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "FRT",
-"value": 115.4415,
+"value": 111.46,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "FSLR",
-"value": 243.3224,
+"value": 263.25,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "FTNT",
-"value": 144.409,
+"value": 144.41,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "FTV",
-"value": 53.0087,
+"value": 66.07,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "GD",
-"value": 373.8095,
+"value": 375.15,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "GDDY",
-"value": 201.409,
+"value": 177.27,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "GE",
-"value": 289.0911,
+"value": 289.1,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "GEHC",
-"value": 96.3082,
+"value": 89.21,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "GEN",
-"value": 34.9309,
+"value": 35.58,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "GEV",
-"value": 799.9443,
+"value": 861.52,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "GILD",
-"value": 102.5716,
+"value": 112.8,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "GIS",
-"value": 51.8965,
+"value": 51.55,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "GL",
-"value": 159.3419,
+"value": 149.89,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "GLW",
-"value": 69.4288,
+"value": 72.46,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "GM",
-"value": 62.2077,
+"value": 67.72,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "GNRC",
-"value": 177.776,
+"value": 188.28,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "GOOG",
-"value": 377.5342,
+"value": 377.53,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "GOOGL",
-"value": 377.5201,
+"value": 377.53,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "GPC",
-"value": 155.4712,
+"value": 158.58,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "GPN",
-"value": 114.5485,
+"value": 117.4,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "GRMN",
-"value": 255.0708,
+"value": 262.72,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "GS",
-"value": 801.1812,
+"value": 830.52,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "GWW",
-"value": 1214.3772,
+"value": 1214.43,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "HAL",
-"value": 40.6875,
+"value": 38.67,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "HAS",
-"value": 76.2107,
+"value": 83.35,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "HBAN",
-"value": 17.6701,
+"value": 17.38,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "HCA",
-"value": 420.3616,
+"value": 420.36,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "HD",
-"value": 370.9838,
+"value": 371.77,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "HIG",
-"value": 129.2651,
+"value": 126.26,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "HII",
-"value": 278.3852,
+"value": 309.0,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "HLT",
-"value": 289.3753,
+"value": 304.65,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "HON",
-"value": 456.7502,
+"value": 545.18,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "HONA",
-"value": 157.3578,
+"value": 135.5,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "HOOD",
-"value": 65.1605,
+"value": 67.06,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "HPE",
-"value": 23.52,
+"value": 24.18,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "HPQ",
-"value": 25.0104,
+"value": 25.16,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "HRL",
-"value": 29.262,
+"value": 29.21,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "HSIC",
-"value": 75.44,
+"value": 73.79,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "HST",
-"value": 17.7105,
+"value": 17.8,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "HSY",
-"value": 183.431,
+"value": 216.05,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "HUBB",
-"value": 476.301,
+"value": 489.39,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "HUM",
-"value": 364.14,
+"value": 370.5,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "HWM",
-"value": 210.425,
+"value": 237.91,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "IBKR",
-"value": 61.7715,
+"value": 64.77,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "IBM",
-"value": 233.0973,
+"value": 236.43,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ICE",
-"value": 175.042,
+"value": 173.25,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "IDXX",
-"value": 428.8434,
+"value": 428.84,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "IEX",
-"value": 186.2845,
+"value": 205.39,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "IFF",
-"value": 58.218,
+"value": 55.65,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "ILMN",
-"value": 204.2664,
+"value": 129.69,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "INCY",
-"value": 110.0605,
+"value": 77.1,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "INTC",
-"value": 30.9005,
+"value": 40.24,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "INTU",
-"value": 708.0215,
+"value": 540.24,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "INVH",
-"value": 31.451,
+"value": 30.91,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "IP",
-"value": 43.802,
+"value": 43.37,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "IQV",
-"value": 218.8279,
+"value": 193.52,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "IR",
-"value": 90.4133,
+"value": 71.39,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "IRM",
-"value": 124.2783,
+"value": 125.47,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ISRG",
-"value": 270.7971,
+"value": 270.8,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "IT",
-"value": 546.2989,
+"value": 563.73,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ITW",
-"value": 193.3319,
+"value": 195.09,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "IVZ",
-"value": 18.49,
+"value": 23.52,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "J",
-"value": 109.6619,
+"value": 109.76,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "JBHT",
-"value": 208.5888,
+"value": 218.68,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "JBL",
-"value": 248.2412,
+"value": 257.98,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "JCI",
-"value": 104.8831,
+"value": 114.73,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "JKHY",
-"value": 168.0473,
+"value": 175.44,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "JNJ",
-"value": 217.9757,
+"value": 163.24,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "JPM",
-"value": 252.5713,
+"value": 252.52,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "KDP",
-"value": 47.9613,
+"value": 50.03,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "KEY",
-"value": 19.8805,
+"value": 18.44,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "KEYS",
-"value": 232.5052,
+"value": 238.33,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "KHC",
-"value": 25.5507,
+"value": 25.48,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "KIM",
-"value": 21.0907,
+"value": 21.07,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "KKR",
-"value": 131.8881,
+"value": 133.27,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "KLAC",
-"value": 129.4908,
+"value": 133.29,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "KMB",
-"value": 125.647,
+"value": 125.18,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "KMI",
-"value": 29.3708,
+"value": 23.02,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "KO",
-"value": 76.5919,
+"value": 75.99,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "KR",
-"value": 65.4491,
+"value": 66.06,
 "currency": "USD",
 "moat": "none"
 },
 {
-"symbol": "KVUE",
-"value": 16.4804,
-"currency": "USD",
-"moat": "narrow"
-},
-{
 "symbol": "L",
-"value": 107.0003,
+"value": 107.57,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "LDOS",
-"value": 179.2047,
+"value": 180.75,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "LEN",
-"value": 121.6915,
+"value": 119.38,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "LH",
-"value": 305.5202,
+"value": 311.58,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "LHX",
-"value": 278.5588,
+"value": 282.65,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "LII",
-"value": 480.6365,
+"value": 404.45,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "LIN",
-"value": 502.5766,
+"value": 502.56,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "LITE",
-"value": 251.5927,
+"value": 264.98,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "LLY",
-"value": 1528.5418,
+"value": 1779.07,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "LMT",
-"value": 562.0271,
+"value": 584.79,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "LNT",
-"value": 62.852,
+"value": 63.87,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "LOW",
-"value": 243.5192,
+"value": 240.71,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "LRCX",
-"value": 226.7549,
+"value": 226.75,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "LULU",
-"value": 301.8205,
+"value": 300.32,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "LUV",
-"value": 46.9303,
+"value": 47.66,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "LVS",
-"value": 75.543,
+"value": 60.76,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "LYB",
-"value": 71.9439,
+"value": 69.41,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "LYV",
-"value": 186.6426,
+"value": 178.88,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MA",
-"value": 561.9956,
+"value": 561.98,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MAA",
-"value": 140.8631,
+"value": 139.78,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "MAR",
-"value": 253.1691,
+"value": 232.79,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MAS",
-"value": 77.2125,
+"value": 78.85,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MCD",
-"value": 274.0331,
+"value": 274.03,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MCHP",
-"value": 75.0621,
+"value": 74.92,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MCK",
-"value": 867.5291,
+"value": 875.0,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MCO",
-"value": 461.8744,
+"value": 461.88,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MDLZ",
-"value": 72.8007,
+"value": 71.67,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MDT",
-"value": 91.6321,
+"value": 87.7,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MET",
-"value": 81.9075,
+"value": 82.66,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "META",
-"value": 905.6963,
+"value": 905.68,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MGM",
-"value": 49.9659,
+"value": 46.39,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MKC",
-"value": 74.005,
+"value": 69.57,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MLM",
-"value": 608.2782,
+"value": 625.95,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MMM",
-"value": 142.3765,
+"value": 149.16,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MNST",
-"value": 32.6305,
+"value": 32.63,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MO",
-"value": 60.1595,
+"value": 62.46,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MOS",
-"value": 29.7508,
+"value": 36.8,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "MPC",
-"value": 238.9612,
+"value": 240.47,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "MPWR",
-"value": 1245.0961,
+"value": 1142.21,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MRK",
-"value": 136.2785,
+"value": 126.48,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MRNA",
-"value": 23.0,
+"value": 22.72,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MRSH",
-"value": 244.6888,
+"value": 245.15,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MRVL",
-"value": 127.0914,
+"value": 131.56,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MS",
-"value": 134.8233,
+"value": 136.81,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MSCI",
-"value": 486.2084,
+"value": 486.2,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MSFT",
-"value": 564.5389,
+"value": 564.54,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MSI",
-"value": 445.4719,
+"value": 445.47,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "MTB",
-"value": 201.2678,
+"value": 200.03,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MTD",
-"value": 1386.0234,
+"value": 1393.98,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "MU",
-"value": 688.5707,
+"value": 934.17,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "NCLH",
-"value": 20.6691,
+"value": 20.51,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "NDAQ",
-"value": 96.3477,
+"value": 96.35,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "NDSN",
-"value": 309.3609,
+"value": 309.36,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "NEE",
-"value": 88.2829,
+"value": 91.16,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "NEM",
-"value": 72.8397,
+"value": 75.64,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "NFLX",
-"value": 82.6573,
+"value": 82.66,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "NI",
-"value": 37.8494,
+"value": 38.43,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "NKE",
-"value": 79.0301,
+"value": 43.93,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "NOC",
-"value": 644.2241,
+"value": 683.63,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "NOW",
-"value": 205.9056,
+"value": 197.75,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "NRG",
-"value": 90.7769,
+"value": 91.26,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "NSC",
-"value": 259.6324,
+"value": 268.52,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "NTAP",
-"value": 140.7001,
+"value": 142.36,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "NTRS",
-"value": 129.1638,
+"value": 130.28,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "NUE",
-"value": 153.6238,
+"value": 195.32,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "NVDA",
-"value": 309.2528,
+"value": 309.24,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "NVR",
-"value": 5471.8115,
+"value": 9451.7,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "NWS",
-"value": 40.2895,
+"value": 40.29,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "NWSA",
-"value": 29.8912,
+"value": 30.03,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "NXPI",
-"value": 265.3294,
+"value": 297.66,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "O",
-"value": 59.9204,
+"value": 59.34,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "ODFL",
-"value": 176.6871,
+"value": 183.06,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "OKE",
-"value": 114.8925,
+"value": 121.75,
+"currency": "USD",
+"moat": "narrow"
+},
+{
+"symbol": "OKTA",
+"value": 113.03,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "OMC",
-"value": 98.6075,
+"value": 88.04,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ON",
-"value": 64.6299,
+"value": 65.2,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ORCL",
-"value": 297.9979,
+"value": 299.91,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ORLY",
-"value": 76.1406,
+"value": 87.17,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "OTIS",
-"value": 85.85,
+"value": 90.96,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "OXY",
-"value": 52.9184,
+"value": 55.63,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "P",
-"value": 75.4604,
+"value": 75.46,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "PANW",
-"value": 199.5996,
+"value": 211.18,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "PAYX",
-"value": 151.1777,
+"value": 111.4,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PCAR",
-"value": 92.3182,
+"value": 118.63,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PCG",
-"value": 16.3593,
+"value": 16.33,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PEG",
-"value": 86.6147,
+"value": 86.46,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PEP",
-"value": 147.1268,
+"value": 158.94,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "PFE",
-"value": 32.7998,
+"value": 32.5,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PFG",
-"value": 90.8121,
+"value": 94.62,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PG",
-"value": 117.7162,
+"value": 165.87,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "PGR",
-"value": 326.3245,
+"value": 304.58,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PH",
-"value": 633.6801,
+"value": 649.13,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "PHM",
-"value": 149.4136,
+"value": 107.56,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "PKG",
-"value": 230.2107,
+"value": 286.51,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "PLD",
-"value": 136.4489,
+"value": 138.39,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "PLTR",
-"value": 143.9837,
+"value": 156.89,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "PM",
-"value": 183.3333,
+"value": 190.74,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "PNC",
-"value": 215.3763,
+"value": 231.51,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PNR",
-"value": 76.733,
+"value": 78.39,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "PNW",
-"value": 91.0782,
+"value": 91.24,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PODD",
-"value": 380.1068,
+"value": 385.44,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PPG",
-"value": 122.7536,
+"value": 116.5,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PPL",
-"value": 35.9693,
+"value": 35.74,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PRU",
-"value": 114.0825,
+"value": 115.0,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PSA",
-"value": 276.4521,
+"value": 321.14,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "PSX",
-"value": 194.5043,
+"value": 185.64,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "PTC",
-"value": 160.8088,
+"value": 167.38,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PWR",
-"value": 630.5288,
+"value": 566.56,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "PYPL",
-"value": 89.3052,
+"value": 88.44,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "Q",
-"value": 109.1662,
+"value": 109.17,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "QCOM",
-"value": 195.1084,
+"value": 195.11,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "RCL",
-"value": 250.9201,
+"value": 289.41,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "RDDT",
-"value": 211.7172,
+"value": 236.76,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "REG",
-"value": 68.5472,
+"value": 68.56,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "REGN",
-"value": 1112.2467,
+"value": 980.39,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "RF",
-"value": 26.2708,
+"value": 24.91,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "RJF",
-"value": 166.1735,
+"value": 172.13,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "RL",
-"value": 317.0353,
+"value": 318.87,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "RMD",
-"value": 270.3608,
+"value": 257.08,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "ROK",
-"value": 340.783,
+"value": 340.77,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ROL",
-"value": 58.5822,
+"value": 58.79,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ROP",
-"value": 686.4442,
+"value": 618.75,
 "currency": "USD",
-"moat": "narrow"
+"moat": "wide"
 },
 {
 "symbol": "ROST",
-"value": 191.3204,
+"value": 193.04,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "RSG",
-"value": 215.6722,
+"value": 219.8,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "RTX",
-"value": 196.3366,
+"value": 173.4,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "RVTY",
-"value": 112.7459,
+"value": 112.69,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "SBAC",
-"value": 275.5814,
+"value": 235.09,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "SBUX",
-"value": 118.0258,
+"value": 93.04,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "SCHW",
-"value": 95.9516,
+"value": 95.31,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "SHW",
-"value": 259.8958,
+"value": 359.17,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "SJM",
-"value": 99.1478,
+"value": 99.77,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "SKYD",
-"value": 7.1798,
+"value": 7.11,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "SLB",
-"value": 54.1602,
+"value": 50.27,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "SMCI",
-"value": 93.4778,
+"value": 75.17,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "SNA",
-"value": 346.5096,
+"value": 422.83,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "SNDK",
-"value": 1254.6161,
+"value": 1398.89,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "SNPS",
-"value": 315.1978,
+"value": 315.2,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "SO",
-"value": 85.1566,
+"value": 85.34,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "SOLV",
-"value": 134.3957,
+"value": 132.82,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "SPG",
-"value": 216.3141,
+"value": 216.64,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "SPGI",
-"value": 506.5458,
+"value": 506.57,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "SRE",
-"value": 73.2793,
+"value": 73.55,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "STE",
-"value": 220.9626,
+"value": 218.93,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "STLD",
-"value": 186.555,
+"value": 197.24,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "STT",
-"value": 112.9503,
+"value": 114.3,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "STX",
-"value": 202.0906,
+"value": 258.63,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "STZ",
-"value": 186.6951,
+"value": 178.46,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "SW",
-"value": 41.8805,
+"value": 39.87,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "SWK",
-"value": 94.1933,
+"value": 93.07,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "SWKS",
-"value": 76.48,
+"value": 82.46,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "SYF",
-"value": 65.5679,
+"value": 76.96,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "SYK",
-"value": 304.5909,
+"value": 404.27,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "SYY",
-"value": 59.5715,
+"value": 71.85,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "T",
-"value": 25.5589,
+"value": 22.48,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TDG",
-"value": 1642.927,
+"value": 1649.44,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TDY",
-"value": 547.4219,
+"value": 583.12,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TECH",
-"value": 81.5073,
+"value": 80.58,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TEL",
-"value": 210.2987,
+"value": 215.63,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TER",
-"value": 262.8631,
+"value": 317.31,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "TFC",
-"value": 48.3688,
+"value": 46.85,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TGT",
-"value": 159.6426,
+"value": 159.1,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TJX",
-"value": 144.3612,
+"value": 141.32,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TKO",
-"value": 359.0359,
+"value": 356.25,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "TMO",
-"value": 629.2025,
+"value": 629.47,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "TMUS",
-"value": 241.7114,
+"value": 245.74,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TPL",
-"value": 385.4565,
+"value": 375.05,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "TPR",
-"value": 97.1906,
+"value": 97.81,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "TRGP",
-"value": 187.5572,
+"value": 190.28,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "TRMB",
-"value": 72.1802,
+"value": 71.2,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TROW",
-"value": 128.8252,
+"value": 126.95,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TRV",
-"value": 284.5732,
+"value": 298.12,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TSCO",
-"value": 54.7256,
+"value": 58.11,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "TSLA",
-"value": 320.7879,
+"value": 338.39,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TSN",
-"value": 57.9187,
+"value": 57.84,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "TT",
-"value": 492.1378,
+"value": 523.4,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TTWO",
-"value": 220.4048,
+"value": 226.46,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TWLO",
-"value": 136.433,
+"value": 147.62,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TXN",
-"value": 186.1078,
+"value": 219.98,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "TXT",
-"value": 76.1709,
+"value": 83.73,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "TYL",
-"value": 531.2752,
+"value": 561.58,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "UAL",
-"value": 91.5091,
+"value": 99.21,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "UBER",
-"value": 125.3901,
+"value": 125.38,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "UDR",
-"value": 35.0488,
+"value": 34.78,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "UHS",
-"value": 248.4241,
+"value": 305.96,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ULTA",
-"value": 580.5884,
+"value": 618.37,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "UNH",
-"value": 446.0254,
+"value": 446.05,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "UNP",
-"value": 257.1508,
+"value": 283.61,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "UPS",
-"value": 100.4995,
+"value": 100.13,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "URI",
-"value": 1057.6392,
+"value": 987.31,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "USB",
-"value": 56.2919,
+"value": 55.1,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "V",
-"value": 330.4612,
+"value": 330.47,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "VEEV",
-"value": 271.5792,
+"value": 271.59,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "VICI",
-"value": 34.0375,
+"value": 33.56,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "VLO",
-"value": 182.0872,
+"value": 210.85,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "VLTO",
-"value": 89.9332,
+"value": 94.91,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "VMC",
-"value": 245.7596,
+"value": 269.93,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "VMRK",
-"value": 66.2407,
+"value": 65.85,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "VRSK",
-"value": 311.6316,
+"value": 246.98,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "VRSN",
-"value": 284.5606,
+"value": 348.41,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "VRT",
-"value": 243.8285,
+"value": 298.33,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "VRTX",
-"value": 505.9314,
+"value": 508.1,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "VST",
-"value": 89.5221,
+"value": 103.29,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "VTR",
-"value": 65.8691,
+"value": 69.35,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "VTRS",
-"value": 9.4,
+"value": 9.54,
 "currency": "USD",
 "moat": "none"
 },
 {
+"symbol": "VYLR",
+"value": 127.72,
+"currency": "USD",
+"moat": "narrow"
+},
+{
 "symbol": "VZ",
-"value": 40.982,
+"value": 41.91,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "WAB",
-"value": 238.0369,
+"value": 245.72,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "WAT",
-"value": 311.1693,
+"value": 321.1,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "WDAY",
-"value": 281.4329,
+"value": 323.92,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "WDC",
-"value": 74.4807,
+"value": 104.54,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "WEC",
-"value": 105.1916,
+"value": 107.11,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "WELL",
-"value": 159.3991,
+"value": 165.34,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "WFC",
-"value": 69.2499,
+"value": 67.61,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "WM",
-"value": 231.2112,
+"value": 231.2,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "WMB",
-"value": 66.2383,
+"value": 66.67,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "WMT",
-"value": 99.982,
+"value": 100.28,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "WRB",
-"value": 70.1287,
+"value": 68.8,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "WSM",
-"value": 194.4038,
+"value": 195.94,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "WST",
-"value": 305.3308,
+"value": 315.42,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "WTW",
-"value": 251.0465,
+"value": 256.76,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "WY",
-"value": 29.0185,
+"value": 28.56,
 "currency": "USD",
 "moat": "none"
 },
 {
 "symbol": "WYNN",
-"value": 142.3026,
+"value": 86.23,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "XEL",
-"value": 63.5596,
+"value": 64.36,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "XOM",
-"value": 136.0883,
+"value": 140.92,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "XYL",
-"value": 133.4069,
+"value": 132.74,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "XYZ",
-"value": 94.7149,
+"value": 90.67,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "YUM",
-"value": 138.7962,
+"value": 138.79,
 "currency": "USD",
 "moat": "wide"
 },
 {
 "symbol": "ZBH",
-"value": 120.2158,
+"value": 120.77,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ZBRA",
-"value": 387.3349,
+"value": 387.72,
 "currency": "USD",
 "moat": "narrow"
 },
 {
 "symbol": "ZTS",
-"value": 127.2063,
+"value": 119.62,
 "currency": "USD",
 "moat": "wide"
 }
