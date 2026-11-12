@@ -1,6 +1,12 @@
 {
- "version": "1.0.70",
- "notes": "A Superavite passou a funcionar só no site: app.superavite.com. Já não há atualizações da app instalada.",
- "date": "2026-11-04",
- "assets": {}
+ "version": "1.0.67",
+ "notes": "Lista de empresas: preço de pré-mercado e pós-mercado nas ações americanas, com a variação face ao fecho.",
+ "date": "2026-11-12",
+ "assets": {
+  "macos-arm64": {
+   "url": "https://github.com/joaoantunesdinis8/tio-dino-atualizacoes/raw/main/Tio-Dino-1.0.67-macOS-arm64.dmg",
+   "sha256": "739dacae369173da5e8d209dc3e723936efa9f3dcc29c47ba93d7080ef6d693c",
+   "size": 39018794
+  }
+ }
 }

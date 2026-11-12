@@ -1,8 +1,8 @@
-:root{--bg:#F6F1EA;--card:#FCFAF6;--fg:#101818;--mut:#566060;--acc:#6B1020;--acc2:#F2B632;--pos:#1E7A4F;--neg:#C2410C;--line:#DDD2C2}
-@media (prefers-color-scheme:dark){:root{--bg:#101818;--card:#18211F;--fg:#F6F1EA;--mut:#B3AEA4;--acc:#4A0A15;--line:#34423F;--pos:#4CC58A;--neg:#F4895A}}
-*{box-sizing:border-box}body{margin:0;font:16px "Manrope",-apple-system,system-ui,sans-serif;font-variant-numeric:tabular-nums;background:var(--bg);color:var(--fg);padding-bottom:calc(64px + env(safe-area-inset-bottom))}
+:root{--bg:#fff8ec;--card:#fff;--fg:#2b1d14;--mut:#7c6a5c;--acc:#e53b2c;--acc2:#ffc928;--pos:#15803d;--neg:#b91c1c;--line:#f0e2cc}
+@media (prefers-color-scheme:dark){:root{--bg:#17110d;--card:#231a14;--fg:#f5ebe0;--mut:#b3a293;--line:#3a2c22;--pos:#4ade80;--neg:#f87171}}
+*{box-sizing:border-box}body{margin:0;font:16px -apple-system,system-ui,sans-serif;background:var(--bg);color:var(--fg);padding-bottom:calc(64px + env(safe-area-inset-bottom))}
 header{display:flex;align-items:center;gap:8px;padding:calc(10px + env(safe-area-inset-top)) 16px 10px;background:var(--acc);color:#fff;position:sticky;top:0;z-index:2}
-header img{width:28px;height:28px;border-radius:7px}header h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:600;font-size:1.4rem;margin:0;flex:1}#when{font-size:.75rem;opacity:.9}#priv{background:none;border:0;color:#fff;font-size:1.2rem}
+header img{width:28px;height:28px;border-radius:7px}header h1{font-size:1.1rem;margin:0;flex:1}#when{font-size:.75rem;opacity:.9}#priv{background:none;border:0;color:#fff;font-size:1.2rem}
 main{padding:12px 16px;max-width:640px;margin:0 auto}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;margin-bottom:12px}
 .card h2{font-size:1rem;margin:0 0 8px}.kpis{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:12px}
 .kpis div{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:10px;display:flex;flex-direction:column;gap:2px;min-width:0}
@@ -21,7 +21,7 @@ nav[hidden]{display:none}
 .steps{padding-left:1.2rem;line-height:1.5}.steps li{margin-bottom:.35rem}
 
 .parcial{color:#7A4E00;font-weight:600}
-@media (prefers-color-scheme:dark){.parcial{color:#FCD889}nav button.on{color:#F2B632}}
+@media (prefers-color-scheme:dark){.parcial{color:#FCD889}}
 
 details.card summary{cursor:pointer;font-weight:600}
 label.btn{display:inline-block;text-align:center}
