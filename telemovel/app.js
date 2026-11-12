@@ -1,4 +1,4 @@
-// Tio Dino no telemóvel com os dados do computador. Duas formas: (1) caixa cifrada do Tio Dino — emparelha com um código
+// Superavite no telemóvel com os dados do computador. Duas formas: (1) caixa cifrada da Superavite — emparelha com um código
 // curto, vai buscar o resumo cifrado ao servidor e ENVIA entradas cifradas (faturas, despesas, classificações) que o
 // computador junta; (2) ficheiros da iCloud Drive escolhidos à mão (só consulta). O servidor só vê blocos cifrados; a
 // palavra-passe pede-se ao abrir e nunca é guardada nem enviada.
@@ -30,13 +30,13 @@ function welcome(msg = "") {
     <p>No computador: Definições → «Ver no telemóvel» → <b>Ligar o telemóvel</b> (ou «Código para ligar um telemóvel»). Aparece um código de 8 letras.</p>
     ${msg ? `<p class="neg">${esc(msg)}</p>` : ""}
     <form id="parf"><input id="pcode" placeholder="Código (ex.: ABCD 2345)" autocomplete="off" autocapitalize="characters">
-    <input type="password" id="ppw" placeholder="Palavra-passe do Tio Dino" autocomplete="current-password">
+    <input type="password" id="ppw" placeholder="Palavra-passe da Superavite" autocomplete="current-password">
     <button class="btn primary" id="pgo">Ligar</button></form></section>
     <details class="card"><summary>Em alternativa: ficheiros da iCloud Drive (só consulta)</summary>
     <ol class="steps"><li>No computador: Definições → «Ver no telemóvel» → ligar pela pasta.</li>
     <li>Aqui, toque em <b>Atualizar</b>. Abre-se a app Ficheiros.</li>
     <li>Vá a <b>iCloud Drive → Tio Dino</b> e escolha <i>telemovel.tiodino</i> e <i>chave.json</i> (pode escolher um de cada vez).</li>
-    <li>Escreva a palavra-passe do Tio Dino.</li></ol>
+    <li>Escreva a palavra-passe da Superavite.</li></ol>
     <button class="btn" id="pick">Atualizar</button></details>`;
   $("#pick").onclick = () => $("#files").click();
   $("#parf").onsubmit = async e => {
@@ -74,7 +74,7 @@ async function cloudOpen(pw) {
 }
 function askCloud(msg = "") {
   $("#tabs").hidden = true; $("#when").textContent = "";
-  $("#main").innerHTML = `<section class="card"><h2>Palavra-passe</h2><p>A mesma do Tio Dino no computador (ou o código de recuperação).</p>
+  $("#main").innerHTML = `<section class="card"><h2>Palavra-passe</h2><p>A mesma da Superavite no computador (ou o código de recuperação).</p>
     ${msg ? `<p class="neg">${esc(msg)}</p>` : ""}
     <form id="pwf"><input type="password" id="pw" autocomplete="current-password" autofocus><button class="btn primary" id="go">Abrir</button></form>
     <p><button class="btn" id="unpair">Desligar este telemóvel</button></p></section>`;
@@ -100,7 +100,7 @@ const blobB64 = async b => { const u8 = new Uint8Array(await b.arrayBuffer()); l
 
 function askPassword(pair, msg = "") {
   $("#tabs").hidden = true; $("#when").textContent = "";
-  $("#main").innerHTML = `<section class="card"><h2>Palavra-passe</h2><p>A mesma do Tio Dino no computador (ou o código de recuperação).</p>
+  $("#main").innerHTML = `<section class="card"><h2>Palavra-passe</h2><p>A mesma da Superavite no computador (ou o código de recuperação).</p>
     ${msg ? `<p class="neg">${esc(msg)}</p>` : ""}
     <form id="pwf"><input type="password" id="pw" autocomplete="current-password" autofocus>
     <button class="btn primary" id="go">Abrir</button></form>
@@ -118,7 +118,7 @@ $("#files").onchange = async () => {
   const texts = await Promise.all([...$("#files").files].map(f => f.text()));
   $("#files").value = "";
   const chave = texts.find(t => t.includes('"kdf"')), file = texts.find(t => !t.includes('"kdf"') && t.includes('"ct"'));
-  if (!chave && !file) return welcome("Esses ficheiros não são do Tio Dino. Escolha telemovel.tiodino e chave.json.");
+  if (!chave && !file) return welcome("Esses ficheiros não são da Superavite. Escolha telemovel.tiodino e chave.json.");
   let old = null; try { old = await store("get"); } catch { }
   const pair = { file: file || old?.file, chave: chave || old?.chave, saved: new Date().toISOString() };
   try { await store("put", pair); } catch { }
@@ -130,7 +130,7 @@ $("#files").onchange = async () => {
 function render() {
   $("#tabs").hidden = false;
   document.querySelectorAll("#tabs [data-cloud]").forEach(b => b.hidden = !KEY);
-  $("#when").textContent = `${SNAP.offline ? "sem internet · " : ""}dados de ${new Date(SNAP.generated).toLocaleString("pt-PT", { dateStyle: "short", timeStyle: "short" })}`;
+  $("#when").textContent = `${SNAP.assistant_name || "Assistente"} · ${SNAP.offline ? "sem internet · " : ""}dados de ${new Date(SNAP.generated).toLocaleString("pt-PT", { dateStyle: "short", timeStyle: "short" })}`;
   const spaces = Object.keys(SNAP.spaces || {});
   if (!spaces.includes(SPACE)) SPACE = spaces[0] || "pessoal";
   const sw = spaces.length > 1 ? `<div class="seg">${spaces.map(s => `<button data-s="${s}" class="${s === SPACE ? "on" : ""}">${s === "pessoal" ? "Pessoal" : "Empresa"}</button>`).join("")}</div>` : "";
